@@ -1,0 +1,56 @@
+{
+  "flashcards": [
+    {
+      "id": "lesson-1",
+      "flashCardName": "Lesson 1",
+      "flashCardData": [
+        {
+          "vocabulary": "Shake",
+          "type":"verb",
+          "spelling": "/ʃeɪk/",
+          "vietnamese": "rung, lắc (chuyển động qua lại)",
+          "sentence_1": "We are shaking hands",
+          "sentence_2": "They are shaking hands",
+          "image": ""
+        },
+        {
+          "vocabulary": "Hand",
+          "type":"noun",
+          "spelling": "/hænd/",
+          "vietnamese": "bàn tay",
+          "sentence": "We are shaking hands",
+          "image": ""
+        },
+        
+        {
+          "vocabulary": "Fill",
+          "type":"verb",
+          "spelling": "/fɪl/",
+          "vietnamese": "làm đầy, lấp đầy chỗ trống",
+          "sentence_1": "She is filling her glass",
+          "sentence_2": "They are filling their glasses",
+          "image": ""
+        },
+        {
+          "vocabulary": "Glass",
+          "type":"noun",
+          "spelling": "/ɡlæs/",
+          "vietnamese": "cốc thủy tinh",
+          "sentence_1": "She is filling her glass",
+          "sentence_2": "They are filling their glasses",
+          "image": ""
+        }
+        ,
+        {
+          "vocabulary": "Applaud",
+          "type":"verb",
+          "spelling": "/ɡlæs/",
+          "vietnamese": "cốc thủy tinh",
+          "sentence_1": "She is filling her glass",
+          "sentence_2": "They are filling their glasses",
+          "image": ""
+        }
+      ]
+    }
+  ]
+}
