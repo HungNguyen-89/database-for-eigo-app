@@ -5,50 +5,59 @@
       "flashCardName": "Lesson 1",
       "flashCardData": [
         {
-          "vocabulary": "Shake",
-          "type":"verb",
-          "spelling": "/ʃeɪk/",
-          "vietnamese": "rung, lắc (chuyển động qua lại)",
-          "sentence_1": "We are shaking hands",
-          "sentence_2": "They are shaking hands",
-          "image": ""
+          "word": "Add",
+          "partOfSpeech":"verb",
+          "phonetic": "/æd/",
+          "definitionOfWord":"(often with to) to put (one thing) to or with (another)",
+          "meaning": "thêm vào",
+          "example_1": "He added some water to his whisky.",
+          "example_2":"",
+          "image": "",
+          "audio":""
         },
         {
-          "vocabulary": "Hand",
-          "type":"noun",
-          "spelling": "/hænd/",
-          "vietnamese": "bàn tay",
-          "sentence": "We are shaking hands",
-          "image": ""
-        },
-        
-        {
-          "vocabulary": "Fill",
-          "type":"verb",
-          "spelling": "/fɪl/",
-          "vietnamese": "làm đầy, lấp đầy chỗ trống",
-          "sentence_1": "She is filling her glass",
-          "sentence_2": "They are filling their glasses",
-          "image": ""
+          "word": "Agree",
+          "partOfSpeech":"verb",
+          "phonetic": "/əˈɡriː/",
+          "definitionOfWord":"to say that one will do or allow something",
+          "meaning": "đồng ý",
+          "example_1": "He agreed to our request.",
+          "example_2":"",
+          "image": "",
+          "audio":""
         },
         {
-          "vocabulary": "Glass",
-          "type":"noun",
-          "spelling": "/ɡlæs/",
-          "vietnamese": "cốc thủy tinh",
-          "sentence_1": "She is filling her glass",
-          "sentence_2": "They are filling their glasses",
-          "image": ""
-        }
-        ,
+          "word": "Allow",
+          "partOfSpeech":"verb",
+          "phonetic": "/əˈlaʊ/",
+          "definitionOfWord":"not to forbid or prevent",
+          "meaning": "cho phép",
+          "example_1": "Smoking is not allowed inside the restaurant.",
+          "example_2":"",
+          "image": "",
+          "audio":""
+        },
         {
-          "vocabulary": "Applaud",
-          "type":"verb",
-          "spelling": "/ɡlæs/",
-          "vietnamese": "cốc thủy tinh",
-          "sentence_1": "She is filling her glass",
-          "sentence_2": "They are filling their glasses",
-          "image": ""
+          "word": "Appear",
+          "partOfSpeech":"verb",
+          "phonetic": "/əˈpɪər/",
+          "definitionOfWord":"to come into view",
+          "meaning": "xuất hiện",
+          "example_1": "A man suddenly appeared round the corner.",
+          "example_2":"",
+          "image": "",
+          "audio":""
+        },
+        {
+          "word": "Ask",
+          "partOfSpeech":"verb",
+          "phonetic": "/æsk/",
+          "definitionOfWord":"to put a question",
+          "meaning": "hỏi",
+          "example_1": "He asked me what the time was.",
+          "example_2":"",
+          "image": "",
+          "audio":""
         }
       ]
     }
