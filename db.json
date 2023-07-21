@@ -1,8 +1,25 @@
 {
   "flashcards": [
     {
-      "id": "lesson-1",
-      "flashCardName": "Lesson 1",
+      "id": "verb",
+      "flashCardData": [
+        {
+          "id": "part-1",
+          "link": "verb-part-1",
+          "name": "PART 1"
+        },
+        {
+          "id": "part-2",
+          "link": "verb-part-2",
+          "name": "PART 2"
+        }
+      ]
+    }
+  ],
+
+  "flashcards-verb-data": [
+    {
+      "id": "verb-part-1",
       "flashCardData": [
         {
           "word": "Add",
