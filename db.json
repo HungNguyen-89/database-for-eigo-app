@@ -14,6 +14,21 @@
           "name": "PART 2"
         }
       ]
+    },
+    {
+      "id": "adjective",
+      "flashCardData": [
+        {
+          "id": "part-1",
+          "link": "adjective-part-1",
+          "name": "PART 1"
+        },
+        {
+          "id": "part-2",
+          "link": "adjective-part-2",
+          "name": "PART 2"
+        }
+      ]
     }
   ],
 
