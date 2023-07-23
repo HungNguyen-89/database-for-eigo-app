@@ -16,16 +16,16 @@
       ]
     },
     {
-      "id": "adverb",
+      "id": "adv",
       "flashCardData": [
         {
           "id": "basic-1",
-          "link": "adverb-basic-1",
+          "link": "adv-basic-1",
           "name": "BASIC 1"
         },
         {
           "id": "basic-2",
-          "link": "adverb-basic-2",
+          "link": "adv-basic-2",
           "name": "BASIC 2"
         }
       ]
@@ -589,9 +589,9 @@
       ]
     }
   ],
-  "flashcards-adverb-data": [
+  "flashcards-adv-data": [
     {
-      "id": "adverb-basic-1",
+      "id": "adv-basic-1",
       "flashCardData": [
         {
           "word": "always",
