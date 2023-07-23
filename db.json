@@ -16,17 +16,17 @@
       ]
     },
     {
-      "id": "adjective",
+      "id": "adverb",
       "flashCardData": [
         {
-          "id": "part-1",
-          "link": "adjective-part-1",
-          "name": "PART 1"
+          "id": "basic-1",
+          "link": "adverb-basic-1",
+          "name": "BASIC 1"
         },
         {
-          "id": "part-2",
-          "link": "adjective-part-2",
-          "name": "PART 2"
+          "id": "basic-2",
+          "link": "adverb-basic-2",
+          "name": "BASIC 2"
         }
       ]
     }
@@ -582,6 +582,373 @@
           "definitionOfWord": "to create, form or produce",
           "meaning": "làm; tạo ra",
           "example_1": "I’m going to make lunch/coffee.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        }
+      ]
+    }
+  ],
+  "flashcards-adverb-data": [
+    {
+      "id": "adverb-basic-1",
+      "flashCardData": [
+        {
+          "word": "always",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ˈɔːl.weɪz/",
+          "definitionOfWord": "every time or all the time",
+          "meaning": "luôn luôn",
+          "example_1": "She always spells my name wrong.",
+          "example_1_vn": "Cô ấy luôn đánh vần sai tên tôi.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "usually",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ˈjuː.ʒu.ə.li/",
+          "definitionOfWord": "in the way that most often happens",
+          "meaning": "thường xuyên",
+          "example_1": "I usually just have a sandwich for lunch.",
+          "example_1_vn": "Tôi thường chỉ có một chiếc bánh sandwich cho bữa trưa.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "frequently",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ˈfriː.kwənt.li/",
+          "definitionOfWord": "often",
+          "meaning": "thường xuyên",
+          "example_1": "I see him frequently.",
+          "example_1_vn": "Tôi gặp anh ấy thường xuyên.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "often",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ˈɒf.ən/",
+          "definitionOfWord": "many times",
+          "meaning": "thường xuyên",
+          "example_1": "I often see him in the garden.",
+          "example_1_vn": "Tôi thường thấy anh ấy trong vườn.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "sometimes",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ˈsʌm.taɪmz/",
+          "definitionOfWord": "on some occasions but not always or often",
+          "meaning": "thỉnh thoảng",
+          "example_1": "He sometimes goes to America.",
+          "example_1_vn": "Anh ấy thỉnh thoảng đi Mỹ.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "occasionally",
+          "partOfSpeech": "adverb",
+          "phonetic": "/əˈkeɪ.ʒən.əl.i/",
+          "definitionOfWord": "sometimes but not often",
+          "meaning": "thỉnh thoảng",
+          "example_1": "I see him occasionally in town.",
+          "example_1_vn": "Tôi thỉnh thoảng gặp anh ấy trong thị trấn.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "seldom",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ˈsel.dəm/",
+          "definitionOfWord": "almost never",
+          "meaning": "hiếm khi",
+          "example_1": "Now that we have a baby, we seldom get the chance to go to the cinema.",
+          "example_1_vn": "Bây giờ chúng tôi có em bé, chúng tôi hiếm khi có cơ hội đi xem phim.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "rarely",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ˈreə.li/",
+          "definitionOfWord": "not often",
+          "meaning": "hiếm khi",
+          "example_1": "I rarely go to bed before midnight.",
+          "example_1_vn": "Tôi hiếm khi đi ngủ trước nửa đêm.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "hardly",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ˈhɑːd.li/",
+          "definitionOfWord": "only just; almost not",
+          "meaning": "hầu như không",
+          "example_1": "We hardly ever (= almost never) go to concerts.",
+          "example_1_vn": "Chúng tôi hầu như không bao giờ (= gần như không bao giờ) đi xem hòa nhạc.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "never",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ˈnev.ər/",
+          "definitionOfWord": "not at any time or not on any occasion",
+          "meaning": "không bao giờ",
+          "example_1": "I shall never go there again.",
+          "example_1_vn": "Tôi sẽ không bao giờ đến đó một lần nữa.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "already",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ɔːlˈred.i/",
+          "definitionOfWord": "before the present time",
+          "meaning": "đã…rồi",
+          "example_1": "I had already gone when Tom arrived.",
+          "example_1_vn": "Tôi đã đi khi Tom đến.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "lately",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ˈleɪt.li/",
+          "definitionOfWord": "recently",
+          "meaning": "gần đây",
+          "example_1": "Have you seen her lately?",
+          "example_1_vn": "Gần đây bạn có thấy cô ấy không?",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "still",
+          "partOfSpeech": "adverb",
+          "phonetic": "/stɪl/",
+          "definitionOfWord": "continuing to happen or continuing to be done",
+          "meaning": "vẫn",
+          "example_1": "I'm still hungry.",
+          "example_1_vn": "Tôi vẫn còn đói.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "tomorrow",
+          "partOfSpeech": "adverb",
+          "phonetic": "/təˈmɒr.əʊ/",
+          "definitionOfWord": "(on) the day after today",
+          "meaning": "ngày mai",
+          "example_1": "I'm having dinner with Rachel tomorrow night.",
+          "example_1_vn": "Tôi sẽ ăn tối với Rachel vào tối mai.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "early",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ˈɜː.li/",
+          "definitionOfWord": "near the beginning of a period of time, or before the usual, expected, or planned time",
+          "meaning": "sớm",
+          "example_1": "If you finish early you can go home.",
+          "example_1_vn": "Nếu bạn hoàn thành sớm bạn có thể về nhà.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "now",
+          "partOfSpeech": "adverb",
+          "phonetic": "/naʊ/",
+          "definitionOfWord": "at the present time, not in the past or future",
+          "meaning": "ngay bây giờ",
+          "example_1": "I may eat something later, but I'm not hungry now.",
+          "example_1_vn": "Tôi có thể ăn gì đó sau, nhưng bây giờ tôi không đói.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "soon",
+          "partOfSpeech": "adverb",
+          "phonetic": "/suːn/",
+          "definitionOfWord": "in or within a short time; before long; quickly",
+          "meaning": "sớm thôi (chẳng bao lâu nữa, chẳng mấy chốc nữa)",
+          "example_1": "She'll be here soon.",
+          "example_1_vn": "Cô ấy sẽ sớm có mặt ở đây.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "yesterday",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ˈjes.tə.deɪ/",
+          "definitionOfWord": "(on) the day before today",
+          "meaning": "hôm qua",
+          "example_1": "I saw her yesterday afternoon.",
+          "example_1_vn": "Tôi thấy cô ấy chiều hôm qua.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "finally",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ˈfaɪ.nəl.i/",
+          "definitionOfWord": "after a long time or some difficulty",
+          "meaning": "cuối cùng",
+          "example_1": "We finally got home at midnight.",
+          "example_1_vn": "Cuối cùng chúng tôi về nhà lúc nửa đêm.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "recently",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ˈriː.sənt.li/",
+          "definitionOfWord": "not long ago, or at a time that started not long ago",
+          "meaning": "gần đây",
+          "example_1": "He came to see me recently.",
+          "example_1_vn": "Anh ấy đến gặp tôi gần đây.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "besides",
+          "partOfSpeech": "adverb",
+          "phonetic": "/bɪˈsaɪdz/",
+          "definitionOfWord": "in addition to; also",
+          "meaning": "ngoài ra",
+          "example_1": "She won't mind if you're late - besides, it's hardly your fault.",
+          "example_1_vn": "Cô ấy sẽ không phiền nếu bạn đến muộn - ngoài ra, đó không phải là lỗi của bạn.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "however",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ˌhaʊˈev.ər/",
+          "definitionOfWord": "despite whatever amount or degree",
+          "meaning": "mặc dù",
+          "example_1": "However hungry I am, I never seem to be able to finish off a whole pizza.",
+          "example_1_vn": "Dù đói đến đâu, tôi dường như không bao giờ có thể ăn hết một chiếc bánh pizza.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "then",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ðen/",
+          "definitionOfWord": "next or after that",
+          "meaning": "sau đó",
+          "example_1": "Let me finish this job, then we'll go.",
+          "example_1_vn": "Hãy để tôi hoàn thành công việc này, sau đó chúng ta sẽ đi.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "instead",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ɪnˈsted/",
+          "definitionOfWord": "in place of someone or something else",
+          "meaning": "thay vào đó",
+          "example_1": "There's no coffee - would you like a cup of tea instead?",
+          "example_1_vn": "Không có cà phê - thay vào đó bạn có muốn một tách trà không?",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "moreover ",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ˌmɔːˈrəʊ.vər/",
+          "definitionOfWord": "(used to add information) also and more importantly",
+          "meaning": "hơn nữa",
+          "example_1": "I don’t like the idea, and moreover, I think it’s illegal.",
+          "example_1_vn": "Tôi không thích ý tưởng này, và hơn nữa, tôi nghĩ nó là bất hợp pháp.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "furthermore",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ˌfɜː.ðəˈmɔːr/",
+          "definitionOfWord": "in addition; more importantly",
+          "meaning": "hơn nữa",
+          "example_1": "The house is beautiful. Furthermore, it's in a great location.",
+          "example_1_vn": "Ngôi nhà đẹp. Hơn nữa, nó ở một vị trí tuyệt vời.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "here",
+          "partOfSpeech": "adverb",
+          "phonetic": "/hɪər/",
+          "definitionOfWord": "in, at, or to this place",
+          "meaning": "ở đây, ở chỗ này",
+          "example_1": "I've lived here for about two years.",
+          "example_1_vn": "Tôi đã sống ở đây khoảng hai năm.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "there",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ðeər/",
+          "definitionOfWord": "(to, at, or in) that place",
+          "meaning": "ở kia, ở đó",
+          "example_1": "Put the chair there.",
+          "example_1_vn": "Đặt cái ghế ở đó.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "everywhere",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ˈev.ri.weər/",
+          "definitionOfWord": "to, at, or in all places or the whole of a place",
+          "meaning": "khắp nơi",
+          "example_1": "I looked everywhere for my keys.",
+          "example_1_vn": "Tôi đã tìm khắp nơi để tìm chìa khóa của mình.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "somewhere",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ˈsʌm.weər/",
+          "definitionOfWord": "(in or to) some place not known or not named",
+          "meaning": "một nơi nào đó",
+          "example_1": "They live somewhere in London.",
+          "example_1_vn": "Họ sống đâu đó ở London.",
           "example_2": "",
           "image": "",
           "audio": ""
