@@ -603,7 +603,7 @@
           "example_1_vn": "Cô ấy luôn đánh vần sai tên tôi.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/always-us.mp3"
         },
         {
           "word": "usually",
@@ -615,7 +615,7 @@
           "example_1_vn": "Tôi thường chỉ có một chiếc bánh sandwich cho bữa trưa.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/usually-us.mp3"
         },
         {
           "word": "frequently",
@@ -627,7 +627,7 @@
           "example_1_vn": "Tôi gặp anh ấy thường xuyên.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/frequently-us.mp3"
         },
         {
           "word": "often",
@@ -639,7 +639,7 @@
           "example_1_vn": "Tôi thường thấy anh ấy trong vườn.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/often-us.mp3"
         },
         {
           "word": "sometimes",
@@ -651,7 +651,7 @@
           "example_1_vn": "Anh ấy thỉnh thoảng đi Mỹ.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sometimes-us.mp3"
         },
         {
           "word": "occasionally",
@@ -663,7 +663,7 @@
           "example_1_vn": "Tôi thỉnh thoảng gặp anh ấy trong thị trấn.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/occasionally-us.mp3"
         },
         {
           "word": "seldom",
@@ -675,7 +675,7 @@
           "example_1_vn": "Bây giờ chúng tôi có em bé, chúng tôi hiếm khi có cơ hội đi xem phim.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/seldom-us.mp3"
         },
         {
           "word": "rarely",
@@ -687,7 +687,7 @@
           "example_1_vn": "Tôi hiếm khi đi ngủ trước nửa đêm.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rarely-us.mp3"
         },
         {
           "word": "hardly",
@@ -699,7 +699,7 @@
           "example_1_vn": "Chúng tôi hầu như không bao giờ (= gần như không bao giờ) đi xem hòa nhạc.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hardly-us.mp3"
         },
         {
           "word": "never",
@@ -711,7 +711,7 @@
           "example_1_vn": "Tôi sẽ không bao giờ đến đó một lần nữa.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/never-us.mp3"
         },
         {
           "word": "already",
@@ -723,7 +723,7 @@
           "example_1_vn": "Tôi đã đi khi Tom đến.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/already-us.mp3"
         },
         {
           "word": "lately",
@@ -735,7 +735,7 @@
           "example_1_vn": "Gần đây bạn có thấy cô ấy không?",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lately-us.mp3"
         },
         {
           "word": "still",
@@ -747,7 +747,7 @@
           "example_1_vn": "Tôi vẫn còn đói.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/still-us.mp3"
         },
         {
           "word": "tomorrow",
@@ -759,7 +759,7 @@
           "example_1_vn": "Tôi sẽ ăn tối với Rachel vào tối mai.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tomorrow-us.mp3"
         },
         {
           "word": "early",
@@ -771,7 +771,7 @@
           "example_1_vn": "Nếu bạn hoàn thành sớm bạn có thể về nhà.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/early-us.mp3"
         },
         {
           "word": "now",
@@ -783,7 +783,7 @@
           "example_1_vn": "Tôi có thể ăn gì đó sau, nhưng bây giờ tôi không đói.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/now-us.mp3"
         },
         {
           "word": "soon",
@@ -795,7 +795,7 @@
           "example_1_vn": "Cô ấy sẽ sớm có mặt ở đây.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/soon-us.mp3"
         },
         {
           "word": "yesterday",
@@ -807,7 +807,7 @@
           "example_1_vn": "Tôi thấy cô ấy chiều hôm qua.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/yesterday-us.mp3"
         },
         {
           "word": "finally",
@@ -819,7 +819,7 @@
           "example_1_vn": "Cuối cùng chúng tôi về nhà lúc nửa đêm.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/finally-us.mp3"
         },
         {
           "word": "recently",
@@ -831,7 +831,7 @@
           "example_1_vn": "Anh ấy đến gặp tôi gần đây.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/recently-us.mp3"
         },
         {
           "word": "besides",
@@ -843,7 +843,7 @@
           "example_1_vn": "Cô ấy sẽ không phiền nếu bạn đến muộn - ngoài ra, đó không phải là lỗi của bạn.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/besides-us.mp3"
         },
         {
           "word": "however",
@@ -855,7 +855,7 @@
           "example_1_vn": "Dù đói đến đâu, tôi dường như không bao giờ có thể ăn hết một chiếc bánh pizza.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/however-us.mp3"
         },
         {
           "word": "then",
@@ -867,7 +867,7 @@
           "example_1_vn": "Hãy để tôi hoàn thành công việc này, sau đó chúng ta sẽ đi.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/then-us.mp3"
         },
         {
           "word": "instead",
@@ -879,7 +879,7 @@
           "example_1_vn": "Không có cà phê - thay vào đó bạn có muốn một tách trà không?",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/instead-us.mp3"
         },
         {
           "word": "moreover ",
@@ -891,7 +891,7 @@
           "example_1_vn": "Tôi không thích ý tưởng này, và hơn nữa, tôi nghĩ nó là bất hợp pháp.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/moreover -us.mp3"
         },
         {
           "word": "furthermore",
@@ -903,7 +903,7 @@
           "example_1_vn": "Ngôi nhà đẹp. Hơn nữa, nó ở một vị trí tuyệt vời.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/furthermore-us.mp3"
         },
         {
           "word": "here",
@@ -915,7 +915,7 @@
           "example_1_vn": "Tôi đã sống ở đây khoảng hai năm.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/here-us.mp3"
         },
         {
           "word": "there",
@@ -927,7 +927,7 @@
           "example_1_vn": "Đặt cái ghế ở đó.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/there-us.mp3"
         },
         {
           "word": "everywhere",
@@ -939,7 +939,7 @@
           "example_1_vn": "Tôi đã tìm khắp nơi để tìm chìa khóa của mình.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/everywhere-us.mp3"
         },
         {
           "word": "somewhere",
@@ -951,7 +951,7 @@
           "example_1_vn": "Họ sống đâu đó ở London.",
           "example_2": "",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/somewhere-us.mp3"
         }
       ]
     }
