@@ -6,12 +6,17 @@
         {
           "id": "part-1",
           "link": "verb-part-1",
-          "name": "PART 1"
+          "name": "BASIC 1"
         },
         {
           "id": "part-2",
           "link": "verb-part-2",
-          "name": "PART 2"
+          "name": "BASIC 2"
+        },
+        {
+          "id": "part-3",
+          "link": "verb-part-3",
+          "name": "BASIC 3"
         }
       ]
     },
@@ -37,7 +42,7 @@
       "id": "verb-part-1",
       "flashCardData": [
         {
-          "word": "Add",
+          "word": "Hear",
           "partOfSpeech": "verb",
           "phonetic": "/æd/",
           "definitionOfWord": "(often with to) to put (one thing) to or with (another)",
@@ -585,6 +590,179 @@
           "example_2": "",
           "image": "",
           "audio": ""
+        }
+      ]
+    },
+    {
+      "id": "verb-part-2",
+      "flashCardData": [
+        {
+          "word": "hear",
+          "partOfSpeech": "verb",
+          "phonetic": "/hɪər/",
+          "definitionOfWord": "to receive or become conscious of a sound using your ears",
+          "meaning": "nghe",
+          "example_1": "She heard a noise outside.",
+          "example_1_vn": "Cô nghe thấy tiếng động bên ngoài.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hear-us.mp3"
+        },
+        {
+          "word": "help",
+          "partOfSpeech": "verb",
+          "phonetic": "/help/",
+          "definitionOfWord": "to make it possible or easier for someone to do something, by doing part of the work yourself or by providing advice, money, support, etc",
+          "meaning": "giúp đỡ",
+          "example_1": "My dad said he would help with the costs of buying a house.",
+          "example_1_vn": "Bố tôi nói rằng ông sẽ giúp đỡ chi phí mua nhà.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/help-us.mp3"
+        },
+        {
+          "word": "hold",
+          "partOfSpeech": "verb",
+          "phonetic": "/həʊld/",
+          "definitionOfWord": "to take and keep something in your hand or arms",
+          "meaning": "cầm, nắm, giữ",
+          "example_1": "Can you hold the bag while I open the door?",
+          "example_1_vn": "Bạn có thể giữ cái túi trong khi tôi mở cửa không?",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hold-us.mp3"
+        },
+        {
+          "word": "hope",
+          "partOfSpeech": "verb",
+          "phonetic": "/həʊp/",
+          "definitionOfWord": "to want something to happen or to be true, and usually have a good reason to think that it might",
+          "meaning": "hy vọng; ước mongữ",
+          "example_1": "I'm hoping for an interview next week.",
+          "example_1_vn": "Tôi đang hy vọng cho một cuộc phỏng vấn vào tuần tới.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hope-us.mp3"
+        }
+        ,
+        {
+          "word": "include",
+          "partOfSpeech": "verb",
+          "phonetic": "/ɪnˈkluːd/",
+          "definitionOfWord": "to contain something as a part of something else, or to make something part of something else",
+          "meaning": "bao gồm",
+          "example_1": "Tax and service are included in the bill.",
+          "example_1_vn": "Thuế và dịch vụ được bao gồm trong hóa đơn.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/include-us.mp3"
+        }
+        ,
+        {
+          "word": "involve",
+          "partOfSpeech": "verb",
+          "phonetic": "/ɪnˈvɒlv/",
+          "definitionOfWord": "If an activity, situation, etc. involves something, that thing is a part of the activity, etc.",
+          "meaning": "liên quan, dính dáng",
+          "example_1": "Research involving the use of biological warfare agents will be used for defensive defensive purposes.",
+          "example_1_vn": "Nghiên cứu liên quan đến việc sử dụng các tác nhân chiến tranh sinh học sẽ được sử dụng cho mục đích phòng thủ phòng thủ.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/involve-us.mp3"
+        } ,
+        {
+          "word": "keep",
+          "partOfSpeech": "verb",
+          "phonetic": "/kiːp/",
+          "definitionOfWord": "to have or continue to have in your possession",
+          "meaning": "giữ",
+          "example_1": "Do you want this photograph back or can I keep it?",
+          "example_1_vn": "Bạn có muốn bức ảnh này trở lại hoặc tôi có thể giữ nó?",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/keep-us.mp3"
+        },
+        {
+          "word": "know",
+          "partOfSpeech": "verb",
+          "phonetic": "/nəʊ/",
+          "definitionOfWord": "to have information in your mind",
+          "meaning": "biết",
+          "example_1": "She knows the name of every kid in the school.",
+          "example_1_vn": "Cô ấy biết tên của mọi đứa trẻ trong trường.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/know-us.mp3"
+        },
+        {
+          "word": "lead",
+          "partOfSpeech": "verb",
+          "phonetic": "/liːd/",
+          "definitionOfWord": "to control a group of people, a country, or a situation",
+          "meaning": "dẫn dắt",
+          "example_1": "I've asked Gemma to lead the discussion.",
+          "example_1_vn": "Tôi đã yêu cầu Gemma dẫn dắt cuộc thảo luận.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lead-us.mp3"
+        },
+        {
+          "word": "leave",
+          "partOfSpeech": "verb",
+          "phonetic": "/liːv/",
+          "definitionOfWord": "to go away from someone or something, for a short time or permanently",
+          "meaning": "rời đi",
+          "example_1": "The bus leaves in five minutes.",
+          "example_1_vn": "Xe buýt rời đi trong năm phút nữa.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/leave-us.mp3"
+        },
+        {
+          "word": "let",
+          "partOfSpeech": "verb",
+          "phonetic": "/let/",
+          "definitionOfWord": "to allow something to happen or someone to do something by not doing anything to stop an action or by giving your permission",
+          "meaning": "cho phép",
+          "example_1": "She wanted to go but her parents wouldn't let her.",
+          "example_1_vn": "Cô ấy muốn đi nhưng bố mẹ cô ấy sẽ không cho phép cô ấy.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/let-us.mp3"
+        },
+        {
+          "word": "like",
+          "partOfSpeech": "verb",
+          "phonetic": "/laɪk/",
+          "definitionOfWord": "to enjoy or approve of something or someone",
+          "meaning": "thích",
+          "example_1": "I like your new haircut.",
+          "example_1_vn": "Tôi thích kiểu tóc mới của bạn.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/like-us.mp3"
+        },
+        {
+          "word": "live",
+          "partOfSpeech": "verb",
+          "phonetic": "/lɪv/",
+          "definitionOfWord": "to have your home somewhere",
+          "meaning": "sống",
+          "example_1": "Some students live on the University campus.",
+          "example_1_vn": "Một số sinh viên sống trong khuôn viên trường Đại học.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/live-us.mp3"
+        }
+        ,
+        {
+          "word": "look",
+          "partOfSpeech": "verb",
+          "phonetic": "/lʊk/",
+          "definitionOfWord": "to direct your eyes in order to see",
+          "meaning": "nhìn",
+          "example_1": "They looked at the picture and laughed.",
+          "example_1_vn": "Họ nhìn vào bức tranh và cười.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/look-us.mp3"
+        },
+        {
+          "word": "lose",
+          "partOfSpeech": "verb",
+          "phonetic": "/luːz/",
+          "definitionOfWord": "to no longer have something because you do not know where it is",
+          "meaning": "nhìn",
+          "example_1": "I've lost my ticket.",
+          "example_1_vn": "Tôi đã làm mất vé của tôi.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lose-us.mp3"
         }
       ]
     }
