@@ -763,6 +763,215 @@
           "example_1_vn": "Tôi đã làm mất vé của tôi.",
           "image": "",
           "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lose-us.mp3"
+        },
+        {
+          "word": "make",
+          "partOfSpeech": "verb",
+          "phonetic": "/meɪk/",
+          "definitionOfWord": "to produce something, often using a particular substance or material",
+          "meaning": "làm; tạo ra",
+          "example_1": "Do you want me to make some coffee?",
+          "example_1_vn": "Bạn có muốn tôi pha một ít cà phê không?",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/make-us.mp3"
+        },
+        {
+          "word": "mean",
+          "partOfSpeech": "verb",
+          "phonetic": "/miːn/",
+          "definitionOfWord": "to express or represent something such as an idea, thought, or fact",
+          "meaning": "nghĩa là",
+          "example_1": "These figures mean that almost six percent of the working population is unemployed.",
+          "example_1_vn": "Những con số này có nghĩa là gần sáu phần trăm dân số lao động bị thất nghiệp.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mean-us.mp3"
+        },
+        {
+          "word": "meet",
+          "partOfSpeech": "verb",
+          "phonetic": "/miːt/",
+          "definitionOfWord": "to come together with someone intentionally",
+          "meaning": "gặp gỡ",
+          "example_1": "Lorraine and I meet for lunch once a month.",
+          "example_1_vn": "Lorraine và tôi gặp nhau ăn trưa mỗi tháng một lần.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meet-us.mp3"
+        },
+        {
+          "word": "move",
+          "partOfSpeech": "verb",
+          "phonetic": "/muːv/",
+          "definitionOfWord": "to (cause to) change position",
+          "meaning": "di chuyển",
+          "example_1": "Will you help me move this table to the back room?",
+          "example_1_vn": "Bạn sẽ giúp tôi di chuyển cái bàn này vào phòng sau chứ?",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/move-us.mp3"
+        },
+        {
+          "word": "need",
+          "partOfSpeech": "verb",
+          "phonetic": "/niːd/",
+          "definitionOfWord": "to have to have something, or to want something very much",
+          "meaning": "cần",
+          "example_1": "I need to go to the toilet.",
+          "example_1_vn": "Tôi cần phải đi vào nhà vệ sinh.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/need-us.mp3"
+        },
+        {
+          "word": "offer",
+          "partOfSpeech": "verb",
+          "phonetic": "/ˈɒf.ər/",
+          "definitionOfWord": "to ask someone if they would like to have something or if they would like you to do something",
+          "meaning": "mời; đề nghị",
+          "example_1": "She was offered a job in Paris.",
+          "example_1_vn": "Cô được mời làm việc ở Paris.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/offer-us.mp3"
+        },
+        {
+          "word": "open",
+          "partOfSpeech": "verb",
+          "phonetic": "/ˈəʊ.pən/",
+          "definitionOfWord": "not closed or fastened",
+          "meaning": "mở",
+          "example_1": "An open suitcase lay on her bed.",
+          "example_1_vn": "Một chiếc vali mở nằm trên giường của cô ấy.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/open-us.mp3"
+        },
+        {
+          "word": "pass",
+          "partOfSpeech": "verb",
+          "phonetic": "/pɑːs/",
+          "definitionOfWord": "to go past something or someone or move in relation to it, him, or her",
+          "meaning": "đi ngang qua",
+          "example_1": "I passed him on the stairs this morning.",
+          "example_1_vn": "Tôi đi ngang qua anh ta ở cầu thang sáng nay.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pass-us.mp3"
+        },
+        {
+          "word": "lie",
+          "partOfSpeech": "verb",
+          "phonetic": "/laɪ/",
+          "definitionOfWord": "to be in or move into a horizontal position on a surface",
+          "meaning": "nằm (ở trong hoặc di chuyển vào một vị trí nằm ngang trên một bề mặt)",
+          "example_1": "She went into the bedroom and lay on the bed.",
+          "example_1_vn": "Cô đi vào phòng ngủ và nằm trên giường.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lie-us.mp3"
+        },
+        {
+          "word": "accept",
+          "partOfSpeech": "verb",
+          "phonetic": "/əkˈsept/",
+          "definitionOfWord": "to agree to take something",
+          "meaning": "chấp nhận",
+          "example_1": "Do you accept credit cards?",
+          "example_1_vn": "Bạn có chấp nhận thẻ tín dụng?",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/accept-us.mp3"
+        },
+        {
+          "word": "watch",
+          "partOfSpeech": "verb",
+          "phonetic": "/wɒtʃ/",
+          "definitionOfWord": "to look at something for a period of time, especially something that is changing or moving",
+          "meaning": "xem, nhìn",
+          "example_1": "He spent the entire afternoon watching a cricket match.",
+          "example_1_vn": "Anh ấy đã dành cả buổi chiều để xem một trận đấu cricket.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/watch-us.mp3"
+        },
+        {
+          "word": "raise",
+          "partOfSpeech": "verb",
+          "phonetic": "/reɪz/",
+          "definitionOfWord": "to lift something to a higher position",
+          "meaning": "nâng lên; giơ lên",
+          "example_1": "Raise your right hand.",
+          "example_1_vn": "Giơ tay phải của bạn lên.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/raise-us.mp3"
+        },
+        {
+          "word": "base",
+          "partOfSpeech": "verb",
+          "phonetic": "/beɪs/",
+          "definitionOfWord": "(often with on) to use as a foundation, starting-point etc",
+          "meaning": "căn cứ vào; dựa trên; có trụ sở ở",
+          "example_1": "Make sure your arguments are based on solid evidence.",
+          "example_1_vn": "Đảm bảo lập luận của bạn dựa trên bằng chứng chắc chắn.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/base-us.mp3"
+        },
+        {
+          "word": "apply",
+          "partOfSpeech": "verb",
+          "phonetic": "/əˈplaɪ/",
+          "definitionOfWord": "to make use of something or use it for a practical purpose",
+          "meaning": "áp dụng",
+          "example_1": "He wants a job in which he can apply his foreign languages.",
+          "example_1_vn": "Anh ấy muốn một công việc mà anh ấy có thể áp dụng ngoại ngữ của mình.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/apply-us.mp3"
+        },
+        {
+          "word": "break",
+          "partOfSpeech": "verb",
+          "phonetic": "/breɪk/",
+          "definitionOfWord": "to (cause something to) separate suddenly or violently into two or more pieces, or to (cause something to) stop working by being damaged",
+          "meaning": "làm vỡ",
+          "example_1": "The dish fell to the floor and broke.",
+          "example_1_vn": "Chiếc đĩa rơi xuống sàn vỡ tan tành.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/break-us.mp3"
+        },
+        {
+          "word": "explain",
+          "partOfSpeech": "verb",
+          "phonetic": "/ɪkˈspleɪn/",
+          "definitionOfWord": "to make something clear or easy to understand by describing or giving information about it",
+          "meaning": "giải thích",
+          "example_1": "The teacher explained the rules to the children.",
+          "example_1_vn": "Giáo viên giải thích các quy tắc cho trẻ em.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/explain-us.mp3"
+        },
+        {
+          "word": "learn",
+          "partOfSpeech": "verb",
+          "phonetic": "/lɜːn/",
+          "definitionOfWord": "to get knowledge or skill in a new subject or activity",
+          "meaning": "học",
+          "example_1": "She wants to learn French.",
+          "example_1_vn": "Cô ấy muốn học tiếng Pháp.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/learn-us.mp3"
+        },
+        {
+          "word": "increase",
+          "partOfSpeech": "verb",
+          "phonetic": "/ɪnˈkriːs/",
+          "definitionOfWord": "to (make something) become larger in amount or size",
+          "meaning": "tăng lên",
+          "example_1": "The number of children in this school has increased greatly in recent years.",
+          "example_1_vn": "Số lượng trẻ em trong trường này đã tăng lên rất nhiều trong những năm gần đây.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/increase-us.mp3"
+        },
+        {
+          "word": "cover",
+          "partOfSpeech": "verb",
+          "phonetic": "/ˈkʌv.ər/",
+          "definitionOfWord": "to put or spread something over something, or to lie on the surface of something",
+          "meaning": "che phủ",
+          "example_1": "The light was so bright that I had to cover my eyes..",
+          "example_1_vn": "Ánh sáng quá chói khiến tôi phải che mắt lại.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cover-us.mp3"
         }
       ]
     }
@@ -874,7 +1083,7 @@
           "definitionOfWord": "only just; almost not",
           "meaning": "hầu như không",
           "example_1": "We hardly ever go to concerts.",
-          "example_1_vn": "CChúng tôi hầu như không bao giờ đi xem hòa nhạc.",
+          "example_1_vn": "Chúng tôi hầu như không bao giờ đi xem hòa nhạc.",
           "example_2": "",
           "image": "",
           "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hardly-us.mp3"
