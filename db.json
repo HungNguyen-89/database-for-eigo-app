@@ -42,17 +42,159 @@
       "id": "verb-part-1",
       "flashCardData": [
         {
-          "word": "Add",
+          "word": "add",
           "partOfSpeech": "verb",
           "phonetic": "/æd/",
           "definitionOfWord": "to put something with something else to increase the number or amount or to improve the whole",
           "meaning": "thêm vào",
           "example_1": "Beat the butter and sugar together and slowly add the eggs.",
-          "example_2": "",
+          "example_1_vn": "Đánh bơ và đường với nhau rồi từ từ thêm trứng vào.",
           "image": "",
-          "audio": ""
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/add-us.mp"
+        },
+        {
+          "word": "agree",
+          "partOfSpeech": "verb",
+          "phonetic": "/əˈɡriː/",
+          "definitionOfWord": "to accept a suggestion or idea",
+          "meaning": "đồng ý",
+          "example_1": "He agreed to our request.",
+          "example_1_vn": "Anh ấy đã đồng ý với yêu cầu của chúng tôi.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/agree-us.mp"
+        },
+        {
+          "word": "allow",
+          "partOfSpeech": "verb",
+          "phonetic": "/əˈlaʊ/",
+          "definitionOfWord": "to give permission for someone to do something, or to not prevent something from happening",
+          "meaning": "cho phép",
+          "example_1": "Smoking is not allowed inside the restaurant.",
+          "example_1_vn": "Không được phép hút thuốc trong nhà hàng.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/allow-us.mp"
+        },
+        {
+          "word": "appear",
+          "partOfSpeech": "verb",
+          "phonetic": "/əˈpɪər/",
+          "definitionOfWord": "to start to be seen or to be present",
+          "meaning": "xuất hiện",
+          "example_1": "He suddenly appeared in the doorway.",
+          "example_1_vn": "Anh ấy bất ngờ xuất hiện ở ngưỡng cửa.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/appear-us.mp"
+        },
+        {
+          "word": "ask",
+          "partOfSpeech": "verb",
+          "phonetic": "/æsk/",
+          "definitionOfWord": "to put a question to someone, or to request an answer from someone",
+          "meaning": "hỏi",
+          "example_1": "He asked me what the time was.",
+          "example_1_vn": "Anh ấy hỏi tôi mấy giờ rồi.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ask-us.mp"
+        },
+        {
+          "word": "become",
+          "partOfSpeech": "verb",
+          "phonetic": "/bɪˈkʌm/",
+          "definitionOfWord": "to start to be",
+          "meaning": "trở nên",
+          "example_1": "It was becoming cold, so we lit the fire.",
+          "example_1_vn": "Trời trở lạnh, nên chúng tôi đốt lửa.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/become-us.mp"
+        },
+        {
+          "word": "begin",
+          "partOfSpeech": "verb",
+          "phonetic": "/bɪˈgɪn/",
+          "definitionOfWord": "to start to happen or exist",
+          "meaning": "bắt đầu",
+          "example_1": "What time does the concert begin?",
+          "example_1_vn": "Buổi hòa nhạc bắt đầu lúc mấy giờ?",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/begin-us.mp"
+        },
+        {
+          "word": "believe",
+          "partOfSpeech": "verb",
+          "phonetic": "/bɪˈliːv/",
+          "definitionOfWord": "to think that something is true, correct, or real",
+          "meaning": "tin tưởng",
+          "example_1": "She's arriving tomorrow, I believe.",
+          "example_1_vn": "Cô ấy sẽ đến vào ngày mai, tôi tin thế.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/believe-us.mp"
+        },
+        {
+          "word": "bring",
+          "partOfSpeech": "verb",
+          "phonetic": "/brɪŋ/",
+          "definitionOfWord": "to take or carry someone or something to a place or a person, or in the direction of the person speakingl",
+          "meaning": "đem đến, mang đến",
+          "example_1": "When they visit us they always bring their dog with them.",
+          "example_1_vn": "Khi đến thăm chúng tôi, họ luôn mang theo con chó của mình.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bring-us.mp"
+        },
+        {
+          "word": "build",
+          "partOfSpeech": "verb",
+          "phonetic": "/bɪld/",
+          "definitionOfWord": "to make something by putting bricks or other materials together",
+          "meaning": "xây dựng",
+          "example_1": "They're building new houses by the river.",
+          "example_1_vn": "Họ đang xây dựng những ngôi nhà mới bên bờ sông.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/build-us.mp"
+        },
+        {
+          "word": "buy",
+          "partOfSpeech": "verb",
+          "phonetic": "/baɪ/",
+          "definitionOfWord": "to get something by paying money for it",
+          "meaning": "mua",
+          "example_1": "Where did you buy that tie?",
+          "example_1_vn": "Bạn đã mua cà vạt đó ở đâu?",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/buy-us.mp"
+        },
+        {
+          "word": "call",
+          "partOfSpeech": "verb",
+          "phonetic": "/kɔːl/",
+          "definitionOfWord": "to give someone or something a name, or to know or address someone by a particular name",
+          "meaning": "gọi",
+          "example_1": "My name is Alexander, but I’m called Sandy by my friends.",
+          "example_1_vn": "Tên tôi là Alexander, nhưng tôi được bạn bè gọi là Sandy.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/call-us.mp"
+        },
+        {
+          "word": "carry",
+          "partOfSpeech": "verb",
+          "phonetic": "/ˈkær.i/",
+          "definitionOfWord": "to hold something or someone with your hands, arms, or on your back and transport it, him, or her from one place to another",
+          "meaning": "mang; vác",
+          "example_1": "Would you like me to carry your bag for you?",
+          "example_1_vn": "Bạn có muốn tôi xách túi cho bạn không?",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/carry-us.mp"
+        },
+        {
+          "word": "cause",
+          "partOfSpeech": "verb",
+          "phonetic": "/kɔːz/",
+          "definitionOfWord": "to make something happen, especially something bad",
+          "meaning": "gây ra",
+          "example_1": "The bright light caused her to blink.",
+          "example_1_vn": "Ánh sáng chói lóa khiến cô phải chớp mắt.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cause-us.mp"
         }
-       
       ]
     },
     {
@@ -101,8 +243,7 @@
           "example_1_vn": "Tôi đang hy vọng cho một cuộc phỏng vấn vào tuần tới.",
           "image": "",
           "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hope-us.mp3"
-        }
-        ,
+        },
         {
           "word": "include",
           "partOfSpeech": "verb",
@@ -113,8 +254,7 @@
           "example_1_vn": "Thuế và dịch vụ được bao gồm trong hóa đơn.",
           "image": "",
           "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/include-us.mp3"
-        }
-        ,
+        },
         {
           "word": "involve",
           "partOfSpeech": "verb",
@@ -125,7 +265,7 @@
           "example_1_vn": "Nghiên cứu liên quan đến việc sử dụng các tác nhân chiến tranh sinh học sẽ được sử dụng cho mục đích phòng thủ phòng thủ.",
           "image": "",
           "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/involve-us.mp3"
-        } ,
+        },
         {
           "word": "keep",
           "partOfSpeech": "verb",
@@ -202,8 +342,7 @@
           "example_1_vn": "Một số sinh viên sống trong khuôn viên trường Đại học.",
           "image": "",
           "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/live-us.mp3"
-        }
-        ,
+        },
         {
           "word": "look",
           "partOfSpeech": "verb",
