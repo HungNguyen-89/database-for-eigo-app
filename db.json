@@ -4,19 +4,24 @@
       "id": "verb",
       "flashCardData": [
         {
-          "id": "part-1",
-          "link": "verb-part-1",
+          "id": "basic-1",
+          "link": "verb-basic-1",
           "name": "BASIC 1"
         },
         {
-          "id": "part-2",
-          "link": "verb-part-2",
+          "id": "basic-2",
+          "link": "verb-basic-2",
           "name": "BASIC 2"
         },
         {
-          "id": "part-3",
-          "link": "verb-part-3",
+          "id": "basic-3",
+          "link": "verb-basic-3",
           "name": "BASIC 3"
+        },
+        {
+          "id": "basic-4",
+          "link": "verb-basic-3",
+          "name": "BASIC 4"
         }
       ]
     },
@@ -39,7 +44,7 @@
 
   "flashcards-verb-data": [
     {
-      "id": "verb-part-1",
+      "id": "verb-basic-1",
       "flashCardData": [
         {
           "word": "add",
@@ -194,11 +199,231 @@
           "example_1_vn": "Ánh sáng chói lóa khiến cô phải chớp mắt.",
           "image": "",
           "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cause-us.mp"
+        },
+        {
+          "word": "change",
+          "partOfSpeech": "verb",
+          "phonetic": "/ʧeɪnʤ/",
+          "definitionOfWord": "to exchange one thing for another thing, especially of a similar type",
+          "meaning": "thay đổi",
+          "example_1": "She's just changed jobs.",
+          "example_1_vn": "Cô ấy mới đổi việc.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/change-us.mp"
+        },
+        {
+          "word": "come",
+          "partOfSpeech": "verb",
+          "phonetic": "/kʌm/",
+          "definitionOfWord": "to move or travel towards the speaker or with the speaker",
+          "meaning": "đến",
+          "example_1": "Can you come to my party?",
+          "example_1_vn": "Bạn có thể đến bữa tiệc của tôi không?",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/come-us.mp"
+        },
+        {
+          "word": "consider",
+          "partOfSpeech": "verb",
+          "phonetic": "/kənˈsɪd.ər/",
+          "definitionOfWord": "to spend time thinking about a possibility or making a decision",
+          "meaning": "cân nhắc",
+          "example_1": "I'd like some time to consider before I make a decision.",
+          "example_1_vn": "Tôi muốn có thời gian để cân nhắc trước khi đưa ra quyết định.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/consider-us.mp"
+        },
+        {
+          "word": "continue",
+          "partOfSpeech": "verb",
+          "phonetic": "/kənˈtɪn.juː/",
+          "definitionOfWord": "to keep happening, existing, or doing something, or to cause something or someone to do this",
+          "meaning": "tiếp tục",
+          "example_1": "If the rain continues, we'll have to cancel tonight's plans.",
+          "example_1_vn": "Nếu tiếp tục mưa, chúng ta sẽ phải hủy kế hoạch tối nay.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/continue-us.mp"
+        },
+        {
+          "word": "create",
+          "partOfSpeech": "verb",
+          "phonetic": "/kriˈeɪt/",
+          "definitionOfWord": "to make something new, or invent something",
+          "meaning": "tạo ra, tạo nên",
+          "example_1": "He created a wonderful meal from very few ingredients.",
+          "example_1_vn": "Anh ấy đã tạo ra một bữa ăn tuyệt vời từ rất ít nguyên liệu.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/create-us.mp"
+        },
+        {
+          "word": "decide",
+          "partOfSpeech": "verb",
+          "phonetic": "/dɪˈsaɪd/",
+          "definitionOfWord": "to choose something, especially after thinking carefully about several possibilities",
+          "meaning": "quyết định",
+          "example_1": "He can't decide whether to buy it.",
+          "example_1_vn": "Anh ấy không thể quyết định có nên mua nó hay không.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/decide-us.mp"
+        },
+        {
+          "word": "describe",
+          "partOfSpeech": "verb",
+          "phonetic": "/dɪˈskraɪb/",
+          "definitionOfWord": "to say or write what someone or something is like",
+          "meaning": "mô tả",
+          "example_1": "He described what had happened.",
+          "example_1_vn": "Anh ấy mô tả những gì đã xảy ra.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/describe-us.mp"
+        },
+        {
+          "word": "develop",
+          "partOfSpeech": "verb",
+          "phonetic": "/dɪˈvel.əp/",
+          "definitionOfWord": "to (cause something to) grow or change into a more advanced, larger, or stronger form",
+          "meaning": "phát triển",
+          "example_1": "I'm looking for a job which will enable me to develop my skills/talents.",
+          "example_1_vn": "Tôi đang tìm kiếm một công việc có thể giúp tôi phát triển kỹ năng/tài năng của mình.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/develop-us.mp"
+        },
+        {
+          "word": "do",
+          "partOfSpeech": "verb",
+          "phonetic": "/du/",
+          "definitionOfWord": "to perform an activity concerning something",
+          "meaning": "làm",
+          "example_1": "We need to do the garden – it’s becoming overgrown.",
+          "example_1_vn": "Chúng ta cần làm lại khu vườn – nó đang trở nên rậm rạp.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/do-us.mp"
+        },
+        {
+          "word": "draw",
+          "partOfSpeech": "verb",
+          "phonetic": "/drɔː/",
+          "definitionOfWord": "to make a picture of something or someone with a pencil or pen",
+          "meaning": "vẽ",
+          "example_1": "Jonathan can draw very well.",
+          "example_1_vn": "Jonathan có thể vẽ rất tốt.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/draw-us.mp"
+        },
+        {
+          "word": "expect",
+          "partOfSpeech": "verb",
+          "phonetic": "/ɪkˈspekt/",
+          "definitionOfWord": "to think or believe something will happen, or someone will arrive",
+          "meaning": "mong đợi, mong chờ",
+          "example_1": "We are expecting a lot of applicants for the job.",
+          "example_1_vn": "Chúng tôi đang mong đợi rất nhiều ứng viên cho công việc này.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/expect-us.mp"
+        },
+        {
+          "word": "fall",
+          "partOfSpeech": "verb",
+          "phonetic": "/fɔːl/",
+          "definitionOfWord": "to suddenly go down onto the ground or towards the ground without intending to or by accident",
+          "meaning": "ngã",
+          "example_1": "The path's very steep, so be careful you don't fall.",
+          "example_1_vn": "Đường đi rất dốc nên hãy cẩn thận kẻo bị ngã.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fall-us.mp"
+        },
+        {
+          "word": "feel",
+          "partOfSpeech": "verb",
+          "phonetic": "/fiːl/",
+          "definitionOfWord": "to experience something physical or emotionalt",
+          "meaning": "cảm thấy",
+          "example_1": "'How are you feeling?' 'Not too bad, but I've still got a slight headache.'",
+          "example_1_vn": "'Bạn cảm thấy thế nào?' 'Không tệ lắm, nhưng tôi vẫn còn hơi nhức đầu.'",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/feel-us.mp"
+        },
+        {
+          "word": "find",
+          "partOfSpeech": "verb",
+          "phonetic": "/faɪnd/",
+          "definitionOfWord": "to discover, especially where a thing or person is, either unexpectedly or by searching, or to discover where to get or how to achieve something",
+          "meaning": "tìm thấy",
+          "example_1": "I've just found a ten-pound note in my pocket.",
+          "example_1_vn": "Tôi vừa tìm thấy tờ 10 bảng trong túi.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/find-us.mp"
+        },
+        {
+          "word": "follow",
+          "partOfSpeech": "verb",
+          "phonetic": "/ˈfɒl.əʊ/",
+          "definitionOfWord": "to move behind someone or something and go where he, she, or it goes",
+          "meaning": "theo sau",
+          "example_1": "A dog followed us home.",
+          "example_1_vn": "Một con chó theo chúng tôi về nhà.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/follow-us.mp"
+        },
+        {
+          "word": "get",
+          "partOfSpeech": "verb",
+          "phonetic": "/ɡet/",
+          "definitionOfWord": "to obtain, buy, or earn something",
+          "meaning": "có được, mua hoặc kiếm được một cái gì đó",
+          "example_1": "He went to the shop to get some milk.",
+          "example_1_vn": "Anh ấy đến cửa hàng để mua một ít sữa.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/get-us.mp"
+        },
+        {
+          "word": "give",
+          "partOfSpeech": "verb",
+          "phonetic": "/gɪv/",
+          "definitionOfWord": "to offer something to someone, or to provide someone with something",
+          "meaning": "cho, đưa, cung cấp",
+          "example_1": "She gave us a set of saucepans as a wedding present.",
+          "example_1_vn": "Cô ấy tặng chúng tôi một bộ chảo làm quà cưới.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/give-us.mp"
+        },
+        {
+          "word": "go",
+          "partOfSpeech": "verb",
+          "phonetic": "/ɡəʊ/",
+          "definitionOfWord": "to travel or move to another placeng",
+          "meaning": "đi (đi du lịch hoặc di chuyển đến một nơi khác)",
+          "example_1": "He is going across the field.",
+          "example_1_vn": "Anh ấy đang đi ngang qua cánh đồng.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/go-us.mp"
+        },
+        {
+          "word": "happen",
+          "partOfSpeech": "verb",
+          "phonetic": "/ˈhæp.ən/",
+          "definitionOfWord": "(of a situation or an event) to have existence or come into existence",
+          "meaning": "xảy ra",
+          "example_1": "A funny thing happened in the office today.",
+          "example_1_vn": "Hôm nay có một chuyện buồn cười xảy ra ở văn phòng.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/happen-us.mp"
+        },
+        {
+          "word": "have",
+          "partOfSpeech": "verb",
+          "phonetic": "/hæv/",
+          "definitionOfWord": "to own",
+          "meaning": "sở hữu hoặc có cái gì",
+          "example_1": "I have a book of yours at home.",
+          "example_1_vn": "Tôi có một cuốn sách của bạn ở nhà.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/have-us.mp"
         }
       ]
     },
     {
-      "id": "verb-part-2",
+      "id": "verb-basic-2",
       "flashCardData": [
         {
           "word": "hear",
@@ -577,7 +802,7 @@
       ]
     },
     {
-      "id": "verb-part-3",
+      "id": "verb-basic-3",
       "flashCardData": [
         {
           "word": "claim",
@@ -963,6 +1188,66 @@
           "example_1_vn": "Bạn sẽ bắt đầu cảm thấy buồn ngủ khi thuốc đi vào máu.",
           "image": "",
           "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/enter-us.mp3"
+        }
+      ]
+    },
+    {
+      "id": "verb-basic-4",
+      "flashCardData": [
+        {
+          "word": "present",
+          "partOfSpeech": "verb",
+          "phonetic": "/prɪˈzent/",
+          "definitionOfWord": "to give, provide, or make something known",
+          "meaning": "cho, cung cấp (hoặc làm cho một cái gì đó)",
+          "example_1": "The winners were presented with medals.",
+          "example_1_vn": "Những người chiến thắng đã được trao huy chương.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/present-us.mp3"
+        },
+        {
+          "word": "arrive",
+          "partOfSpeech": "verb",
+          "phonetic": "/əˈraɪv/",
+          "definitionOfWord": "to reach a place, especially at the end of a journey",
+          "meaning": "đến",
+          "example_1": "We arrived in Prague later that day.",
+          "example_1_vn": "Chúng tôi đến Praha vào cuối ngày hôm đó.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arrive-us.mp3"
+        },
+        {
+          "word": "ensure",
+          "partOfSpeech": "verb",
+          "phonetic": "/ɪnˈʃɔːr/",
+          "definitionOfWord": "to make something certain to happeny",
+          "meaning": "bảo đảm",
+          "example_1": "The airline is taking steps to ensure safety on its aircraft.",
+          "example_1_vn": "Hãng hàng không đang thực hiện các bước để đảm bảo an toàn trên máy bay của mình.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ensure-us.mp3"
+        },
+        {
+          "word": "point",
+          "partOfSpeech": "verb",
+          "phonetic": "/pɔɪnt/",
+          "definitionOfWord": "to direct other people's attention to something by holding out your finger towards it",
+          "meaning": "chỉ (hướng sự chú ý của người khác đến một cái gì đó bằng cách đưa ngón tay của bạn về phía nó)",
+          "example_1": "'Look at that!' she said, pointing at the hole in the door.",
+          "example_1_vn": "'Nhìn kìa!' Cô ấy nói và chỉ vào cái lỗ trên cửa.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/point-us.mp3"
+        },
+        {
+          "word": "plan",
+          "partOfSpeech": "verb",
+          "phonetic": "/plæn/",
+          "definitionOfWord": "to think about and decide what you are going to do or how you are going to do something",
+          "meaning": "lên kế hoạch",
+          "example_1": "She's already planning how to spend her prize money.",
+          "example_1_vn": "Cô ấy đã lên kế hoạch tiêu tiền thưởng của mình như thế nào.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plan-us.mp3"
         }
       ]
     }
