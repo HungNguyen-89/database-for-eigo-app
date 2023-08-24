@@ -20,7 +20,7 @@
         },
         {
           "id": "basic-4",
-          "link": "verb-basic-3",
+          "link": "verb-basic-4",
           "name": "BASIC 4"
         }
       ]
@@ -37,6 +37,16 @@
           "id": "basic-2",
           "link": "adv-basic-2",
           "name": "BASIC 2"
+        }
+      ]
+    },
+    {
+      "id": "phrasal",
+      "flashCardData": [
+        {
+          "id": "basic-1",
+          "link": "phrasal-basic-1",
+          "name": "BASIC 1"
         }
       ]
     }
@@ -1959,5 +1969,133 @@
         }
       ]
     }
+  ],
+  "flashcards-phrasal-data":[
+    {
+      "id": "phrasal-basic-1",
+      "flashCardData": [
+        {
+          "word": "fall down",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to fall to the ground",
+          "meaning": "rơi xuống",
+          "example_1": "Unluckily, the cup fell down under stairs.",
+          "example_1_vn": "Không may chiếc cốc rơi xuống gầm cầu thang.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "fall over",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "If someone falls over, they fall to the ground",
+          "meaning": "ngã xuống",
+          "example_1": "She tripped and fell over.",
+          "example_1_vn": "Cô ấy vấp và ngã xuống.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "fall off",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "If the amount, rate, or quality of something falls off, it becomes smaller or lower",
+          "meaning": "giảm (số lượng, tỷ lệ hoặc chất lượng của thứ gì đó giảm đi, nó sẽ trở nên nhỏ hơn hoặc thấp hơn)",
+          "example_1": "Sales have been falling off recently.",
+          "example_1_vn": "Doanh số bán hàng đã giảm gần đây.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "fall out",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "(of an object) to drop from a place where it was attached or containedr",
+          "meaning": "rơi ra (rơi từ nơi nó được gắn vào hoặc chứa đựng)",
+          "example_1": "A few pages fell out of the book.",
+          "example_1_vn": "Một vài trang sách rơi ra khỏi cuốn sách.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "fall into something",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to start doing something, often without intending to",
+          "meaning": "rơi vào (bắt đầu làm việc gì đó, thường không có ý định)",
+          "example_1": "She fell into a conversation with the taxi driver.",
+          "example_1_vn": "Cô rơi vào một cuộc trò chuyện với tài xế taxi.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "fall in love (with someone)",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to start to love someone romantically and sexually",
+          "meaning": "bắt đầu yêu ai đó (một cách lãng mạn)",
+          "example_1": "They met and fell in love while they were both training to be pharmacists.",
+          "example_1_vn": "Họ gặp và bắt đầu yêu nhau khi cả hai đang theo học ngành dược sĩ.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "get something across",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to communicate an idea or message successfully",
+          "meaning": "truyền đạt được đến ai đó (để làm cho ai đó hiểu hoặc tin vào điều gì đó)",
+          "example_1": "We tried to get our point across, but he just wouldn't listen.",
+          "example_1_vn": "Chúng tôi đã cố gắng trình bày quan điểm của mình nhưng anh ấy không chịu lắng nghe.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "get along",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "If two or more people get along, they like each other and are friendly to each other",
+          "meaning": "hòa hợp (hai người trở lên hợp nhau thì thích nhau và thân thiện với nhau)",
+          "example_1": "I don't really get along with my sister's husband.",
+          "example_1_vn": "Tôi thực sự không hòa hợp với chồng của chị gái tôi.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "get around something",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to find a way of dealing with or avoiding a problem",
+          "meaning": "tìm cách giải quyết hoặc tránh một vấn đề",
+          "example_1": "The committee is looking for ways to get around the funding problem.",
+          "example_1_vn": "Ủy ban đang tìm cách giải quyết vấn đề tài trợ.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "get around (somewhere)",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to travel or move from place to place",
+          "meaning": "đi du lịch hoặc di chuyển từ nơi này sang nơi khác",
+          "example_1": "It didn't take long for that rumor to get around the office.",
+          "example_1_vn": "Không mất nhiều thời gian để tin đồn đó lan truyền khắp văn phòng.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        }
+      ]
+    }
   ]
+
 }
