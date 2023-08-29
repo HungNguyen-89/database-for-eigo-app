@@ -22,6 +22,16 @@
           "id": "basic-4",
           "link": "verb-basic-4",
           "name": "BASIC 4"
+        },
+        {
+          "id": "basic-5",
+          "link": "verb-basic-5",
+          "name": "BASIC 5"
+        },
+        {
+          "id": "basic-6",
+          "link": "verb-basic-6",
+          "name": "BASIC 6"
         }
       ]
     },
@@ -183,7 +193,7 @@
           "phonetic": "/kɔːl/",
           "definitionOfWord": "to give someone or something a name, or to know or address someone by a particular name",
           "meaning": "gọi",
-          "example_1": "My name is Alexander, but I’m called Sandy by my friends.",
+          "example_1": "My name is Alexander, but I'm called Sandy by my friends.",
           "example_1_vn": "Tên tôi là Alexander, nhưng tôi được bạn bè gọi là Sandy.",
           "image": "",
           "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/call-us.mp"
@@ -1258,6 +1268,568 @@
           "example_1_vn": "Cô ấy đã lên kế hoạch tiêu tiền thưởng của mình như thế nào.",
           "image": "",
           "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plan-us.mp3"
+        },
+        {
+          "word": "pull",
+          "partOfSpeech": "verb",
+          "phonetic": "/pʊl/",
+          "definitionOfWord": "to move something towards yourself, sometimes with great physical effort",
+          "meaning": "kéo",
+          "example_1": "He pulled the chair away from the desk.",
+          "example_1_vn": "Anh kéo chiếc ghế ra khỏi bàn làm việc.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pull-us.mp3"
+        },
+        {
+          "word": "refer",
+          "partOfSpeech": "verb",
+          "phonetic": "/rəˈfəː/",
+          "definitionOfWord": "to talk or write (about something); to mention",
+          "meaning": "nhắc tới",
+          "example_1": "I referred to your theories in my last book.",
+          "example_1_vn": "Tôi đã đề cập đến lý thuyết của bạn trong cuốn sách cuối cùng của tôi.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/refer-us.mp3"
+        },
+        {
+          "word": "act",
+          "partOfSpeech": "verb",
+          "phonetic": "/ækt/",
+          "definitionOfWord": "to do something for a particular purpose or to solve a problem",
+          "meaning": "hành động",
+          "example_1": "Engineers acted quickly to repair the damaged pipes.",
+          "example_1_vn": "Các kỹ sư đã hành động nhanh chóng để sửa chữa các đường ống bị hư hỏng.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/act-us.mp3"
+        },
+        {
+          "word": "relate",
+          "partOfSpeech": "verb",
+          "phonetic": "/rɪˈleɪt/",
+          "definitionOfWord": "to find or show the connection between two or more things",
+          "meaning": "liên quan",
+          "example_1": "Have you any information relating to the effect of penicillin on mice?.",
+          "example_1_vn": "Bạn có thông tin gì liên quan đến tác dụng của penicillin trên chuột không?",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/relate-us.mp3"
+        },
+        {
+          "word": "affect",
+          "partOfSpeech": "verb",
+          "phonetic": "/əˈfekt/",
+          "definitionOfWord": "to have an influence on someone or something, or to cause a change in someone or something",
+          "meaning": "ảnh hưởng",
+          "example_1": "The amount of rain affects the growth of the plants.",
+          "example_1_vn": "Lượng mưa ảnh hưởng đến sự phát triển của cây trồng.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/affect-us.mp3"
+        },
+        {
+          "word": "close",
+          "partOfSpeech": "verb",
+          "phonetic": "/kləʊz/",
+          "definitionOfWord": "to change from being open to not being open, or to cause something to do this",
+          "meaning": "đóng",
+          "example_1": "I went out and forgot to close the window.",
+          "example_1_vn": "Tôi ra ngoài và quên đóng cửa sổ.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/close-us.mp3"
+        },
+        {
+          "word": "identify",
+          "partOfSpeech": "verb",
+          "phonetic": "/aɪˈden.tɪ.faɪ/",
+          "definitionOfWord": "to recognize someone or something and say or prove who or what that person or thing is",
+          "meaning": "nhận ra, nhận dạng",
+          "example_1": "Even the smallest baby can identify its mother by her voice.",
+          "example_1_vn": "Ngay cả đứa bé nhỏ nhất cũng có thể nhận ra mẹ bằng giọng nói của mẹ.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/identify-us.mp3"
+        },
+        {
+          "word": "manage",
+          "partOfSpeech": "verb",
+          "phonetic": "/ˈmæn.ɪdʒ/",
+          "definitionOfWord": "to control or organize someone or something, esp. a business",
+          "meaning": "quản lý",
+          "example_1": "Does she have any experience managing large projects?",
+          "example_1_vn": "Cô ấy có kinh nghiệm quản lý các dự án lớn không?",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/manage-us.mp3"
+        },
+        {
+          "word": "thank",
+          "partOfSpeech": "verb",
+          "phonetic": "/θæŋk/",
+          "definitionOfWord": "to express to someone that you are pleased about or are grateful for something that they have done",
+          "meaning": "cảm ơn",
+          "example_1": "He thanked me for taking him home.",
+          "example_1_vn": "Anh ấy cảm ơn tôi đã đưa anh ấy về nhà.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/thank-us.mp3"
+        },
+        {
+          "word": "compare",
+          "partOfSpeech": "verb",
+          "phonetic": "/kəmˈpeər/",
+          "definitionOfWord": "to examine or look for the difference between two or more things",
+          "meaning": "so sánh",
+          "example_1": "Compare some recent work with your older stuff and you'll see how much you've improved.",
+          "example_1_vn": "So sánh một số công việc gần đây với công việc cũ của bạn và bạn sẽ thấy mình đã tiến bộ đến mức nào.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/compare-us.mp3"
+        },
+        {
+          "word": "announce",
+          "partOfSpeech": "verb",
+          "phonetic": "/əˈnaʊns/",
+          "definitionOfWord": "to make something known or tell people about something officially",
+          "meaning": "thông báo",
+          "example_1": "The prime minister has announced that public spending will be increased next year.",
+          "example_1_vn": "Thủ tướng đã thông báo rằng chi tiêu công sẽ tăng vào năm tới.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/announce-us.mp3"
+        },
+        {
+          "word": "obtain",
+          "partOfSpeech": "verb",
+          "phonetic": "/əbˈteɪn/",
+          "definitionOfWord": "to get something, especially by asking for it, buying it, working for it, or producing it from something else",
+          "meaning": "đạt được, có được, thu được",
+          "example_1": "He obtained a large sum of money by selling the house.",
+          "example_1_vn": "Anh ta kiếm được một số tiền lớn bằng cách bán căn nhà.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/obtain-us.mp3"
+        },
+        {
+          "word": "note",
+          "partOfSpeech": "verb",
+          "phonetic": "/noʊt/",
+          "definitionOfWord": "to give your attention to something by discussing it or making a written record of it",
+          "meaning": "ghi lại",
+          "example_1": "He noted her telephone number in his diary.",
+          "example_1_vn": "Anh ấy ghi lại số điện thoại của cô ấy vào nhật ký của mình.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/note-us.mp3"
+        },
+        {
+          "word": "forget",
+          "partOfSpeech": "verb",
+          "phonetic": "/fəˈɡet/",
+          "definitionOfWord": "to be unable to remember a fact, something that happened, or how to do something",
+          "meaning": "quên",
+          "example_1": "I completely forgot about Jenny's party.",
+          "example_1_vn": "Tôi hoàn toàn quên mất bữa tiệc của Jenny.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/forget-us.mp3"
+        },
+        {
+          "word": "indicate",
+          "partOfSpeech": "verb",
+          "phonetic": "/ˈɪn.də.keɪt/",
+          "definitionOfWord": "to show, point, or make clear in another way",
+          "meaning": "chỉ ra",
+          "example_1": "We can paint an arrow here to indicate the right path.",
+          "example_1_vn": "Chúng ta có thể vẽ một mũi tên ở đây để chỉ đường đi đúng.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/indicate-us.mp3"
+        },
+        {
+          "word": "wonder",
+          "partOfSpeech": "verb",
+          "phonetic": "/ˈwʌn.dər/",
+          "definitionOfWord": "to ask yourself questions or express a wish to know about something",
+          "meaning": "tự hỏi (tự đặt câu hỏi) hoặc bày tỏ mong muốn biết về điều gì đó",
+          "example_1": "He's starting to wonder whether he did the right thing in accepting this job.",
+          "example_1_vn": "Anh ấy bắt đầu tự hỏi liệu mình có làm đúng khi nhận công việc này hay không.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wonder-us.mp3"
+        },
+        {
+          "word": "maintain",
+          "partOfSpeech": "verb",
+          "phonetic": "/meɪnˈteɪn/",
+          "definitionOfWord": "to continue to have; to keep in existence, or not allow to become less",
+          "meaning": "duy trì",
+          "example_1": "The army has been brought in to maintain order in the region.",
+          "example_1_vn": "Quân đội đã được huy động để duy trì trật tự trong khu vực.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/maintain-us.mp3"
+        },
+        {
+          "word": "publish",
+          "partOfSpeech": "verb",
+          "phonetic": "/ˈpʌb.lɪʃ/",
+          "definitionOfWord": "to make information available to people, especially in a book, magazine, or newspaper, or to produce and sell a book, magazine, or newspaper",
+          "meaning": "công bố hoặc xuất bản",
+          "example_1": "The names of the winners of the competition will be published in June.",
+          "example_1_vn": "Tên của những người chiến thắng trong cuộc thi sẽ được công bố vào tháng Sáu.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/publish-us.mp3"
+        },
+        {
+          "word": "suffer",
+          "partOfSpeech": "verb",
+          "phonetic": "/ˈsʌf.ər/",
+          "definitionOfWord": "to experience physical or mental pain",
+          "meaning": "chịu đựng",
+          "example_1": "He suffered terrible pain from his injuries.",
+          "example_1_vn": "Anh ấy phải chịu đựng nỗi đau khủng khiếp từ vết thương của mình.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/suffer-us.mp3"
+        },
+        {
+          "word": "avoid",
+          "partOfSpeech": "verb",
+          "phonetic": "/əˈvɔɪd/",
+          "definitionOfWord": "to stay away from someone or something",
+          "meaning": "tránh",
+          "example_1": "He drove carefully to avoid the holes in the road.",
+          "example_1_vn": "Anh lái xe cẩn thận để tránh những hố trên đường.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/avoid-us.mp3"
+        },
+        {
+          "word": "express",
+          "partOfSpeech": "verb",
+          "phonetic": "/ɪkˈspres/",
+          "definitionOfWord": "to show a feeling, opinion, or fact",
+          "meaning": "bày tỏ, diễn đạt, diễn tả",
+          "example_1": "I would like to express my thanks for your kindness.",
+          "example_1_vn": "Tôi muốn bày tỏ lời cảm ơn vì lòng tốt của bạn.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/express-us.mp3"
+        },
+        {
+          "word": "suppose",
+          "partOfSpeech": "verb",
+          "phonetic": "/səˈpoʊz/",
+          "definitionOfWord": "used to show that you think something is true, although you wish that it were not",
+          "meaning": "giả sử",
+          "example_1": "Suppose the train’s late – what shall we do?",
+          "example_1_vn": "Giả sử tàu đến muộn – chúng ta sẽ làm gì?",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/suppose-us.mp3"
+        },
+        {
+          "word": "finish",
+          "partOfSpeech": "verb",
+          "phonetic": "/ˈfɪn.ɪʃ/",
+          "definitionOfWord": "to complete something or come to the end of an activity",
+          "meaning": "hoàn thành",
+          "example_1": "I'll call you when I've finished my homework.",
+          "example_1_vn": "Tôi sẽ gọi cho bạn khi tôi làm xong bài tập về nhà.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/finish-us.mp3"
+        },
+        {
+          "word": "determine",
+          "partOfSpeech": "verb",
+          "phonetic": "/dɪˈtɜː.mɪn/",
+          "definitionOfWord": "to control or influence something directly, or to decide what will happen",
+          "meaning": "quyết định",
+          "example_1": "Your health is determined in part by what you eat.",
+          "example_1_vn": "Sức khỏe của bạn được quyết định một phần bởi những gì bạn ăn.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/determine-us.mp3"
+        },
+        {
+          "word": "design",
+          "partOfSpeech": "verb",
+          "phonetic": "/dɪˈzaɪn/",
+          "definitionOfWord": "to make or draw plans for something, for example clothes or buildings",
+          "meaning": "thiết kế",
+          "example_1": "This range of clothing is specially designed for shorter women.",
+          "example_1_vn": "Dòng quần áo này được thiết kế đặc biệt dành cho phụ nữ có chiều cao thấp.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/design-us.mp3"
+        },
+        {
+          "word": "listen",
+          "partOfSpeech": "verb",
+          "phonetic": "/ˈlɪs.ən/",
+          "definitionOfWord": "to give attention to someone or something in order to hear him, her, or it",
+          "meaning": "nghe",
+          "example_1": "Listen to this! You can win a car just by answering three simple questions.",
+          "example_1_vn": "Nghe này! Bạn có thể giành được một chiếc ô tô chỉ bằng cách trả lời ba câu hỏi đơn giản.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/listen-us.mp3"
+        },
+        {
+          "word": "save",
+          "partOfSpeech": "verb",
+          "phonetic": "/seɪv/",
+          "definitionOfWord": "to stop someone or something from being killed, injured, or destroyed",
+          "meaning": "cứu nguy",
+          "example_1": "Wearing seat belts has saved many lives.",
+          "example_1_vn": "Thắt dây an toàn đã cứu được nhiều mạng sống.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/save-us.mp3"
+        },
+        {
+          "word": "treat",
+          "partOfSpeech": "verb",
+          "phonetic": "/triːt/",
+          "definitionOfWord": "to behave towards someone or deal with something in a particular way",
+          "meaning": "đối xử",
+          "example_1": "My parents treated us all the same when we were kids.",
+          "example_1_vn": "Cha mẹ tôi đối xử với chúng tôi như nhau khi chúng tôi còn nhỏ.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/treat-us.mp3"
+        },
+        {
+          "word": "control",
+          "partOfSpeech": "verb",
+          "phonetic": "/kənˈtroʊl/",
+          "definitionOfWord": "to order, limit, or rule something, or someone's actions or behaviour",
+          "meaning": "kiểm soát",
+          "example_1": "The temperature is controlled by a thermostat.",
+          "example_1_vn": "Nhiệt độ được kiểm soát bởi một bộ điều chỉnh nhiệt.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/control-us.mp3"
+        },
+        {
+          "word": "share",
+          "partOfSpeech": "verb",
+          "phonetic": "/ʃer/",
+          "definitionOfWord": "to have or use something at the same time as someone elser",
+          "meaning": "chia sẻ",
+          "example_1": "I share a house with four other people.",
+          "example_1_vn": "Tôi ở chung nhà với bốn người khác.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/share-us.mp3"
+        }
+      ]
+    }
+    ,
+    {
+      "id": "verb-basic-5",
+      "flashCardData": [
+        {
+          "word": "remove",
+          "partOfSpeech": "verb",
+          "phonetic": "/rɪˈmuːv/",
+          "definitionOfWord": "to take something or someone away from somewhere, or off something",
+          "meaning": "loại bỏ",
+          "example_1": "This detergent will remove even old stains.",
+          "example_1_vn": "Chất tẩy rửa này sẽ loại bỏ ngay cả những vết bẩn cũ.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/remove-us.mp3"
+        },
+        {
+          "word": "throw",
+          "partOfSpeech": "verb",
+          "phonetic": "/θroʊ/",
+          "definitionOfWord": "to send something through the air with force, especially by a sudden movement of the arm",
+          "meaning": "ném",
+          "example_1": "My friend threw the ball back over the fence.",
+          "example_1_vn": "Bạn tôi ném quả bóng qua hàng rào.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/throw-us.mp3"
+        },
+        {
+          "word": "visit",
+          "partOfSpeech": "verb",
+          "phonetic": "/ˈvɪz.ɪt/",
+          "definitionOfWord": "to go to a place in order to look at it, or to a person in order to spend time with them",
+          "meaning": "đến thăm",
+          "example_1": "We visited a few galleries while we were in Prague.",
+          "example_1_vn": "Chúng tôi đã đến thăm một số phòng trưng bày khi ở Praha.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/visit-us.mp3"
+        },
+        {
+          "word": "exist",
+          "partOfSpeech": "verb",
+          "phonetic": "/ɪɡˈzɪst/",
+          "definitionOfWord": "to be, or to be real",
+          "meaning": "tồn tại",
+          "example_1": "Poverty still exists in this country.",
+          "example_1_vn": "Tình trạng nghèo đói vẫn còn tồn tại ở đất nước này.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/exist-us.mp3"
+        },
+        {
+          "word": "encourage",
+          "partOfSpeech": "verb",
+          "phonetic": "/ɪnˈkɜr·ɪdʒ/",
+          "definitionOfWord": "to make someone more likely to do something, or to make something more likely to happen",
+          "meaning": "khuyến khích",
+          "example_1": "We were encouraged to learn foreign languages at school.",
+          "example_1_vn": "Chúng tôi được khuyến khích học ngoại ngữ ở trường.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/encourage-us.mp3"
+        },
+        {
+          "word": "force",
+          "partOfSpeech": "verb",
+          "phonetic": "/fɔːrs/",
+          "definitionOfWord": "to make something happen or make someone do something difficult, unpleasant, or unusual, especially by threatening or not offering the possibility of choice",
+          "meaning": "bắt buộc",
+          "example_1": "You can't force her to make a decision.",
+          "example_1_vn": "Bạn không thể buộc cô ấy phải đưa ra quyết định.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/force-us.mp3"
+        },
+        {
+          "word": "reflect",
+          "partOfSpeech": "verb",
+          "phonetic": "/rɪˈflekt/",
+          "definitionOfWord": "If a surface reflects light, heat, sound, or an image, it sends the light, etc. back and does not absorb it",
+          "meaning": "phản chiếu",
+          "example_1": "He saw himself reflected in the mirror.",
+          "example_1_vn": "Anh thấy mình phản chiếu trong gương.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reflect-us.mp3"
+        },
+        {
+          "word": "assume",
+          "partOfSpeech": "verb",
+          "phonetic": "/əˈsuːm/",
+          "definitionOfWord": "to accept something to be true without question or proof",
+          "meaning": "cho rằng",
+          "example_1": "I assume you’d like time to decide.",
+          "example_1_vn": "Tôi cho rằng bạn muốn có thời gian để quyết định.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/assume-us.mp3"
+        },
+        {
+          "word": "smile",
+          "partOfSpeech": "verb",
+          "phonetic": "/smaɪl/",
+          "definitionOfWord": "to make a happy or friendly expression in which the corners of your mouth curve up",
+          "meaning": "mỉm cười",
+          "example_1": "When he smiled at me I knew everything was all right.",
+          "example_1_vn": "Khi anh ấy mỉm cười với tôi, tôi biết mọi chuyện đều ổn.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/smile-us.mp3"
+        },
+        {
+          "word": "prepare",
+          "partOfSpeech": "verb",
+          "phonetic": "/prɪˈper/",
+          "definitionOfWord": "to make or get something or someone ready for something that will happen in the future",
+          "meaning": "chuẩn bị",
+          "example_1": "She'll prepare the food ahead of time and freeze it.",
+          "example_1_vn": "Cô ấy sẽ chuẩn bị thức ăn trước và đông lạnh nó.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prepare-us.mp3"
+        }
+      ]
+    } ,
+    {
+      "id": "verb-basic-6",
+      "flashCardData": [
+        {
+          "word": "sit",
+          "partOfSpeech": "verb",
+          "phonetic": "/sɪt/",
+          "definitionOfWord": "to (cause someone to) be in a position in which the lower part of the body is resting on a seat or other type of support, with the upper part of the body vertical",
+          "meaning": "ngồi",
+          "example_1": "He came and sat down next to me.",
+          "example_1_vn": "Anh ấy đến và ngồi xuống cạnh tôi.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sit-us.mp3"
+        },
+        {
+          "word": "speak",
+          "partOfSpeech": "verb",
+          "phonetic": "/spiːk/",
+          "definitionOfWord": "to say words, to use the voice, or to have a conversation with someone",
+          "meaning": "nói",
+          "example_1": "Would you mind speaking more slowly, please?",
+          "example_1_vn": "Bạn vui lòng nói chậm hơn được không?",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/speak-us.mp3"
+        },
+        {
+          "word": "spend",
+          "partOfSpeech": "verb",
+          "phonetic": "/spend/",
+          "definitionOfWord": "to give money as a payment for something",
+          "meaning": "chi tiêu",
+          "example_1": "We've just spent $1.9 million on improving our computer network.",
+          "example_1_vn": "Chúng tôi vừa chi 1,9 triệu đô la để cải thiện mạng máy tính của mình.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spend-us.mp3"
+        },
+        {
+          "word": "stand",
+          "partOfSpeech": "verb",
+          "phonetic": "/stænd/",
+          "definitionOfWord": "to be in a vertical state or to put into a vertical state, especially (of a person or animal) by making the legs straight",
+          "meaning": "đứng",
+          "example_1": "Granny says if she stands for a long time her ankles hurt.",
+          "example_1_vn": "Bà nội nói nếu đứng lâu thì mắt cá chân của bà sẽ bị đau.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stand-us.mp3"
+        },
+        {
+          "word": "start",
+          "partOfSpeech": "verb",
+          "phonetic": "/stænd/",
+          "definitionOfWord": "to begin doing something",
+          "meaning": "bắt đầu",
+          "example_1": "When do you start your new job?",
+          "example_1_vn": "Khi nào bạn bắt đầu công việc mới?",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/start-us.mp3"
+        }
+        ,
+        {
+          "word": "stop",
+          "partOfSpeech": "verb",
+          "phonetic": "/stɑːp/",
+          "definitionOfWord": "to finish doing something that you were doing",
+          "meaning": "dừng lại, ngừng lại",
+          "example_1": "He stopped the car and got out.",
+          "example_1_vn": "Anh dừng xe và bước ra ngoài.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stop-us.mp3"
+        },
+        {
+          "word": "suggest",
+          "partOfSpeech": "verb",
+          "phonetic": "/səˈdʒest/",
+          "definitionOfWord": "to mention an idea, possible plan, or action for other people to consider",
+          "meaning": "đề nghị, đề xuất",
+          "example_1": "I suggested an Italian restaurant near the station for the party.",
+          "example_1_vn": "Tôi đề xuất một nhà hàng Ý gần nhà ga để tổ chức bữa tiệc.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/suggest-us.mp3"
+        },
+        {
+          "word": "take",
+          "partOfSpeech": "verb",
+          "phonetic": "/teɪk/",
+          "definitionOfWord": "to move something or someone from one place to another",
+          "meaning": "đem đi, lấy đi",
+          "example_1": "Take the book down to the third floor of the library.",
+          "example_1_vn": "Lấy cuốn sách xuống tầng ba của thư viện.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/take-us.mp3"
+        },
+        {
+          "word": "talk",
+          "partOfSpeech": "verb",
+          "phonetic": "/tɑːk/",
+          "definitionOfWord": "to say words aloud; to speak to someone",
+          "meaning": "nói chuyện",
+          "example_1": "We were just talking about Gareth's new girlfriend.",
+          "example_1_vn": "Chúng tôi vừa nói chuyện về bạn gái mới của Gareth.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/talk-us.mp3"
+        },
+        {
+          "word": "tell",
+          "partOfSpeech": "verb",
+          "phonetic": "/tel/",
+          "definitionOfWord": "to say something to someone, often giving them information or instructions",
+          "meaning": "kể, cho biết",
+          "example_1": "Can you tell me how to get to the library?",
+          "example_1_vn": "Bạn có thể chỉ cho tôi đường đến thư viện được không?",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tell-us.mp3"
         }
       ]
     }
@@ -1970,7 +2542,7 @@
       ]
     }
   ],
-  "flashcards-phrasal-data":[
+  "flashcards-phrasal-data": [
     {
       "id": "phrasal-basic-1",
       "flashCardData": [
@@ -1994,6 +2566,18 @@
           "meaning": "ngã xuống",
           "example_1": "She tripped and fell over.",
           "example_1_vn": "Cô ấy vấp và ngã xuống.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "fall over something/someone",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to cover something or someone",
+          "meaning": "che đậy một cái gì đó hoặc ai đó",
+          "example_1": "A shadow fell over her work and she looked up to see who was there.",
+          "example_1_vn": "Một cái bóng đổ xuống tác phẩm của cô và cô nhìn lên xem ai ở đó.",
           "example_2": "",
           "image": "",
           "audio": ""
@@ -2059,6 +2643,31 @@
           "audio": ""
         },
         {
+          "word": "get behind",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to fail to do as much work or pay as much money as you should by a particular time",
+          "meaning": "không làm được nhiều việc hoặc trả nhiều tiền như bạn nên làm vào một thời điểm cụ thể",
+          "example_1": "She got behind with her mortgage and the house was repossessed.",
+          "example_1_vn": "Cô ấy không trả được khoản thế chấp của mình và ngôi nhà đã bị thu hồi.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "get behind sb/sth",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to support someone or something",
+          "meaning": "hỗ trợ ai đó hoặc một cái gì đó",
+          "example_1": "If every member of the top management team doesn't get behind this project, it's never going to work.",
+          "example_1_vn": "Nếu mọi thành viên trong đội ngũ quản lý cấp cao không ủng hộ dự án này thì nó sẽ không bao giờ thành công.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+
+        {
           "word": "get along",
           "partOfSpeech": "phrasal verb",
           "phonetic": "",
@@ -2066,6 +2675,18 @@
           "meaning": "hòa hợp (hai người trở lên hợp nhau thì thích nhau và thân thiện với nhau)",
           "example_1": "I don't really get along with my sister's husband.",
           "example_1_vn": "Tôi thực sự không hòa hợp với chồng của chị gái tôi.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "get around",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to travel to a lot of places",
+          "meaning": "đi du lịch đến nhiều nơi",
+          "example_1": "Spain last week and Germany this week - he gets around, doesn't he!",
+          "example_1_vn": "Tây Ban Nha tuần trước và Đức tuần này - anh ấy đã đi vòng quanh, phải không!",
           "example_2": "",
           "image": "",
           "audio": ""
@@ -2093,9 +2714,248 @@
           "example_2": "",
           "image": "",
           "audio": ""
+        },
+        {
+          "word": "get away",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to leave or escape from a person or place, often when it is difficult to do this",
+          "meaning": "tránh xa, thoát khỏi, rời khỏi (rời khỏi hoặc trốn thoát khỏi một người hoặc một nơi nào đó, thường là khi việc này khó thực hiện)",
+          "example_1": "We walked to the next beach to get away from the crowds.",
+          "example_1_vn": "Chúng tôi đi bộ đến bãi biển tiếp theo để tránh xa đám đông.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "get back",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to return to a place after you have been somewhere else",
+          "meaning": "trở lại một nơi sau khi bạn đã ở một nơi khác",
+          "example_1": "When we got back to the hotel Ann had already left.",
+          "example_1_vn": "Khi chúng tôi quay lại khách sạn thì Ann đã rời đi rồi.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "get someone back",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to do something unpleasant to someone because they have done something unpleasant to you",
+          "meaning": "làm điều gì đó khó chịu với ai đó vì họ đã làm điều gì đó khó chịu với bạn",
+          "example_1": "I'll get you back for this, just you wait!",
+          "example_1_vn": "Tôi sẽ trả lại cho bạn việc này, bạn cứ đợi nhé!",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "get something back",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to be given something again that you had before",
+          "meaning": "được trao lại thứ gì đó mà bạn đã có trước đây",
+          "example_1": "He went next door to get his ball back.",
+          "example_1_vn": "Anh ấy đi sang nhà bên cạnh để lấy lại quả bóng của mình.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "get back something",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to obtain something again after loss or separation",
+          "meaning": "lấy lại được thứ gì đó sau khi mất mát hoặc chia ly",
+          "example_1": "She was thrilled to get her old job back.",
+          "example_1_vn": "Cô rất vui mừng khi được trở lại công việc cũ.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "get by",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to be able to live or deal with a situation with difficulty, usually by having just enough of something you need, such as money",
+          "meaning": "xoay sở (để có thể sống hoặc giải quyết một tình huống khó khăn, thường là bằng cách có vừa đủ thứ bạn cần, chẳng hạn như tiền)",
+          "example_1": "We can get by with four computers at the moment, but we'll need a couple more when the new staff arrive.",
+          "example_1_vn": "Hiện tại chúng tôi có thể xoay sở với bốn chiếc máy tính, nhưng chúng tôi sẽ cần thêm một vài chiếc nữa khi nhân viên mới đến.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "go along",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to go to a place or event, usually without much planning",
+          "meaning": "đi đến một địa điểm hoặc sự kiện, thường không có kế hoạch gì nhiều",
+          "example_1": "He went along to the meeting with no expectations.",
+          "example_1_vn": "Anh ấy đến dự cuộc họp mà không hề mong đợi gì.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "go away",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to leave a place",
+          "meaning": "rời, đi khỏi",
+          "example_1": "Go away and leave me alone!",
+          "example_1_vn": "Hãy đi đi và để tôi yên!",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "go beyond sth",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to be more than or not limited to something",
+          "meaning": "vượt ngoài, vượt khỏi (nhiều hơn hoặc không giới hạn ở một cái gì đó)",
+          "example_1": "The appeal of this device goes beyond convenience.",
+          "example_1_vn": "Sự hấp dẫn của thiết bị này vượt xa sự tiện lợi.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "go down",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to move down to a lower level or place",
+          "meaning": "hạ, giảm (di chuyển xuống một mức độ hoặc địa điểm thấp hơn)",
+          "example_1": "Could I have a glass of water to help these pills go down?",
+          "example_1_vn": "Tôi có thể uống một ly nước để giúp những viên thuốc này trôi xuống được không?",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "go through",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to be officially accepted or approved",
+          "meaning": "được chính thức chấp nhận hoặc phê duyệt",
+          "example_1": "We're hoping that the proposal for the new mall won’t go through.",
+          "example_1_vn": "Chúng tôi hy vọng rằng đề xuất về trung tâm mua sắm mới sẽ không được thông qua.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "go through something",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to experience a difficult or unpleasant situation",
+          "meaning": "trải qua một tình huống khó khăn hoặc khó chịu",
+          "example_1": "She’s been going through a difficult time since her brother’s illness.",
+          "example_1_vn": "Cô ấy đã trải qua khoảng thời gian khó khăn kể từ khi anh trai cô ấy bị bệnh.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "go up",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to move higher, rise, or increase",
+          "meaning": "di chuyển cao hơn, tăng lên",
+          "example_1": "She always worry when her weight going up.",
+          "example_1_vn": "Cô luôn lo lắng khi cân nặng của mình tăng.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "look back",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to think about something that happened in the past",
+          "meaning": "nhìn lại (ngẫm lại, nghĩ lại một chuyện gì đó đã qua)",
+          "example_1": "When I look back I can see where we went wrong.",
+          "example_1_vn": "Khi nhìn lại, tôi có thể thấy chúng tôi đã sai ở đâu.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "look forward to something",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to feel pleased and excited about something that is going to happen",
+          "meaning": "mong chờ điều gì đó",
+          "example_1": "I'm really looking forward to my holiday.",
+          "example_1_vn": "Tôi thực sự mong chờ kỳ nghỉ của mình.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "look out for someone/something",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to try to notice someone or something",
+          "meaning": "cố gắng để ý đến ai đó hoặc cái gì đó",
+          "example_1": "Look out for Anna while you're there.",
+          "example_1_vn": "Hãy để ý Anna khi bạn ở đó.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "look something up",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to try to find a piece of information by looking in a book or on a computer",
+          "meaning": "cố gắng tìm kiếm một thông tin bằng cách tìm trong sách hoặc trên máy tính",
+          "example_1": "If you don't know what the word means, look it up in a dictionary.",
+          "example_1_vn": "Nếu bạn không biết nghĩa của từ đó, hãy tra từ điển.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "take after someone",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to be similar to an older member of your family in appearance or character",
+          "meaning": "giống ai đó về ngoại hình, tính cách",
+          "example_1": "John takes after his mother.",
+          "example_1_vn": "John giống mẹ anh ấy.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "take something off",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "to remove something, especially clothes",
+          "meaning": "loại bỏ cái gì đó, đặc biệt là quần áo",
+          "example_1": "He took off his clothes and got into the shower.",
+          "example_1_vn": "Anh cởi quần áo và bước vào phòng tắm.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
+        },
+        {
+          "word": "take off",
+          "partOfSpeech": "phrasal verb",
+          "phonetic": "",
+          "definitionOfWord": "If an aircraft, bird, or insect takes off, it leaves the ground and begins to fly",
+          "meaning": "cất cánh (nếu một chiếc máy bay, một con chim hoặc côn trùng cất cánh, nó sẽ rời khỏi mặt đất và bắt đầu bay)",
+          "example_1": "The plane took off at 8.30 a.m.",
+          "example_1_vn": "Máy bay cất cánh lúc 8h30 sáng.",
+          "example_2": "",
+          "image": "",
+          "audio": ""
         }
       ]
     }
   ]
-
 }
