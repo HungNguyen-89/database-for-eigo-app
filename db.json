@@ -3022,5 +3022,90 @@
       "image": "",
       "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/become-us.mp3"
     }
+  ],
+  "adverb":[
+    {
+      "word": "always",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈɔːl.weɪz/",
+      "definitionOfWord": "every time or all the time",
+      "meaning": "luôn luôn",
+      "example_1": "She always spells my name wrong.",
+      "example_1_vn": "Cô ấy luôn đánh vần sai tên tôi.",
+      "example_2": "",
+      "image": "",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/always-us.mp3"
+    },
+    {
+      "word": "usually",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈjuː.ʒu.ə.li/",
+      "definitionOfWord": "in the way that most often happens",
+      "meaning": "thường xuyên",
+      "example_1": "I usually just have a sandwich for lunch.",
+      "example_1_vn": "Tôi thường chỉ có một chiếc bánh sandwich cho bữa trưa.",
+      "example_2": "",
+      "image": "",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/usually-us.mp3"
+    },
+    {
+      "word": "frequently",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈfriː.kwənt.li/",
+      "definitionOfWord": "often",
+      "meaning": "thường xuyên",
+      "example_1": "I see him frequently.",
+      "example_1_vn": "Tôi gặp anh ấy thường xuyên.",
+      "example_2": "",
+      "image": "",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/frequently-us.mp3"
+    },
+    {
+      "word": "often",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈɒf.ən/",
+      "definitionOfWord": "many times",
+      "meaning": "thường xuyên",
+      "example_1": "I often see him in the garden.",
+      "example_1_vn": "Tôi thường thấy anh ấy trong vườn.",
+      "example_2": "",
+      "image": "",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/often-us.mp3"
+    },
+    {
+      "word": "sometimes",
+      "partOfSpeech": "adverb",
+      "phonetic": "/ˈsʌm.taɪmz/",
+      "definitionOfWord": "on some occasions but not always or often",
+      "meaning": "thỉnh thoảng",
+      "example_1": "He sometimes goes to America.",
+      "example_1_vn": "Anh ấy thỉnh thoảng đi Mỹ.",
+      "example_2": "",
+      "image": "",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sometimes-us.mp3"
+    },
+    {
+      "word": "occasionally",
+      "partOfSpeech": "adverb",
+      "phonetic": "/əˈkeɪ.ʒən.əl.i/",
+      "definitionOfWord": "sometimes but not often",
+      "meaning": "thỉnh thoảng",
+      "example_1": "I see him occasionally in town.",
+      "example_1_vn": "Tôi thỉnh thoảng gặp anh ấy trong thị trấn.",
+      "example_2": "",
+      "image": "",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/occasionally-us.mp3"
+    },
+    {
+      "word": "add",
+      "partOfSpeech": "verb",
+      "phonetic": "/æd/",
+      "definitionOfWord": "to put something with something else to increase the number or amount or to improve the whole",
+      "meaning": "thêm vào",
+      "example_1": "Beat the butter and sugar together and slowly add the eggs.",
+      "example_1_vn": "Đánh bơ và đường với nhau rồi từ từ thêm trứng vào.",
+      "image": "",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/add-us.mp3"
+    }
   ]
 }
