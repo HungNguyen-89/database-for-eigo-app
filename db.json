@@ -2955,157 +2955,50 @@
       ]
     }
   ],
-  "verb": [
+  "dictionary": [
     {
-      "word": "add",
-      "partOfSpeech": "verb",
-      "phonetic": "/æd/",
-      "definitionOfWord": "to put something with something else to increase the number or amount or to improve the whole",
-      "meaning": "thêm vào",
-      "example_1": "Beat the butter and sugar together and slowly add the eggs.",
-      "example_1_vn": "Đánh bơ và đường với nhau rồi từ từ thêm trứng vào.",
-      "image": "",
-      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/add-us.mp3"
+      "id":"add",
+      "data":[
+        {
+          "partOfSpeech": "verb",
+          "phonetic": "/æd/",
+          "definitionOfWord": "to put something with something else to increase the number or amount or to improve the whole",
+          "meaning": "thêm vào",
+          "example_1": "Beat the butter and sugar together and slowly add the eggs.",
+          "example_1_vn": "Đánh bơ và đường với nhau rồi từ từ thêm trứng vào.",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/add-us.mp3"
+        },
+        {
+          "partOfSpeech": "adverb",
+          "phonetic": "/æd/",
+          "definitionOfWord": "every time or all the time",
+          "meaning": "luôn luôn",
+          "example_1": "She always spells my name wrong.",
+          "example_1_vn": "Cô ấy luôn đánh vần sai tên tôi.",
+          "example_2": "",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/always-us.mp3"
+        }
+      ]
     },
     {
-      "word": "agree",
-      "partOfSpeech": "verb",
-      "phonetic": "/əˈɡriː/",
-      "definitionOfWord": "to accept a suggestion or idea",
-      "meaning": "đồng ý",
-      "example_1": "He agreed to our request.",
-      "example_1_vn": "Anh ấy đã đồng ý với yêu cầu của chúng tôi.",
-      "image": "",
-      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/agree-us.mp3"
-    },
-    {
-      "word": "allow",
-      "partOfSpeech": "verb",
-      "phonetic": "/əˈlaʊ/",
-      "definitionOfWord": "to give permission for someone to do something, or to not prevent something from happening",
-      "meaning": "cho phép",
-      "example_1": "Smoking is not allowed inside the restaurant.",
-      "example_1_vn": "Không được phép hút thuốc trong nhà hàng.",
-      "image": "",
-      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/allow-us.mp3"
-    },
-    {
-      "word": "appear",
-      "partOfSpeech": "verb",
-      "phonetic": "/əˈpɪər/",
-      "definitionOfWord": "to start to be seen or to be present",
-      "meaning": "xuất hiện",
-      "example_1": "He suddenly appeared in the doorway.",
-      "example_1_vn": "Anh ấy bất ngờ xuất hiện ở ngưỡng cửa.",
-      "image": "",
-      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/appear-us.mp3"
-    },
-    {
-      "word": "ask",
-      "partOfSpeech": "verb",
-      "phonetic": "/æsk/",
-      "definitionOfWord": "to put a question to someone, or to request an answer from someone",
-      "meaning": "hỏi",
-      "example_1": "He asked me what the time was.",
-      "example_1_vn": "Anh ấy hỏi tôi mấy giờ rồi.",
-      "image": "",
-      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ask-us.mp3"
-    },
-    {
-      "word": "become",
-      "partOfSpeech": "verb",
-      "phonetic": "/bɪˈkʌm/",
-      "definitionOfWord": "to start to be",
-      "meaning": "trở nên",
-      "example_1": "It was becoming cold, so we lit the fire.",
-      "example_1_vn": "Trời trở lạnh, nên chúng tôi đốt lửa.",
-      "image": "",
-      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/become-us.mp3"
-    }
-  ],
-  "adverb":[
-    {
-      "word": "always",
-      "partOfSpeech": "adverb",
-      "phonetic": "/ˈɔːl.weɪz/",
-      "definitionOfWord": "every time or all the time",
-      "meaning": "luôn luôn",
-      "example_1": "She always spells my name wrong.",
-      "example_1_vn": "Cô ấy luôn đánh vần sai tên tôi.",
-      "example_2": "",
-      "image": "",
-      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/always-us.mp3"
-    },
-    {
-      "word": "usually",
-      "partOfSpeech": "adverb",
-      "phonetic": "/ˈjuː.ʒu.ə.li/",
-      "definitionOfWord": "in the way that most often happens",
-      "meaning": "thường xuyên",
-      "example_1": "I usually just have a sandwich for lunch.",
-      "example_1_vn": "Tôi thường chỉ có một chiếc bánh sandwich cho bữa trưa.",
-      "example_2": "",
-      "image": "",
-      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/usually-us.mp3"
-    },
-    {
-      "word": "frequently",
-      "partOfSpeech": "adverb",
-      "phonetic": "/ˈfriː.kwənt.li/",
-      "definitionOfWord": "often",
-      "meaning": "thường xuyên",
-      "example_1": "I see him frequently.",
-      "example_1_vn": "Tôi gặp anh ấy thường xuyên.",
-      "example_2": "",
-      "image": "",
-      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/frequently-us.mp3"
-    },
-    {
-      "word": "often",
-      "partOfSpeech": "adverb",
-      "phonetic": "/ˈɒf.ən/",
-      "definitionOfWord": "many times",
-      "meaning": "thường xuyên",
-      "example_1": "I often see him in the garden.",
-      "example_1_vn": "Tôi thường thấy anh ấy trong vườn.",
-      "example_2": "",
-      "image": "",
-      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/often-us.mp3"
-    },
-    {
-      "word": "sometimes",
-      "partOfSpeech": "adverb",
-      "phonetic": "/ˈsʌm.taɪmz/",
-      "definitionOfWord": "on some occasions but not always or often",
-      "meaning": "thỉnh thoảng",
-      "example_1": "He sometimes goes to America.",
-      "example_1_vn": "Anh ấy thỉnh thoảng đi Mỹ.",
-      "example_2": "",
-      "image": "",
-      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sometimes-us.mp3"
-    },
-    {
-      "word": "occasionally",
-      "partOfSpeech": "adverb",
-      "phonetic": "/əˈkeɪ.ʒən.əl.i/",
-      "definitionOfWord": "sometimes but not often",
-      "meaning": "thỉnh thoảng",
-      "example_1": "I see him occasionally in town.",
-      "example_1_vn": "Tôi thỉnh thoảng gặp anh ấy trong thị trấn.",
-      "example_2": "",
-      "image": "",
-      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/occasionally-us.mp3"
-    },
-    {
-      "word": "add",
-      "partOfSpeech": "verb",
-      "phonetic": "/æd/",
-      "definitionOfWord": "to put something with something else to increase the number or amount or to improve the whole",
-      "meaning": "thêm vào",
-      "example_1": "Beat the butter and sugar together and slowly add the eggs.",
-      "example_1_vn": "Đánh bơ và đường với nhau rồi từ từ thêm trứng vào.",
-      "image": "",
-      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/add-us.mp3"
+      "id":"always",
+      "data":[
+        {
+          "word": "always",
+          "partOfSpeech": "adverb",
+          "phonetic": "/ˈɔːl.weɪz/",
+          "definitionOfWord": "every time or all the time",
+          "meaning": "luôn luôn",
+          "example_1": "She always spells my name wrong.",
+          "example_1_vn": "Cô ấy luôn đánh vần sai tên tôi.",
+          "example_2": "",
+          "image": "",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/always-us.mp3"
+        }
+      ]
     }
   ]
+
 }
