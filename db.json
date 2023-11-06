@@ -61,7 +61,6 @@
       ]
     }
   ],
-
   "flashcards-verb-data": [
     {
       "id": "verb-basic-1",
@@ -1600,8 +1599,7 @@
           "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/share-us.mp3"
         }
       ]
-    }
-    ,
+    },
     {
       "id": "verb-basic-5",
       "flashCardData": [
@@ -1716,7 +1714,7 @@
           "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prepare-us.mp3"
         }
       ]
-    } ,
+    },
     {
       "id": "verb-basic-6",
       "flashCardData": [
@@ -1774,8 +1772,7 @@
           "example_1_vn": "Khi nào bạn bắt đầu công việc mới?",
           "image": "",
           "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/start-us.mp3"
-        }
-        ,
+        },
         {
           "word": "stop",
           "partOfSpeech": "verb",
@@ -2956,6 +2953,74 @@
           "audio": ""
         }
       ]
+    }
+  ],
+  "verb": [
+    {
+      "word": "add",
+      "partOfSpeech": "verb",
+      "phonetic": "/æd/",
+      "definitionOfWord": "to put something with something else to increase the number or amount or to improve the whole",
+      "meaning": "thêm vào",
+      "example_1": "Beat the butter and sugar together and slowly add the eggs.",
+      "example_1_vn": "Đánh bơ và đường với nhau rồi từ từ thêm trứng vào.",
+      "image": "",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/add-us.mp3"
+    },
+    {
+      "word": "agree",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈɡriː/",
+      "definitionOfWord": "to accept a suggestion or idea",
+      "meaning": "đồng ý",
+      "example_1": "He agreed to our request.",
+      "example_1_vn": "Anh ấy đã đồng ý với yêu cầu của chúng tôi.",
+      "image": "",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/agree-us.mp3"
+    },
+    {
+      "word": "allow",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈlaʊ/",
+      "definitionOfWord": "to give permission for someone to do something, or to not prevent something from happening",
+      "meaning": "cho phép",
+      "example_1": "Smoking is not allowed inside the restaurant.",
+      "example_1_vn": "Không được phép hút thuốc trong nhà hàng.",
+      "image": "",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/allow-us.mp3"
+    },
+    {
+      "word": "appear",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈpɪər/",
+      "definitionOfWord": "to start to be seen or to be present",
+      "meaning": "xuất hiện",
+      "example_1": "He suddenly appeared in the doorway.",
+      "example_1_vn": "Anh ấy bất ngờ xuất hiện ở ngưỡng cửa.",
+      "image": "",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/appear-us.mp3"
+    },
+    {
+      "word": "ask",
+      "partOfSpeech": "verb",
+      "phonetic": "/æsk/",
+      "definitionOfWord": "to put a question to someone, or to request an answer from someone",
+      "meaning": "hỏi",
+      "example_1": "He asked me what the time was.",
+      "example_1_vn": "Anh ấy hỏi tôi mấy giờ rồi.",
+      "image": "",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ask-us.mp3"
+    },
+    {
+      "word": "become",
+      "partOfSpeech": "verb",
+      "phonetic": "/bɪˈkʌm/",
+      "definitionOfWord": "to start to be",
+      "meaning": "trở nên",
+      "example_1": "It was becoming cold, so we lit the fire.",
+      "example_1_vn": "Trời trở lạnh, nên chúng tôi đốt lửa.",
+      "image": "",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/become-us.mp3"
     }
   ]
 }
