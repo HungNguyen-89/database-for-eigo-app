@@ -2989,6 +2989,22 @@
     },
 
     {
+      "id": "lively20141201",
+      "data": [
+        {
+          "word": "lively",
+          "partOfSpeech": "adjective",
+          "phonetic": "/ˈlaɪv.li/",
+          "definitionOfWord": "full of energy and enthusiasm; interesting and exciting ",
+          "meaningOfWord": "tràn đầy năng lượng và nhiệt huyết; thú vị và hấp dẫn",
+          "exampleEn": "There was some lively discussion at the meeting.",
+          "exampleVn": "Có một số cuộc thảo luận sôi nổi tại cuộc họp.",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lively-us.mp3"
+        }
+      ]
+    },
+
+    {
       "id": "lively",
       "data": [
         {
