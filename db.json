@@ -129,6 +129,7 @@
   "flashcards-verb-data": [
     {
       "id": "verb-basic-1",
+      "name_flashcard": "Verb-1",
       "flashCardData": [
         {
           "word": "always",
@@ -502,6 +503,7 @@
     },
     {
       "id": "verb-basic-2",
+      "name_flashcard": "Verb-2",
       "flashCardData": [
         {
           "word": "hear",
@@ -881,6 +883,7 @@
     },
     {
       "id": "verb-basic-3",
+      "name_flashcard": "Verb-3",
       "flashCardData": [
         {
           "word": "claim",
@@ -1271,6 +1274,7 @@
     },
     {
       "id": "verb-basic-4",
+      "name_flashcard": "Verb-4",
       "flashCardData": [
         {
           "word": "present",
@@ -1661,6 +1665,7 @@
     },
     {
       "id": "verb-basic-5",
+      "name_flashcard": "Verb-5",
       "flashCardData": [
         {
           "word": "remove",
@@ -1776,6 +1781,7 @@
     },
     {
       "id": "verb-basic-6",
+      "name_flashcard": "Verb-6",
       "flashCardData": [
         {
           "word": "sit",
@@ -1893,6 +1899,7 @@
   "flashcards-adv-data": [
     {
       "id": "adv-basic-1",
+      "name_flashcard": "Adverb-1",
       "flashCardData": [
         {
           "word": "always",
@@ -2258,6 +2265,7 @@
     },
     {
       "id": "adv-basic-2",
+      "name_flashcard": "Adverb-2",
       "flashCardData": [
         {
           "word": "anywhere",
@@ -2601,6 +2609,7 @@
   "flashcards-phrasal-data": [
     {
       "id": "phrasal-basic-1",
+      "name_flashcard": "Phrasal verb-1",
       "flashCardData": [
         {
           "word": "fall down",
@@ -3016,6 +3025,7 @@
   "flashcards-business-data": [
     {
       "id": "business-basic-1",
+      "name_flashcard": "Business-1",
       "flashCardData": [
         {
           "word": "response",
@@ -3516,6 +3526,7 @@
     },
     {
       "id": "business-basic-2",
+      "name_flashcard": "Business-2",
       "flashCardData": [
         {
           "word": "invoice",
@@ -4016,6 +4027,7 @@
     },
     {
       "id": "business-basic-3",
+      "name_flashcard": "Business-3",
       "flashCardData": [
         {
           "word": "adjust",
@@ -4516,6 +4528,7 @@
     },
     {
       "id": "business-basic-4",
+      "name_flashcard": "Business-4",
       "flashCardData": [
         {
           "word": "absolutely",
@@ -5016,6 +5029,7 @@
     },
     {
       "id": "business-basic-5",
+      "name_flashcard": "Business-5",
       "flashCardData": [
         {
           "word": "communication",
@@ -5516,6 +5530,7 @@
     },
     {
       "id": "business-basic-6",
+      "name_flashcard": "Business-6",
       "flashCardData": [
         {
           "word": "expect",
@@ -6016,6 +6031,7 @@
     },
     {
       "id": "business-basic-7",
+      "name_flashcard": "Business-7",
       "flashCardData": [
         {
           "word": "task",
@@ -6516,6 +6532,7 @@
     },
     {
       "id": "business-basic-8",
+      "name_flashcard": "Business-8",
       "flashCardData": [
         {
           "word": "integrate",
@@ -7016,6 +7033,7 @@
     },
     {
       "id": "business-basic-9",
+      "name_flashcard": "Business-9",
       "flashCardData": [
         {
           "word": "prevent",
@@ -7516,6 +7534,7 @@
     },
     {
       "id": "business-basic-10",
+      "name_flashcard": "Business-10",
       "flashCardData": [
         {
           "word": "gratitude",
@@ -8016,6 +8035,7 @@
     },
     {
       "id": "business-basic-11",
+      "name_flashcard": "Business-11",
       "flashCardData": [
         {
           "word": "encouraging",
