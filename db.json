@@ -21745,6 +21745,500 @@
       ]
     }
   ],
+  "flashcards-kanji-data": [
+    {
+      "id": "kanji-basic-1",
+      "name_flashcard": "Kanji-1",
+      "flashCardData": [
+        {
+          "word": "你",
+          "phonetic": "nǐ",
+          "definitionOfWord": "Bạn ",
+          "meaning": "nǐ kànguò zhè běn shū ma?",
+          "example_1": "你看过这本书吗？",
+          "example_1_vn": "Bạn đã đọc cuốn sách này chưa?"
+        },
+        {
+          "word": "您",
+          "phonetic": "nín ",
+          "definitionOfWord": "Ngài",
+          "meaning": "qǐng nín shāo děng yīxià, wǒ mǎshàng lái.",
+          "example_1": "请您稍等一下，我马上来。",
+          "example_1_vn": "Sếp chờ em một chút, em sẽ đến ngay."
+        },
+        {
+          "word": "们",
+          "phonetic": "men ",
+          "definitionOfWord": "Đại từ / N + 们 ： Số nhiều  ( các ….)",
+          "meaning": "nǐmen yǒu wèntí ma?",
+          "example_1": "你们有问题吗？",
+          "example_1_vn": "Các em có câu hỏi nào không?"
+        },
+        {
+          "word": "好",
+          "phonetic": "hǎo ",
+          "definitionOfWord": "ổn; hay; tốt",
+          "meaning": "tā de gōngzuò tàidù hěn hǎo.",
+          "example_1": "他的工作态度很好。",
+          "example_1_vn": "Thái độ làm việc của anh ấy rất tốt."
+        },
+        {
+          "word": "是",
+          "phonetic": "shì",
+          "definitionOfWord": "Là",
+          "meaning": "zhè běn shū shì wǒ de.",
+          "example_1": "这本书是我的。",
+          "example_1_vn": "Quyển sách này là của tôi."
+        },
+        {
+          "word": "老师",
+          "phonetic": "lǎo shī",
+          "definitionOfWord": "Giáo viên",
+          "meaning": "lǎoshī měitiān dōu hěn xīnkǔ.",
+          "example_1": "老师每天都很辛苦。",
+          "example_1_vn": "Giáo viên mỗi ngày đều rất vất vả."
+        },
+        {
+          "word": "姓",
+          "phonetic": "xìng",
+          "definitionOfWord": "Họ",
+          "meaning": "tā de xìngshì hěn tèbié.",
+          "example_1": "他的姓氏很特别。",
+          "example_1_vn": "Họ của anh ấy rất đặc biệt."
+        },
+        {
+          "word": "我",
+          "phonetic": "wǒ",
+          "definitionOfWord": "Tôi",
+          "meaning": "wǒ zhèngzài xuéxí Hànyǔ.",
+          "example_1": "我正在学习汉语。",
+          "example_1_vn": "Tôi đang học tiếng Trung."
+        },
+        {
+          "word": "吗",
+          "phonetic": "ma",
+          "definitionOfWord": "..... không?",
+          "meaning": "nǐ shì xuéshēng ma?",
+          "example_1": "你是学生吗？",
+          "example_1_vn": "Bạn là học sinh à?"
+        },
+        {
+          "word": "不",
+          "phonetic": "bù",
+          "definitionOfWord": "Không",
+          "meaning": "tāmen bù xǐhuan zhè shǒu gē.",
+          "example_1": "他们不喜欢这首歌。",
+          "example_1_vn": "Họ không thích bài hát này."
+        },
+        {
+          "word": "学生 ",
+          "phonetic": "xué shēng ",
+          "definitionOfWord": "Học sinh",
+          "meaning": "nǐ shìgè xuéshēng ba?",
+          "example_1": "你是个学生吧？",
+          "example_1_vn": "Cậu là học sinh nhỉ?"
+        },
+        {
+          "word": "她",
+          "phonetic": "tā",
+          "definitionOfWord": "Cô ấy; chị ấy; bà ấy (phái nữ)",
+          "meaning": "tā shì wǒ de hǎo péngyou.",
+          "example_1": "她是我的好朋友。",
+          "example_1_vn": "Cô ấy là bạn tốt của tôi."
+        },
+        {
+          "word": "他",
+          "phonetic": "tā",
+          "definitionOfWord": "Anh ấy; hắn; anh ta; cậu ấy; người ấy (đàn ông)",
+          "meaning": "tā shì wǒ de nánpéngyou.",
+          "example_1": "他是我的男朋友。",
+          "example_1_vn": "Cậu ấy là bạn trai của tôi."
+        },
+        {
+          "word": "谢谢",
+          "phonetic": "xiè xie",
+          "definitionOfWord": "Cảm ơn ",
+          "meaning": "xièxie nín, xiānsheng",
+          "example_1": "谢谢您，先生。",
+          "example_1_vn": "Cảm ơn ngài."
+        },
+        {
+          "word": "不客气",
+          "phonetic": "bú keqi",
+          "definitionOfWord": "Đừng khách sáo",
+          "meaning": "tā xièxiè wǒ, wǒ bù kèqi.",
+          "example_1": "他谢谢我，我说不客气。",
+          "example_1_vn": "Anh ấy cảm ơn tôi, tôi nói không có gì."
+        },
+        {
+          "word": "留学生",
+          "phonetic": "liúxuéshēng",
+          "definitionOfWord": "Du học sinh",
+          "meaning": "tā shì Zhōngguó liúxuéshēng.",
+          "example_1": "他是中国留学生。",
+          "example_1_vn": "Anh ấy là du học sinh Trung Quốc."
+        },
+        {
+          "word": "留学",
+          "phonetic": "liúxué",
+          "definitionOfWord": "Du học",
+          "meaning": "wǒ zài jiānádà liúxué.",
+          "example_1": "我在加拿大留学。",
+          "example_1_vn": "Tôi du học tại Canada."
+        },
+        {
+          "word": "叫",
+          "phonetic": "jiào ",
+          "definitionOfWord": "Gọi là",
+          "meaning": "tā de māo jiào mī mī.",
+          "example_1": "她的猫叫咪咪。",
+          "example_1_vn": "Con mèo của cô ấy tên là Mimi."
+        },
+        {
+          "word": "什么",
+          "phonetic": "shén me",
+          "definitionOfWord": "Cái gì? ",
+          "meaning": "nǐ zuì xǐhuan de shíwù shì shénme?",
+          "example_1": "你最喜欢的食物是什么？",
+          "example_1_vn": "Món ăn yêu thích của bạn là gì?"
+        },
+        {
+          "word": "名字",
+          "phonetic": "míng zi",
+          "definitionOfWord": "Tên",
+          "meaning": "tā jiào shénme míngzi?",
+          "example_1": "他叫什么名字？",
+          "example_1_vn": "Anh ấy tên là gì?"
+        },
+        {
+          "word": "歌手",
+          "phonetic": "gē shǒu ",
+          "definitionOfWord": "Ca sĩ",
+          "meaning": "tā shì yī wèi zhùmíng de gēshǒu.",
+          "example_1": "她是一位著名的歌手。",
+          "example_1_vn": "Cô ấy là một ca sĩ nổi tiếng."
+        },
+        {
+          "word": "医生",
+          "phonetic": "yī shēng ",
+          "definitionOfWord": "Bác sĩ",
+          "meaning": "yīshēng zài jiù rén.",
+          "example_1": "医生在救人。",
+          "example_1_vn": "Các bác sĩ đang cứu người."
+        },
+        {
+          "word": "司机",
+          "phonetic": "sī jī",
+          "definitionOfWord": "Tài xế, lái xe",
+          "meaning": "sījī zhèngzài děng wǒmen.",
+          "example_1": "司机正在等我们。",
+          "example_1_vn": "Tài xế đang đợi chúng ta."
+        },
+        {
+          "word": "农民",
+          "phonetic": "nóng mín",
+          "definitionOfWord": "Nông dân",
+          "meaning": "tāmen bù dōu shì nóngmín.",
+          "example_1": "他们不都是农民。",
+          "example_1_vn": "Không phải tất cả họ đều là nông dân."
+        },
+        {
+          "word": "大夫",
+          "phonetic": "dài fu",
+          "definitionOfWord": "Đại phu , bác sĩ đông y ",
+          "meaning": "dàifu gàosù wǒ yào xiūxi.",
+          "example_1": "大夫告诉我要休息。",
+          "example_1_vn": "Bác sĩ bảo tôi cần nghỉ ngơi."
+        },
+        {
+          "word": "生词",
+          "phonetic": "shēng cí ",
+          "definitionOfWord": "Từ mới",
+          "meaning": "jīntiān wǒmen xuéle shí gè shēngcí.",
+          "example_1": "今天我们学了十个生词。",
+          "example_1_vn": "Hôm nay chúng tôi đã học 10 từ mới."
+        },
+        {
+          "word": "很好",
+          "phonetic": "hěn hǎo",
+          "definitionOfWord": "Rất tốt",
+          "meaning": "hěn hǎo xièxie",
+          "example_1": "很好，谢谢。",
+          "example_1_vn": "Rất tốt, cảm ơn."
+        },
+        {
+          "word": "好吧",
+          "phonetic": "hǎo ba",
+          "definitionOfWord": "Thôi được; được rồi; được thôi",
+          "meaning": "hǎo ba, wǒ huì tīng nǐ de.",
+          "example_1": "好吧，我会听你的。",
+          "example_1_vn": "Được rồi, tôi sẽ nghe bạn."
+        },
+        {
+          "word": "好啊",
+          "phonetic": "hǎo a",
+          "definitionOfWord": "Được rồi",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "好的",
+          "phonetic": "hǎo de",
+          "definitionOfWord": "Vâng ạ; được ạ",
+          "meaning": "hǎo de, wǒ lái chǔlǐ.",
+          "example_1": "好的，我来处理。",
+          "example_1_vn": "Vâng ạ, em sẽ xử lý."
+        },
+        {
+          "word": "是吗",
+          "phonetic": "shì ma",
+          "definitionOfWord": "Vậy à; thật à; đúng không; phải không",
+          "meaning": "tā shì nǐ de lǎoshī, shì ma?",
+          "example_1": "他是你的老师，是吗？",
+          "example_1_vn": "Anh ấy là giáo viên của bạn, phải không?"
+        },
+        {
+          "word": "是的",
+          "phonetic": "shì de",
+          "definitionOfWord": "Đúng vậy; đúng thế; đúng là vậy",
+          "meaning": "shì de, zhè shì wǒ de jìhuà.",
+          "example_1": "是的，这是我的计划。",
+          "example_1_vn": "Đúng thế, đây là kế hoạch của tôi."
+        },
+        {
+          "word": "是啊",
+          "phonetic": "shì a",
+          "definitionOfWord": "",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "不是",
+          "phonetic": "bù shì",
+          "definitionOfWord": "không phải; không đúng",
+          "meaning": "wǒ bùshì yǒuyì de, zhēn de!",
+          "example_1": "我不是有意的，真的！",
+          "example_1_vn": "Tớ không có ý gì, thật đó!"
+        },
+        {
+          "word": "不好了",
+          "phonetic": "bù hǎo le",
+          "definitionOfWord": "",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "姐姐",
+          "phonetic": "jiě jie",
+          "definitionOfWord": "chị gái; chị ruột",
+          "meaning": "tā shì wǒ de jiě jie.",
+          "example_1": "她是我的姐姐。",
+          "example_1_vn": "Cô ấy là chị gái tôi."
+        },
+        {
+          "word": "奶奶",
+          "phonetic": "nǎi nai ",
+          "definitionOfWord": "bà nội",
+          "meaning": "wǒ dǎsuàn qù kàn nǎinai.",
+          "example_1": "我打算去看奶奶。",
+          "example_1_vn": "Tôi định đi thăm bà nội."
+        },
+        {
+          "word": "妈妈",
+          "phonetic": "mā ma",
+          "definitionOfWord": "mẹ",
+          "meaning": "māma zài zuò fàn.",
+          "example_1": "妈妈在做饭。",
+          "example_1_vn": "Mẹ đang nấu cơm."
+        }
+      ]
+    },
+    {
+      "id": "kanji-basic-2",
+      "name_flashcard": "Kanji-2",
+      "flashCardData": [
+        {
+          "word": "哪",
+          "phonetic": "nǎ",
+          "definitionOfWord": "Nào?",
+          "meaning": "nǎ sān gè rén fùzé zhège xiàngmù?",
+          "example_1": "哪三个人负责这个项目？",
+          "example_1_vn": "Ba người nào phụ trách dự án này?"
+        },
+        {
+          "word": "个",
+          "phonetic": "gè",
+          "definitionOfWord": "cái; con; quả; trái; người (lượng từ)",
+          "meaning": "zhuōzi shang yǒu yīgè bēizi.",
+          "example_1": "这里有一个苹果。",
+          "example_1_vn": "Trên bàn có một cái cốc."
+        },
+        {
+          "word": "位",
+          "phonetic": "wèi",
+          "definitionOfWord": "vị; bạn; ngài (lượng từ chỉ người, tỏ ý tôn kính)",
+          "meaning": "jiālǐ lái le jǐwèi kèrén.",
+          "example_1": "家里来了几位客人。",
+          "example_1_vn": "Trong nhà có mấy vị khách."
+        },
+        {
+          "word": "本",
+          "phonetic": "běn",
+          "definitionOfWord": "vở; tập; cuốn; quyển (dùng cho sách vở sổ sách có gáy)",
+          "meaning": "tā yǐjīng dú wánle shí běn shū.",
+          "example_1": "他已经读完了十本书。",
+          "example_1_vn": "Anh ấy đã đọc xong mười cuốn sách."
+        },
+        {
+          "word": "国家",
+          "phonetic": "guó",
+          "definitionOfWord": "Nước ",
+          "meaning": "zhè shì wǒmen de guójiā dìtú.",
+          "example_1": "这是我们的国家地图。",
+          "example_1_vn": "Đây là bản đồ đất nước của chúng ta."
+        },
+        {
+          "word": "国",
+          "phonetic": "guó jiā",
+          "definitionOfWord": "nước; quốc",
+          "meaning": "tā zài guówài liúxuéle liǎng nián.",
+          "example_1": "他在国外留学了两年。",
+          "example_1_vn": "Anh ấy đã du học ở nước ngoài hai năm."
+        },
+        {
+          "word": "人",
+          "phonetic": "rén",
+          "definitionOfWord": "Người",
+          "meaning": "jiē shàng dàochù dōu shì rén.",
+          "example_1": "街上到处都是人。",
+          "example_1_vn": "Trên phố khắp nơi đều là người."
+        },
+        {
+          "word": "越南",
+          "phonetic": "yuènán",
+          "definitionOfWord": "Việt Nam",
+          "meaning": "Hénèi shì Yuènán de shǒudū.",
+          "example_1": "河内是越南的首都。",
+          "example_1_vn": "Hà Nội là thủ đô của Việt Nam."
+        },
+        {
+          "word": "中国",
+          "phonetic": "zhōng guó",
+          "definitionOfWord": "Trung Quốc",
+          "meaning": "nǐ shì Zhōngguó rén ma?",
+          "example_1": "你是中国人吗?",
+          "example_1_vn": "Bạn là người Trung Quốc à?"
+        },
+        {
+          "word": "美国",
+          "phonetic": "měi guó",
+          "definitionOfWord": "Nước Mỹ",
+          "meaning": "Měiguó de miànjī hěn dà.",
+          "example_1": "美国的面积很大。",
+          "example_1_vn": "Diện tích của nước Mỹ rất lớn."
+        },
+        {
+          "word": "加拿大",
+          "phonetic": "jiā ná dà ",
+          "definitionOfWord": "Canada",
+          "meaning": "wǒ zài jiānádà liúxué.",
+          "example_1": "我在加拿大留学。",
+          "example_1_vn": "Tôi du học tại Canada."
+        },
+        {
+          "word": "韩国",
+          "phonetic": "hánguó",
+          "definitionOfWord": "Nước Hàn ",
+          "meaning": "hánguó de tiānqì hěn lěng.",
+          "example_1": "韩国的天气很冷。",
+          "example_1_vn": "Thời tiết ở Hàn Quốc rất lạnh."
+        },
+        {
+          "word": "德国",
+          "phonetic": "dé guó",
+          "definitionOfWord": "Nước Đức",
+          "meaning": "wǒ zài déguó gōngzuò sān niánle.",
+          "example_1": "我在德国工作三年了。",
+          "example_1_vn": "Tôi làm việc ở Đức ba năm rồi."
+        },
+        {
+          "word": "法国",
+          "phonetic": "fǎ guó ",
+          "definitionOfWord": "nước Pháp",
+          "meaning": "Fǎguó de měishí fēicháng yǒumíng.",
+          "example_1": "法国的美食非常有名。",
+          "example_1_vn": "Món ăn của Pháp rất nổi tiếng."
+        },
+        {
+          "word": "俄国",
+          "phonetic": "é guó ",
+          "definitionOfWord": "nước Nga",
+          "meaning": "éguó de měishí fēicháng fēngfù.",
+          "example_1": "俄国的美食非常丰富。",
+          "example_1_vn": "Ẩm thực nước Nga rất phong phú."
+        },
+        {
+          "word": "日本",
+          "phonetic": "rì běn",
+          "definitionOfWord": "Nhật Bản",
+          "meaning": "rìběn zài yàzhōu.",
+          "example_1": "日本在亚洲。",
+          "example_1_vn": "Nhật Bản ở châu Á."
+        },
+        {
+          "word": "同学",
+          "phonetic": "tóng xué",
+          "definitionOfWord": "bạn cùng học; bạn cùng lớp; đồng môn",
+          "meaning": "zhèwèi shì wǒ de tóngbāntóngxué.",
+          "example_1": "这位是我的同班同学。",
+          "example_1_vn": "Người này là bạn cùng lớp của tôi."
+        },
+        {
+          "word": "来",
+          "phonetic": "lái",
+          "definitionOfWord": "đến; tới (từ chỗ khác đến chỗ người nói)",
+          "meaning": "nǐ shénme shíhòu lái běijīng?",
+          "example_1": "你什么时候来北京？",
+          "example_1_vn": "Khi nào bạn đến Bắc Kinh."
+        },
+        {
+          "word": "一下儿",
+          "phonetic": "yí xiàr",
+          "definitionOfWord": "một chút; một xíu (thời gian ngắn)",
+          "meaning": "nǐ děng wǒ yīxiàr.",
+          "example_1": "你等我一下儿。",
+          "example_1_vn": "Đợi tôi một chút."
+        },
+        {
+          "word": "的",
+          "phonetic": "de",
+          "definitionOfWord": "của (chỉ sở hữu)",
+          "meaning": "nà shì wǒmen de xuéxiào.",
+          "example_1": "那是我们的学校。",
+          "example_1_vn": "Đó là trường học của chúng tôi."
+        },
+        {
+          "word": "介绍",
+          "phonetic": "jiè shào ",
+          "definitionOfWord": "Giới thiệu",
+          "meaning": "wǒ lái jièshào yīxià wǒ de péngyou.",
+          "example_1": "我来介绍一下我的朋友。",
+          "example_1_vn": "Tôi giới thiệu chút về bạn của tôi."
+        },
+        {
+          "word": "认识",
+          "phonetic": "rèn shi",
+          "definitionOfWord": "quen; biết; nhận biết; quen biết",
+          "meaning": "zhè jǐ gè zì, wǒ dōu bù rènshi.",
+          "example_1": "这几个字，我都不认识。",
+          "example_1_vn": "Mấy chữ này tôi đều không biết."
+        }
+      ]
+    }
+  ],
   "dictionary": [
     {
       "id": "shy",
