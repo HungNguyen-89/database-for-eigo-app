@@ -234,6 +234,21 @@
           "name": "Grammar-6"
         }
       ]
+    },
+    {
+      "id": "kanji",
+      "flashCardData": [
+        {
+          "id": "basic-1",
+          "link": "kanji-basic-1",
+          "name": "Kanji-1"
+        },
+        {
+          "id": "basic-2",
+          "link": "kanji-basic-2",
+          "name": "Kanji-2"
+        }
+      ]
     }
   ],
   "flashcards-verb-data": [
