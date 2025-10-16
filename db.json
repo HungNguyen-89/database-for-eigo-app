@@ -21831,7 +21831,7 @@
           "example_1_vn": "Họ không thích bài hát này."
         },
         {
-          "word": "学生 ",
+          "word": "学生",
           "phonetic": "xué shēng ",
           "definitionOfWord": "Học sinh",
           "meaning": "nǐ shìgè xuéshēng ba?",
@@ -21872,7 +21872,7 @@
         },
         {
           "word": "留学生",
-          "phonetic": "liúxuéshēng",
+          "phonetic": "liú xué shēng",
           "definitionOfWord": "Du học sinh",
           "meaning": "tā shì Zhōngguó liúxuéshēng.",
           "example_1": "他是中国留学生。",
@@ -21880,7 +21880,7 @@
         },
         {
           "word": "留学",
-          "phonetic": "liúxué",
+          "phonetic": "liú xué",
           "definitionOfWord": "Du học",
           "meaning": "wǒ zài jiānádà liúxué.",
           "example_1": "我在加拿大留学。",
@@ -22057,186 +22057,380 @@
       ]
     },
     {
-      "id": "kanji-basic-2",
-      "name_flashcard": "Kanji-2",
-      "flashCardData": [
-        {
-          "word": "哪",
-          "phonetic": "nǎ",
-          "definitionOfWord": "Nào?",
-          "meaning": "nǎ sān gè rén fùzé zhège xiàngmù?",
-          "example_1": "哪三个人负责这个项目？",
-          "example_1_vn": "Ba người nào phụ trách dự án này?"
-        },
-        {
-          "word": "个",
-          "phonetic": "gè",
-          "definitionOfWord": "cái; con; quả; trái; người (lượng từ)",
-          "meaning": "zhuōzi shang yǒu yīgè bēizi.",
-          "example_1": "这里有一个苹果。",
-          "example_1_vn": "Trên bàn có một cái cốc."
-        },
-        {
-          "word": "位",
-          "phonetic": "wèi",
-          "definitionOfWord": "vị; bạn; ngài (lượng từ chỉ người, tỏ ý tôn kính)",
-          "meaning": "jiālǐ lái le jǐwèi kèrén.",
-          "example_1": "家里来了几位客人。",
-          "example_1_vn": "Trong nhà có mấy vị khách."
-        },
-        {
-          "word": "本",
-          "phonetic": "běn",
-          "definitionOfWord": "vở; tập; cuốn; quyển (dùng cho sách vở sổ sách có gáy)",
-          "meaning": "tā yǐjīng dú wánle shí běn shū.",
-          "example_1": "他已经读完了十本书。",
-          "example_1_vn": "Anh ấy đã đọc xong mười cuốn sách."
-        },
-        {
-          "word": "国家",
-          "phonetic": "guó",
-          "definitionOfWord": "Nước ",
-          "meaning": "zhè shì wǒmen de guójiā dìtú.",
-          "example_1": "这是我们的国家地图。",
-          "example_1_vn": "Đây là bản đồ đất nước của chúng ta."
-        },
-        {
-          "word": "国",
-          "phonetic": "guó jiā",
-          "definitionOfWord": "nước; quốc",
-          "meaning": "tā zài guówài liúxuéle liǎng nián.",
-          "example_1": "他在国外留学了两年。",
-          "example_1_vn": "Anh ấy đã du học ở nước ngoài hai năm."
-        },
-        {
-          "word": "人",
-          "phonetic": "rén",
-          "definitionOfWord": "Người",
-          "meaning": "jiē shàng dàochù dōu shì rén.",
-          "example_1": "街上到处都是人。",
-          "example_1_vn": "Trên phố khắp nơi đều là người."
-        },
-        {
-          "word": "越南",
-          "phonetic": "yuènán",
-          "definitionOfWord": "Việt Nam",
-          "meaning": "Hénèi shì Yuènán de shǒudū.",
-          "example_1": "河内是越南的首都。",
-          "example_1_vn": "Hà Nội là thủ đô của Việt Nam."
-        },
-        {
-          "word": "中国",
-          "phonetic": "zhōng guó",
-          "definitionOfWord": "Trung Quốc",
-          "meaning": "nǐ shì Zhōngguó rén ma?",
-          "example_1": "你是中国人吗?",
-          "example_1_vn": "Bạn là người Trung Quốc à?"
-        },
-        {
-          "word": "美国",
-          "phonetic": "měi guó",
-          "definitionOfWord": "Nước Mỹ",
-          "meaning": "Měiguó de miànjī hěn dà.",
-          "example_1": "美国的面积很大。",
-          "example_1_vn": "Diện tích của nước Mỹ rất lớn."
-        },
-        {
-          "word": "加拿大",
-          "phonetic": "jiā ná dà ",
-          "definitionOfWord": "Canada",
-          "meaning": "wǒ zài jiānádà liúxué.",
-          "example_1": "我在加拿大留学。",
-          "example_1_vn": "Tôi du học tại Canada."
-        },
-        {
-          "word": "韩国",
-          "phonetic": "hánguó",
-          "definitionOfWord": "Nước Hàn ",
-          "meaning": "hánguó de tiānqì hěn lěng.",
-          "example_1": "韩国的天气很冷。",
-          "example_1_vn": "Thời tiết ở Hàn Quốc rất lạnh."
-        },
-        {
-          "word": "德国",
-          "phonetic": "dé guó",
-          "definitionOfWord": "Nước Đức",
-          "meaning": "wǒ zài déguó gōngzuò sān niánle.",
-          "example_1": "我在德国工作三年了。",
-          "example_1_vn": "Tôi làm việc ở Đức ba năm rồi."
-        },
-        {
-          "word": "法国",
-          "phonetic": "fǎ guó ",
-          "definitionOfWord": "nước Pháp",
-          "meaning": "Fǎguó de měishí fēicháng yǒumíng.",
-          "example_1": "法国的美食非常有名。",
-          "example_1_vn": "Món ăn của Pháp rất nổi tiếng."
-        },
-        {
-          "word": "俄国",
-          "phonetic": "é guó ",
-          "definitionOfWord": "nước Nga",
-          "meaning": "éguó de měishí fēicháng fēngfù.",
-          "example_1": "俄国的美食非常丰富。",
-          "example_1_vn": "Ẩm thực nước Nga rất phong phú."
-        },
-        {
-          "word": "日本",
-          "phonetic": "rì běn",
-          "definitionOfWord": "Nhật Bản",
-          "meaning": "rìběn zài yàzhōu.",
-          "example_1": "日本在亚洲。",
-          "example_1_vn": "Nhật Bản ở châu Á."
-        },
-        {
-          "word": "同学",
-          "phonetic": "tóng xué",
-          "definitionOfWord": "bạn cùng học; bạn cùng lớp; đồng môn",
-          "meaning": "zhèwèi shì wǒ de tóngbāntóngxué.",
-          "example_1": "这位是我的同班同学。",
-          "example_1_vn": "Người này là bạn cùng lớp của tôi."
-        },
-        {
-          "word": "来",
-          "phonetic": "lái",
-          "definitionOfWord": "đến; tới (từ chỗ khác đến chỗ người nói)",
-          "meaning": "nǐ shénme shíhòu lái běijīng?",
-          "example_1": "你什么时候来北京？",
-          "example_1_vn": "Khi nào bạn đến Bắc Kinh."
-        },
-        {
-          "word": "一下儿",
-          "phonetic": "yí xiàr",
-          "definitionOfWord": "một chút; một xíu (thời gian ngắn)",
-          "meaning": "nǐ děng wǒ yīxiàr.",
-          "example_1": "你等我一下儿。",
-          "example_1_vn": "Đợi tôi một chút."
-        },
-        {
-          "word": "的",
-          "phonetic": "de",
-          "definitionOfWord": "của (chỉ sở hữu)",
-          "meaning": "nà shì wǒmen de xuéxiào.",
-          "example_1": "那是我们的学校。",
-          "example_1_vn": "Đó là trường học của chúng tôi."
-        },
-        {
-          "word": "介绍",
-          "phonetic": "jiè shào ",
-          "definitionOfWord": "Giới thiệu",
-          "meaning": "wǒ lái jièshào yīxià wǒ de péngyou.",
-          "example_1": "我来介绍一下我的朋友。",
-          "example_1_vn": "Tôi giới thiệu chút về bạn của tôi."
-        },
-        {
-          "word": "认识",
-          "phonetic": "rèn shi",
-          "definitionOfWord": "quen; biết; nhận biết; quen biết",
-          "meaning": "zhè jǐ gè zì, wǒ dōu bù rènshi.",
-          "example_1": "这几个字，我都不认识。",
-          "example_1_vn": "Mấy chữ này tôi đều không biết."
-        }
-      ]
+      "word": "哪",
+      "phonetic": "nǎ",
+      "definitionOfWord": "Nào?",
+      "meaning": "nǎ sān gè rén fùzé zhège xiàngmù?",
+      "example_1": "哪三个人负责这个项目？",
+      "example_1_vn": "Ba người nào phụ trách dự án này?"
+    },
+    {
+      "word": "个",
+      "phonetic": "gè",
+      "definitionOfWord": "cái; con; quả; trái; người (lượng từ)",
+      "meaning": "zhuōzi shang yǒu yīgè bēizi.",
+      "example_1": "这里有一个苹果。",
+      "example_1_vn": "Trên bàn có một cái cốc."
+    },
+    {
+      "word": "位",
+      "phonetic": "wèi",
+      "definitionOfWord": "vị; bạn; ngài (lượng từ chỉ người, tỏ ý tôn kính)",
+      "meaning": "jiālǐ lái le jǐwèi kèrén.",
+      "example_1": "家里来了几位客人。",
+      "example_1_vn": "Trong nhà có mấy vị khách."
+    },
+    {
+      "word": "本",
+      "phonetic": "běn",
+      "definitionOfWord": "vở; tập; cuốn; quyển (dùng cho sách vở sổ sách có gáy)",
+      "meaning": "tā yǐjīng dú wánle shí běn shū.",
+      "example_1": "他已经读完了十本书。",
+      "example_1_vn": "Anh ấy đã đọc xong mười cuốn sách."
+    },
+    {
+      "word": "国家",
+      "phonetic": "guó",
+      "definitionOfWord": "Nước ",
+      "meaning": "zhè shì wǒmen de guójiā dìtú.",
+      "example_1": "这是我们的国家地图。",
+      "example_1_vn": "Đây là bản đồ đất nước của chúng ta."
+    },
+    {
+      "word": "国",
+      "phonetic": "guó jiā",
+      "definitionOfWord": "nước; quốc",
+      "meaning": "tā zài guówài liúxuéle liǎng nián.",
+      "example_1": "他在国外留学了两年。",
+      "example_1_vn": "Anh ấy đã du học ở nước ngoài hai năm."
+    },
+    {
+      "word": "人",
+      "phonetic": "rén",
+      "definitionOfWord": "Người",
+      "meaning": "jiē shàng dàochù dōu shì rén.",
+      "example_1": "街上到处都是人。",
+      "example_1_vn": "Trên phố khắp nơi đều là người."
+    },
+    {
+      "word": "越南",
+      "phonetic": "yuè nán",
+      "definitionOfWord": "Việt Nam",
+      "meaning": "Hénèi shì Yuènán de shǒudū.",
+      "example_1": "河内是越南的首都。",
+      "example_1_vn": "Hà Nội là thủ đô của Việt Nam."
+    },
+    {
+      "word": "中国",
+      "phonetic": "zhōng guó",
+      "definitionOfWord": "Trung Quốc",
+      "meaning": "nǐ shì Zhōngguó rén ma?",
+      "example_1": "你是中国人吗?",
+      "example_1_vn": "Bạn là người Trung Quốc à?"
+    },
+    {
+      "word": "美国",
+      "phonetic": "měi guó",
+      "definitionOfWord": "Nước Mỹ",
+      "meaning": "Měiguó de miànjī hěn dà.",
+      "example_1": "美国的面积很大。",
+      "example_1_vn": "Diện tích của nước Mỹ rất lớn."
+    },
+    {
+      "word": "加拿大",
+      "phonetic": "jiā ná dà ",
+      "definitionOfWord": "Canada",
+      "meaning": "wǒ zài jiānádà liúxué.",
+      "example_1": "我在加拿大留学。",
+      "example_1_vn": "Tôi du học tại Canada."
+    },
+    {
+      "word": "韩国",
+      "phonetic": "hán guó",
+      "definitionOfWord": "Nước Hàn ",
+      "meaning": "hánguó de tiānqì hěn lěng.",
+      "example_1": "韩国的天气很冷。",
+      "example_1_vn": "Thời tiết ở Hàn Quốc rất lạnh."
+    },
+    {
+      "word": "德国",
+      "phonetic": "dé guó",
+      "definitionOfWord": "Nước Đức",
+      "meaning": "wǒ zài déguó gōngzuò sān niánle.",
+      "example_1": "我在德国工作三年了。",
+      "example_1_vn": "Tôi làm việc ở Đức ba năm rồi."
+    },
+    {
+      "word": "法国",
+      "phonetic": "fǎ guó ",
+      "definitionOfWord": "nước Pháp",
+      "meaning": "Fǎguó de měishí fēicháng yǒumíng.",
+      "example_1": "法国的美食非常有名。",
+      "example_1_vn": "Món ăn của Pháp rất nổi tiếng."
+    },
+    {
+      "word": "俄国",
+      "phonetic": "é guó ",
+      "definitionOfWord": "nước Nga",
+      "meaning": "éguó de měishí fēicháng fēngfù.",
+      "example_1": "俄国的美食非常丰富。",
+      "example_1_vn": "Ẩm thực nước Nga rất phong phú."
+    },
+    {
+      "word": "日本",
+      "phonetic": "rì běn",
+      "definitionOfWord": "Nhật Bản",
+      "meaning": "rìběn zài yàzhōu.",
+      "example_1": "日本在亚洲。",
+      "example_1_vn": "Nhật Bản ở châu Á."
+    },
+    {
+      "word": "河内",
+      "phonetic": "hé nèi",
+      "definitionOfWord": "Hà Nội",
+      "meaning": "Hénèi shì Yuènán de shǒudū.",
+      "example_1": "河内是越南的首都。",
+      "example_1_vn": "Hà Nội là thủ đô của Việt Nam."
+    },
+    {
+      "word": "广宁",
+      "phonetic": "guǎng níng",
+      "definitionOfWord": "Quảng Ninh",
+      "meaning": "",
+      "example_1": "",
+      "example_1_vn": ""
+    },
+    {
+      "word": "南方",
+      "phonetic": "nán fāng",
+      "definitionOfWord": "miền Nam; khu vực phía Nam",
+      "meaning": "wǒ zuì xǐhuān nánfāng de xiǎochīle.",
+      "example_1": "我最喜欢南方的小吃了。",
+      "example_1_vn": "Tôi thích đồ ăn vặt miền nam nhất."
+    },
+    {
+      "word": "北方",
+      "phonetic": "běi fāng",
+      "definitionOfWord": "miền bắc; phía bắc",
+      "meaning": "běifāng de dōngtiān fēicháng hánlěng.",
+      "example_1": "北方的冬天非常寒冷。",
+      "example_1_vn": "Mùa đông ở miền bắc rất lạnh."
+    },
+    {
+      "word": "胡志明",
+      "phonetic": "hú zhì míng",
+      "definitionOfWord": "thành phố Hồ Chí Minh",
+      "meaning": "wǒ zhōu yī qù Húzhìmíng Shì chūchāi.",
+      "example_1": "我周一去胡志明市出差。",
+      "example_1_vn": "Thứ hai tôi đi Thành phố Hồ Chí Minh công tác."
+    },
+    {
+      "word": "海防",
+      "phonetic": "hǎi fáng",
+      "definitionOfWord": "thành phố Hải Phòng",
+      "meaning": "hǎifáng de jiāotōng biànlì.",
+      "example_1": "海防的交通便利。",
+      "example_1_vn": "Giao thông ở Hải Phòng rất thuận tiện."
+    },
+    {
+      "word": "同学",
+      "phonetic": "tóng xué",
+      "definitionOfWord": "bạn cùng học; bạn cùng lớp; đồng môn",
+      "meaning": "zhèwèi shì wǒ de tóngbāntóngxué.",
+      "example_1": "这位是我的同班同学。",
+      "example_1_vn": "Người này là bạn cùng lớp của tôi."
+    },
+    {
+      "word": "同事",
+      "phonetic": "tóng shì",
+      "definitionOfWord": "đồng nghiệp",
+      "meaning": "zhè wèi tóngshì zǒng shì bāngzhù xīnrén.",
+      "example_1": "这位同事总是帮助新人。",
+      "example_1_vn": "Đồng nghiệp này luôn giúp đỡ người mới."
+    },
+    {
+      "word": "同屋",
+      "phonetic": "tóng wū",
+      "definitionOfWord": "bạn cùng phòng",
+      "meaning": "tā shì wǒ de tóng wū.",
+      "example_1": "他是我的同屋",
+      "example_1_vn": "Anh ấy là bạn cùng phòng của tôi."
+    },
+    {
+      "word": "舍友",
+      "phonetic": "shè yǒu",
+      "definitionOfWord": "bạn kí túc xá",
+      "meaning": "wǒ de shèyǒu xǐhuan tīng yīnyuè.",
+      "example_1": "我的舍友喜欢听音乐",
+      "example_1_vn": "Bạn cùng kí túc xá của tôi thích nghe nhạc."
+    },
+    {
+      "word": "大家好",
+      "phonetic": "dàjiā hǎo",
+      "definitionOfWord": "xin chào tất cả mọi người",
+      "meaning": "",
+      "example_1": "",
+      "example_1_vn": ""
+    },
+    {
+      "word": "来",
+      "phonetic": "lái",
+      "definitionOfWord": "đến; tới (từ chỗ khác đến chỗ người nói)",
+      "meaning": "nǐ shénme shíhòu lái běijīng?",
+      "example_1": "你什么时候来北京？",
+      "example_1_vn": "Khi nào bạn đến Bắc Kinh."
+    },
+    {
+      "word": "一下儿",
+      "phonetic": "yí xiàr",
+      "definitionOfWord": "một chút; một xíu (thời gian ngắn)",
+      "meaning": "nǐ děng wǒ yīxiàr.",
+      "example_1": "你等我一下儿。",
+      "example_1_vn": "Đợi tôi một chút."
+    },
+    {
+      "word": "等一下儿",
+      "phonetic": "děng yīxià er",
+      "definitionOfWord": "đợi một lát",
+      "meaning": "",
+      "example_1": "",
+      "example_1_vn": ""
+    },
+    {
+      "word": "看一下儿",
+      "phonetic": "kàn yīxià er",
+      "definitionOfWord": "xem một chút",
+      "meaning": "",
+      "example_1": "",
+      "example_1_vn": ""
+    },
+    {
+      "word": "的",
+      "phonetic": "de",
+      "definitionOfWord": "của (chỉ sở hữu)",
+      "meaning": "nà shì wǒmen de xuéxiào.",
+      "example_1": "那是我们的学校。",
+      "example_1_vn": "Đó là trường học của chúng tôi."
+    },
+    {
+      "word": "介绍",
+      "phonetic": "jiè shào ",
+      "definitionOfWord": "giới thiệu",
+      "meaning": "wǒ lái jièshào yīxià wǒ de péngyou.",
+      "example_1": "我来介绍一下我的朋友。",
+      "example_1_vn": "Tôi giới thiệu chút về bạn của tôi."
+    },
+    {
+      "word": "认识",
+      "phonetic": "rèn shi",
+      "definitionOfWord": "quen; biết; nhận biết; quen biết",
+      "meaning": "zhè jǐ gè zì, wǒ dōu bù rènshi.",
+      "example_1": "这几个字，我都不认识。",
+      "example_1_vn": "Mấy chữ này tôi đều không biết."
+    },
+    {
+      "word": "很",
+      "phonetic": "hěn",
+      "definitionOfWord": "rất; lắm; quá; hết sức",
+      "meaning": "tā de gōngzuò xiàolǜ hěn gāo.",
+      "example_1": "他的工作效率很高。",
+      "example_1_vn": "Hiệu suất làm việc của anh ấy rất cao."
+    },
+    {
+      "word": "高兴",
+      "phonetic": "gāo xìng",
+      "definitionOfWord": "Vui vẻ",
+      "meaning": "Tā jīntiān hěn gāoxìng.",
+      "example_1": "他今天很高兴。",
+      "example_1_vn": "Hôm nay anh ấy rất vui."
+    },
+    {
+      "word": "也",
+      "phonetic": "yě",
+      "definitionOfWord": "cũng (biểu thị giống nhau)",
+      "meaning": "tāmen yě huì shuō zhōngwén.",
+      "example_1": "他们也会说中文。",
+      "example_1_vn": "Họ cũng biết nói tiếng Trung."
+    },
+    {
+      "word": "呢",
+      "phonetic": "ne",
+      "definitionOfWord": "Còn .. thì sao; thế; nhỉ; vậy; đâu (dùng để hỏi)",
+      "meaning": "wǒ shì xuéshēng, nǐ ne?",
+      "example_1": "我是学生，你呢？",
+      "example_1_vn": "Tôi là học sinh, còn bạn thì sao?"
+    },
+    {
+      "word": "贵姓",
+      "phonetic": "guì xìng",
+      "definitionOfWord": "quý danh; quý tính; quý tánh (hỏi họ người khác)",
+      "meaning": "lǎoshī, nín guìxìng?",
+      "example_1": "老师，您贵姓?",
+      "example_1_vn": "Thầy ơi, quý danh của thầy là?"
+    },
+    {
+      "word": "老百姓",
+      "phonetic": "lǎo bǎi xìng",
+      "definitionOfWord": "nhân dân; người dân; thường dân; dân thường",
+      "meaning": "lǎobǎixìng dōu xīwàng yǒu hǎo gōngzuò.",
+      "example_1": "老百姓都希望有好工作。",
+      "example_1_vn": "Người dân đều hy vọng có công việc tốt."
+    },
+    {
+      "word": "请问",
+      "phonetic": "qǐng wèn",
+      "definitionOfWord": "xin hỏi; cho hỏi",
+      "meaning": "qǐngwèn nǐ zhǎo shéi?",
+      "example_1": "请问你找谁？",
+      "example_1_vn": "Xin hỏi bạn tìm ai?"
+    },
+    {
+      "word": "哈喽",
+      "phonetic": "hā lóu",
+      "definitionOfWord": "chào; xin chào",
+      "meaning": "hā lóu, nǐ jīntiān zěnme yàng?",
+      "example_1": "哈喽，你今天怎么样？",
+      "example_1_vn": "Chào bạn, hôm nay bạn thế nào?"
+    },
+    {
+      "word": "很多",
+      "phonetic": "hěn duō",
+      "definitionOfWord": "rất nhiều, rất lắm",
+      "meaning": "tā yǒu hěnduō shū.",
+      "example_1": "他有很多书。",
+      "example_1_vn": "Anh ấy có rất nhiều sách."
+    },
+    {
+      "word": "少",
+      "phonetic": "shǎo",
+      "definitionOfWord": "thiếu; thiếu đi",
+      "meaning": "wǒmen hái shǎo liǎng bǎ yǐzi.",
+      "example_1": "我们还少两把椅子",
+      "example_1_vn": "Chúng ta vẫn còn thiếu hai cái ghế."
+    },
+    {
+      "word": "很小",
+      "phonetic": "hěn xiǎo",
+      "definitionOfWord": "rất nhỏ",
+      "meaning": "",
+      "example_1": "",
+      "example_1_vn": ""
+    },
+    {
+      "word": "很大",
+      "phonetic": "hěn dà",
+      "definitionOfWord": "rất lớn; rất to",
+      "meaning": "zhège shuǐkù de róngliàng hěn dà.",
+      "example_1": "这个水库的容量很大。",
+      "example_1_vn": "Dung tích của hồ chứa này rất lớn."
+    },
+    {
+      "word": "很高兴",
+      "phonetic": "hěn gāoxìng",
+      "definitionOfWord": "rất hạnh phúc",
+      "meaning": "",
+      "example_1": "",
+      "example_1_vn": ""
     }
   ],
   "dictionary": [
