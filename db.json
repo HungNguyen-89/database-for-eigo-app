@@ -247,6 +247,16 @@
           "id": "basic-2",
           "link": "kanji-basic-2",
           "name": "Kanji-2"
+        },
+        {
+          "id": "basic-3",
+          "link": "kanji-basic-3",
+          "name": "Kanji-3"
+        },
+        {
+          "id": "basic-4",
+          "link": "kanji-basic-4",
+          "name": "Kanji-4"
         }
       ]
     }
