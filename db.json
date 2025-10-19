@@ -22437,6 +22437,730 @@
           "example_1_vn": ""
         }
       ]
+    },
+    {
+      "id": "kanji-basic-3",
+      "name_flashcard": "Kanji-3",
+      "flashCardData": [
+        {
+          "word": "那",
+          "phonetic": "nà",
+          "definitionOfWord": "Kia",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "这",
+          "phonetic": "zhè",
+          "definitionOfWord": "Đây",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "些",
+          "phonetic": "xiē",
+          "definitionOfWord": "Vài, những",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "书",
+          "phonetic": "shū",
+          "definitionOfWord": "Sách",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "汉语",
+          "phonetic": "hàn yǔ",
+          "definitionOfWord": "Tiếng hán ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "同",
+          "phonetic": "tóng",
+          "definitionOfWord": "Cùng",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "同学",
+          "phonetic": "tóng xué",
+          "definitionOfWord": "Bạn học cùng",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "同屋",
+          "phonetic": "tóng wū",
+          "definitionOfWord": "Bạn cùng phòng",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "舍友",
+          "phonetic": "shè yǒu ",
+          "definitionOfWord": "Bạn cùng phòng Ký túc xá ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "谁",
+          "phonetic": "shéi",
+          "definitionOfWord": ".....ai?",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "课本",
+          "phonetic": "kè běn ",
+          "definitionOfWord": "SGK",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "法语",
+          "phonetic": "fǎ yǔ ",
+          "definitionOfWord": "Tiếng Pháp ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "英语",
+          "phonetic": "yīng yǔ",
+          "definitionOfWord": "Tiếng Anh ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "越南语",
+          "phonetic": "yuè nán yǔ",
+          "definitionOfWord": "Tiếng Việt ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "日语",
+          "phonetic": "rì yǔ ",
+          "definitionOfWord": "Tiếng Nhật ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "词典",
+          "phonetic": "cí diǎn ",
+          "definitionOfWord": "Từ điển ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "杂志",
+          "phonetic": "zá zhì",
+          "definitionOfWord": "Tạp chí ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "音乐",
+          "phonetic": "yīn yuè ",
+          "definitionOfWord": "Âm nhạc ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "听",
+          "phonetic": "tīng",
+          "definitionOfWord": "Nghe ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "朋友",
+          "phonetic": "péng you",
+          "definitionOfWord": "Bạn bè ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "好朋友",
+          "phonetic": "hǎo péng you ",
+          "definitionOfWord": "Bạn tốt ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "坏朋友",
+          "phonetic": "huài péng you",
+          "definitionOfWord": "Bạn xấu ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "男朋友",
+          "phonetic": "nán péng you",
+          "definitionOfWord": "Bạn trai ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "女朋友",
+          "phonetic": "nǚ péng you",
+          "definitionOfWord": "Bạn gái ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "中村",
+          "phonetic": "zhōng cūn ",
+          "definitionOfWord": "Nakamura ( Tên người Nhật )",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "两",
+          "phonetic": "liǎng",
+          "definitionOfWord": "hai (chỉ số lượng)",
+          "meaning": "zhuō shàng yǒu liǎng gè hóng píngguǒ.",
+          "example_1": "桌上有两个红苹果。",
+          "example_1_vn": "Trên bàn có hai quả táo đỏ."
+        },
+        {
+          "word": "同班同学",
+          "phonetic": "tóng bān tóng xué",
+          "definitionOfWord": "bạn cùng lớp",
+          "meaning": "zhèwèi shì wǒ de tóngbāntóngxué.",
+          "example_1": "这位是我的同班同学。",
+          "example_1_vn": "Người này là bạn cùng lớp của tôi."
+        },
+        {
+          "word": "中文",
+          "phonetic": "zhōng wén",
+          "definitionOfWord": "tiếng Trung",
+          "meaning": "wǒmen hěn xǐhuān xué zhōngwén.",
+          "example_1": "我们很喜欢学中文。",
+          "example_1_vn": "Chúng tôi rất thích học tiếng Trung."
+        },
+        {
+          "word": "英汉",
+          "phonetic": "yīng hàn",
+          "definitionOfWord": "Anh - Hán",
+          "meaning": "Wǒ zài xuéxí yīnghàn fānyì.",
+          "example_1": "我在学习英汉翻译。",
+          "example_1_vn": "Tôi đang học dịch Anh - Hán."
+        },
+        {
+          "word": "就是",
+          "phonetic": "jiù shì ",
+          "definitionOfWord": "tức là; chính là",
+          "meaning": "zhè jiùshì wǒ xǐhuan de yánsè.",
+          "example_1": "这就是我喜欢的颜色。",
+          "example_1_vn": "Đây chính là màu tôi thích."
+        },
+        {
+          "word": "漂亮",
+          "phonetic": "piào liang",
+          "definitionOfWord": "đẹp; xinh xắn; xinh đẹp",
+          "meaning": "zhè duǒ huā hěn piàoliang.",
+          "example_1": "这朵花很漂亮。",
+          "example_1_vn": "Đóa hoa này rất đẹp."
+        },
+        {
+          "word": "姑娘",
+          "phonetic": "gū niáng",
+          "definitionOfWord": "cô gái (chưa chồng)",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "吃",
+          "phonetic": "chī",
+          "definitionOfWord": "ăn; uống",
+          "meaning": "wǒ xǐhuan chī píngguǒ.",
+          "example_1": "我喜欢吃苹果。",
+          "example_1_vn": "Tớ thích ăn táo."
+        },
+        {
+          "word": "饭",
+          "phonetic": "fàn",
+          "definitionOfWord": "cơm",
+          "meaning": "wǒ chīle yī wǎn rè fàn.",
+          "example_1": "我吃了一碗热饭。",
+          "example_1_vn": "Tôi đã ăn một bát cơm nóng."
+        },
+        {
+          "word": "时候",
+          "phonetic": "shí hou",
+          "definitionOfWord": "lúc; khi",
+          "meaning": "nǐ nàshíhou zài gàn shénme?",
+          "example_1": "你那时候在干什么？",
+          "example_1_vn": "Lúc đó cậu đang làm gì vậy?"
+        },
+        {
+          "word": "公司",
+          "phonetic": "gōng sī",
+          "definitionOfWord": "công ty",
+          "meaning": "tā zài gōngsī jiābān ne.",
+          "example_1": "他在公司加班呢。",
+          "example_1_vn": "Anh ấy đang tăng ca ở công ty."
+        },
+        {
+          "word": "学校",
+          "phonetic": "xué xiào ",
+          "definitionOfWord": "trường học",
+          "meaning": "wǒmen de xuéxiào fēicháng měi.",
+          "example_1": "我们的学校非常美。",
+          "example_1_vn": "Trường học của chúng tôi rất đẹp."
+        },
+        {
+          "word": "哥哥",
+          "phonetic": "gē ge",
+          "definitionOfWord": "anh trai",
+          "meaning": "wǒ gēge kāile yījiā gōngsī.",
+          "example_1": "我哥哥开了一家公司。",
+          "example_1_vn": "Anh trai tôi mở một công ty."
+        },
+        {
+          "word": "为什么",
+          "phonetic": "wèi shén me",
+          "definitionOfWord": "vì sao; tại sao; vì cái gì; hà cớ gì",
+          "meaning": "nǐ wèishénme jīntiān méi lái xuéxiào",
+          "example_1": "你为什么今天没来学校？",
+          "example_1_vn": "Tại sao hôm nay bạn không đến trường?"
+        }
+      ]
+    },
+    {
+      "id": "kanji-basic-4",
+      "name_flashcard": "Kanji-4",
+      "flashCardData": [
+        {
+          "word": "图书馆",
+          "phonetic": "tú shū guǎn ",
+          "definitionOfWord": "Thư viện",
+          "meaning": "wǒmen xuéxiào de túshūguǎn hěn dà.",
+          "example_1": "我们学校的图书馆很大。",
+          "example_1_vn": "Thư viện của trường chúng tôi rất lớn."
+        },
+        {
+          "word": "学校",
+          "phonetic": "xué xiào ",
+          "definitionOfWord": "trường học",
+          "meaning": "wǒmen de xuéxiào fēicháng měi.",
+          "example_1": "我们的学校非常美。",
+          "example_1_vn": "Trường học của chúng tôi rất đẹp."
+        },
+        {
+          "word": "在",
+          "phonetic": "zài ",
+          "definitionOfWord": "ở (biểu thị người hoặc vị trí của sự vật)",
+          "meaning": "nǐ xiànzài zàijiā ma?",
+          "example_1": "你现在在家吗?",
+          "example_1_vn": "Bây giờ bạn có ở nhà không?"
+        },
+        {
+          "word": "那",
+          "phonetic": "nà ",
+          "definitionOfWord": "đó; ấy; kia",
+          "meaning": "nà běn hànyǔ shū shì shéi de?",
+          "example_1": "那本汉语书是谁的？",
+          "example_1_vn": "Quyển sách tiếng Hán đó của ai?"
+        },
+        {
+          "word": "这",
+          "phonetic": "zhè ",
+          "definitionOfWord": "Đây",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "这儿",
+          "phonetic": "zhèr",
+          "definitionOfWord": "Chỗ này (chỉ vị trí)",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "那儿",
+          "phonetic": "nàr",
+          "definitionOfWord": "Chỗ kia (chỉ vị trí)",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "哪",
+          "phonetic": "nǎ",
+          "definitionOfWord": "Nào?",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "哪儿",
+          "phonetic": "nǎr",
+          "definitionOfWord": "đâu; chỗ nào",
+          "meaning": "nǐ zhīdào nǎr mài Zhōngwén shū ma?",
+          "example_1": "你知道哪儿卖中文书吗？",
+          "example_1_vn": "Bạn có biết ở đâu bán sách tiếng Trung không?"
+        },
+        {
+          "word": "请问",
+          "phonetic": "qǐng wèn",
+          "definitionOfWord": "Xin hỏi ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "对不起",
+          "phonetic": "duì bù qǐ",
+          "definitionOfWord": "Xin lỗi ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "没关系",
+          "phonetic": "méi guān xi",
+          "definitionOfWord": "Không có gì ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "知道",
+          "phonetic": "zhī dào ",
+          "definitionOfWord": "Biết ( 1 thông tin nào đó )",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "认识",
+          "phonetic": "rèn shi",
+          "definitionOfWord": "Quen ( 1 người nào đó )",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "教学",
+          "phonetic": "jiào xué ",
+          "definitionOfWord": "Dạy học ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "楼",
+          "phonetic": "lóu ",
+          "definitionOfWord": "Tầng , lầu ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "宿舍",
+          "phonetic": "sù shè ",
+          "definitionOfWord": "Ký túc xá ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "不用",
+          "phonetic": "bú yòng ",
+          "definitionOfWord": "Không cần +v ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "不用谢",
+          "phonetic": "bú yòng xiè ",
+          "definitionOfWord": "Không cần cảm ơn ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "东边",
+          "phonetic": "dōng biān ",
+          "definitionOfWord": "Phía đông ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "西边",
+          "phonetic": "xī biān",
+          "definitionOfWord": "Phía tây ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "南边",
+          "phonetic": "nán biān ",
+          "definitionOfWord": "Phía Nam ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "北边",
+          "phonetic": "běi biān ",
+          "definitionOfWord": "Phía bắc ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "左边",
+          "phonetic": "zuǒ biān ",
+          "definitionOfWord": "Bên trái ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "右边",
+          "phonetic": "yòu biān",
+          "definitionOfWord": "Bên phải ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "银行",
+          "phonetic": "yín háng",
+          "definitionOfWord": "Ngân hàng ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "医院",
+          "phonetic": "yī yuàn ",
+          "definitionOfWord": "Bệnh viện ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "食堂",
+          "phonetic": "shí táng ",
+          "definitionOfWord": "Căn tin ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "看书",
+          "phonetic": "kàn shū ",
+          "definitionOfWord": "đọc sách",
+          "meaning": "wǒmen zài túshū guǎn lǐ kànshū.",
+          "example_1": "我们在图书馆里看书。",
+          "example_1_vn": "Chúng tôi đọc sách trong thư viện."
+        },
+        {
+          "word": "去",
+          "phonetic": "qù ",
+          "definitionOfWord": "đi, đến",
+          "meaning": "tāmen qù shìchǎng mǎi càile.",
+          "example_1": "他们去市场买菜了。",
+          "example_1_vn": "Họ đã đi chợ mua rau rồi."
+        },
+        {
+          "word": "看",
+          "phonetic": "kàn",
+          "definitionOfWord": "nhìn; xem; coi; đọc (sách, phim)",
+          "meaning": "zhè běn shū wǒ kànwán le.",
+          "example_1": "这本书我看完了。",
+          "example_1_vn": "Tôi đã đọc xong cuốn sách này."
+        },
+        {
+          "word": "那里",
+          "phonetic": "nà lǐ",
+          "definitionOfWord": "chỗ ấy; chỗ đó; nơi đó; nơi ấy; chỗ kia",
+          "meaning": "nàlǐ chūchǎn xiāngjiāo hé lìzhī。",
+          "example_1": "那里出产香蕉和荔枝。",
+          "example_1_vn": "Nơi ấy trồng chuối và vải."
+        },
+        {
+          "word": "这里",
+          "phonetic": "zhè lǐ",
+          "definitionOfWord": "ở đây; nơi này; nơi đây; tại đây",
+          "meaning": "qǐng zài zhèlǐ qiānmíng.",
+          "example_1": "请在这里签名。",
+          "example_1_vn": "Vui lòng ký tên tại đây."
+        },
+        {
+          "word": "喂",
+          "phonetic": "wèi ",
+          "definitionOfWord": "này",
+          "meaning": "wèi, nǐ shàng nǎr qù?",
+          "example_1": "喂，你上哪儿去?",
+          "example_1_vn": "Này, cậu đi đâu đấy?"
+        },
+        {
+          "word": "大楼",
+          "phonetic": "dàlóu",
+          "definitionOfWord": "cao ốc; nhà cao tầng",
+          "meaning": "xīn dàlóu xià gè yuè jiù yào wángōng.",
+          "example_1": "新大楼下个月就要完工。",
+          "example_1_vn": "Tòa cao ốc mới sẽ hoàn thành vào tháng tới."
+        },
+        {
+          "word": "知",
+          "phonetic": "zhī ",
+          "definitionOfWord": "biết; hiểu",
+          "meaning": "wǒ zhīdào tā de míngzì.",
+          "example_1": "我知道他的名字。",
+          "example_1_vn": "Tôi biết tên của anh ấy."
+        },
+        {
+          "word": "说",
+          "phonetic": "shuō ",
+          "definitionOfWord": "nói; kể",
+          "meaning": "nǐ kěyǐ dàshēng shuō ma?",
+          "example_1": "你可以大声说吗？",
+          "example_1_vn": "Bạn có thể nói to hơn được không?"
+        },
+        {
+          "word": "",
+          "phonetic": "",
+          "definitionOfWord": "",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "专业",
+          "phonetic": "zhuān yè",
+          "definitionOfWord": "Chuyên ngành ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "系",
+          "phonetic": "xì ",
+          "definitionOfWord": "Khoa ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "国际 ",
+          "phonetic": "guó jì ",
+          "definitionOfWord": "Quốc tế ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "关系",
+          "phonetic": "guān xi",
+          "definitionOfWord": "Quan hệ ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "所",
+          "phonetic": "suǒ ",
+          "definitionOfWord": "Lượng từ của trường học , bệnh viện ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "研究生",
+          "phonetic": "yán jīu shēng",
+          "definitionOfWord": "Nghiên cứu sinh ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "读研究生",
+          "phonetic": "dú yán jiū shēng ",
+          "definitionOfWord": "Học cao học ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "硕士",
+          "phonetic": "shuò shì ",
+          "definitionOfWord": "Thạc sĩ ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "博士",
+          "phonetic": "bó shì ",
+          "definitionOfWord": "Tiến sĩ ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "副教授",
+          "phonetic": "fù jiào shòu ",
+          "definitionOfWord": "Phó giáo sư ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "教授",
+          "phonetic": "jiào shòu ",
+          "definitionOfWord": "Giáo sư ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "现代",
+          "phonetic": "xiàn dài ",
+          "definitionOfWord": "Hiện đại ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        }
+      ]
     }
   ],
   "dictionary": [
