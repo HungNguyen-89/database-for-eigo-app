@@ -239,6 +239,11 @@
       "id": "kanji",
       "flashCardData": [
         {
+          "id": "basic-0",
+          "link": "kanji-basic-0",
+          "name": "Kanji-0"
+        },
+        {
           "id": "basic-1",
           "link": "kanji-basic-1",
           "name": "Kanji-1"
@@ -262,6 +267,11 @@
           "id": "basic-5",
           "link": "kanji-basic-5",
           "name": "Kanji-5"
+        },
+        {
+          "id": "basic-6",
+          "link": "kanji-basic-6",
+          "name": "Kanji-6"
         }
       ]
     }
@@ -21762,6 +21772,460 @@
   ],
   "flashcards-kanji-data": [
     {
+      "id": "kanji-basic-0",
+      "name_flashcard": "Kanji-0",
+      "flashCardData": [
+        {
+          "word": "b",
+          "phonetic": "",
+          "definitionOfWord": "p",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "p'",
+          "phonetic": "",
+          "definitionOfWord": "p'",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "m",
+          "phonetic": "",
+          "definitionOfWord": "m",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "f",
+          "phonetic": "",
+          "definitionOfWord": "ph",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "d",
+          "phonetic": "",
+          "definitionOfWord": "t",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "t'",
+          "phonetic": "",
+          "definitionOfWord": "th",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "n",
+          "phonetic": "",
+          "definitionOfWord": "n",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "l",
+          "phonetic": "",
+          "definitionOfWord": "l",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "g",
+          "phonetic": "",
+          "definitionOfWord": "c",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "k'",
+          "phonetic": "",
+          "definitionOfWord": "kh",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "h",
+          "phonetic": "",
+          "definitionOfWord": "kh",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "j",
+          "phonetic": "",
+          "definitionOfWord": "ch",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "q'",
+          "phonetic": "",
+          "definitionOfWord": "chi",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "x",
+          "phonetic": "",
+          "definitionOfWord": "x",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "s",
+          "phonetic": "",
+          "definitionOfWord": "x",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "z",
+          "phonetic": "",
+          "definitionOfWord": "ch",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "c'",
+          "phonetic": "",
+          "definitionOfWord": "ch",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "sh",
+          "phonetic": "",
+          "definitionOfWord": "s",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "zh",
+          "phonetic": "",
+          "definitionOfWord": "tr",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "ch'",
+          "phonetic": "",
+          "definitionOfWord": "tr",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "r",
+          "phonetic": "",
+          "definitionOfWord": "r",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "y",
+          "phonetic": "",
+          "definitionOfWord": "y",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "w",
+          "phonetic": "",
+          "definitionOfWord": "w",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "a",
+          "phonetic": "",
+          "definitionOfWord": "a",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "o",
+          "phonetic": "",
+          "definitionOfWord": "ua",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "i",
+          "phonetic": "",
+          "definitionOfWord": "ư",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "u",
+          "phonetic": "",
+          "definitionOfWord": "u",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "e",
+          "phonetic": "",
+          "definitionOfWord": "ưa",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "ü",
+          "phonetic": "",
+          "definitionOfWord": "uy",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "ai",
+          "phonetic": "",
+          "definitionOfWord": "ai",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "ei",
+          "phonetic": "",
+          "definitionOfWord": "ây",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "ao",
+          "phonetic": "",
+          "definitionOfWord": "ao",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "ou",
+          "phonetic": "",
+          "definitionOfWord": "âu",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "an",
+          "phonetic": "",
+          "definitionOfWord": "an",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "en",
+          "phonetic": "",
+          "definitionOfWord": "ân",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "ang",
+          "phonetic": "",
+          "definitionOfWord": "ang",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "eng",
+          "phonetic": "",
+          "definitionOfWord": "âng",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "ong",
+          "phonetic": "",
+          "definitionOfWord": "ung",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "ia",
+          "phonetic": "",
+          "definitionOfWord": "ia",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "iao",
+          "phonetic": "",
+          "definitionOfWord": "iao",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "ie",
+          "phonetic": "",
+          "definitionOfWord": "ia",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "iou (iu)",
+          "phonetic": "",
+          "definitionOfWord": "iêu",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "in",
+          "phonetic": "",
+          "definitionOfWord": "in",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "ian",
+          "phonetic": "",
+          "definitionOfWord": "ien",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "iang",
+          "phonetic": "",
+          "definitionOfWord": "iang",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "ing",
+          "phonetic": "",
+          "definitionOfWord": "iưng",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "iong",
+          "phonetic": "",
+          "definitionOfWord": "iung",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "ua",
+          "phonetic": "",
+          "definitionOfWord": "oa",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "uo",
+          "phonetic": "",
+          "definitionOfWord": "ua",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "uai",
+          "phonetic": "",
+          "definitionOfWord": "oai",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "uei (ui)",
+          "phonetic": "",
+          "definitionOfWord": "uây",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "uan",
+          "phonetic": "",
+          "definitionOfWord": "oan",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "uen (un)",
+          "phonetic": "",
+          "definitionOfWord": "uân",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "üe",
+          "phonetic": "",
+          "definitionOfWord": "uê",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "üan",
+          "phonetic": "",
+          "definitionOfWord": "oen",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "ün",
+          "phonetic": "",
+          "definitionOfWord": "uyn",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        }
+      ]
+    },
+    {
       "id": "kanji-basic-1",
       "name_flashcard": "Kanji-1",
       "flashCardData": [
@@ -23191,7 +23655,7 @@
         },
         {
           "word": "有",
-          "phonetic": "yóu",
+          "phonetic": "yǒu",
           "definitionOfWord": "Có ",
           "meaning": "Wǒ yǒu yí ɡè pínɡɡuǒ.",
           "example_1": "我有一个苹果。",
@@ -23390,20 +23854,418 @@
           "example_1_vn": "Tôi đang học ngoại ngữ."
         },
         {
-          "word": "国际",
-          "phonetic": "guó jì ",
-          "definitionOfWord": "quốc tế",
-          "meaning": "guójì hézuò zhì guān zhòngyào.",
-          "example_1": "国际合作至关重要。",
-          "example_1_vn": "Hợp tác quốc tế rất quan trọng."
-        },
-        {
           "word": "学习",
-          "phonetic": "xuéxí",
+          "phonetic": "xué xí",
           "definitionOfWord": "học; học tập",
           "meaning": "nǐ xuéxí shénme zhuānyè?",
           "example_1": "你学习什么专业？",
           "example_1_vn": "Cậu học chuyên ngành gì?"
+        }
+      ]
+    },
+    {
+      "id": "kanji-basic-6",
+      "name_flashcard": "Kanji-6",
+      "flashCardData": [
+        {
+          "word": "现在",
+          "phonetic": "xiàn zài ",
+          "definitionOfWord": "Bây giờ ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "几",
+          "phonetic": "jǐ",
+          "definitionOfWord": "Mấy ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "点",
+          "phonetic": "diǎn ",
+          "definitionOfWord": "Giờ ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "百",
+          "phonetic": "bǎi ",
+          "definitionOfWord": "Trăm ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "千",
+          "phonetic": "qiān ",
+          "definitionOfWord": "Nghìn ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "万",
+          "phonetic": "wàn ",
+          "definitionOfWord": "Vạn ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "分",
+          "phonetic": "fēn ",
+          "definitionOfWord": "Phút ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "差",
+          "phonetic": "chà",
+          "definitionOfWord": "Kém ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "早上",
+          "phonetic": "zǎo shàng ",
+          "definitionOfWord": "Sáng sớm ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "上午",
+          "phonetic": "shàng wǔ",
+          "definitionOfWord": "Sáng ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "中午",
+          "phonetic": "zhōng wǔ ",
+          "definitionOfWord": "Trưa ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "下午",
+          "phonetic": "xià wǔ",
+          "definitionOfWord": "Chiều ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "晚上",
+          "phonetic": "wǎn shàng ",
+          "definitionOfWord": "Tối ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "学校",
+          "phonetic": "xué xiào ",
+          "definitionOfWord": "Trường học ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "小学",
+          "phonetic": "xiǎo xué",
+          "definitionOfWord": "Cấp 1 ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "初中",
+          "phonetic": "chù zhōng",
+          "definitionOfWord": "Cấp 2",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "高中",
+          "phonetic": "gāo zhōng ",
+          "definitionOfWord": "Cấp 3 ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "大学",
+          "phonetic": "dà xué",
+          "definitionOfWord": "Đại học ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "部分",
+          "phonetic": "bù fen",
+          "definitionOfWord": "Phần ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "大部分",
+          "phonetic": "dà bù fen",
+          "definitionOfWord": "Phần lớn ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "太。。了",
+          "phonetic": "tài ..le",
+          "definitionOfWord": "Quá … lắm ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "早",
+          "phonetic": "zǎo ",
+          "definitionOfWord": "Sáng ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "晚",
+          "phonetic": "wǎn ",
+          "definitionOfWord": "Muộn ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "开始",
+          "phonetic": "kāi shǐ",
+          "definitionOfWord": "Bắt đầu ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "结束",
+          "phonetic": "jié shù",
+          "definitionOfWord": "Kết thúc ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "一会儿",
+          "phonetic": "yí huìr",
+          "definitionOfWord": "1 lúc ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "见面",
+          "phonetic": "jiàn miàn ",
+          "definitionOfWord": "Gặp mặt ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "讲座",
+          "phonetic": "jiǎng zuò ",
+          "definitionOfWord": "Toạ đàm ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "点菜",
+          "phonetic": "diǎn cài",
+          "definitionOfWord": "gọi món; kêu món ăn",
+          "meaning": "tā yǐjīng diǎn càile.",
+          "example_1": "她已经点菜了。",
+          "example_1_vn": "Cô ấy đã gọi món xong rồi."
+        },
+        {
+          "word": "一点儿",
+          "phonetic": "yī diǎnr",
+          "definitionOfWord": "chút xíu; chút ít",
+          "meaning": "tā zhǐ chīle yīdiǎnr dōngxi.",
+          "example_1": "她只吃了一点儿东西。",
+          "example_1_vn": "Cô ấy chỉ ăn một chút đồ ăn."
+        },
+        {
+          "word": "一",
+          "phonetic": "yī",
+          "definitionOfWord": "một; số một",
+          "meaning": "wǒ de bàba shì yī míng xiāofáng yuán.",
+          "example_1": "我的爸爸是一名消防员。",
+          "example_1_vn": "Bố tớ là một người lính cứu hỏa."
+        },
+        {
+          "word": "二",
+          "phonetic": "èr",
+          "definitionOfWord": "hai; số hai",
+          "meaning": "yī jiā yī děngyú èr.",
+          "example_1": "一加一等于二。",
+          "example_1_vn": "Một cộng một bằng hai."
+        },
+        {
+          "word": "三",
+          "phonetic": "sān",
+          "definitionOfWord": "ba; số ba",
+          "meaning": "wǒ xuéle zhōngwén sān niánle.",
+          "example_1": "我学了中文三年了。",
+          "example_1_vn": "Tôi đã học tiếng Trung được ba năm."
+        },
+        {
+          "word": "四",
+          "phonetic": "sì",
+          "definitionOfWord": "bốn; số bốn",
+          "meaning": "zhè shì sì běn shū.",
+          "example_1": "这是四本书。",
+          "example_1_vn": "Đây là bốn cuốn sách."
+        },
+        {
+          "word": "五",
+          "phonetic": "wǔ",
+          "definitionOfWord": "năm; số năm",
+          "meaning": "wǒjiā yǒu wǔ kǒu rén.",
+          "example_1": "我家有五口人。",
+          "example_1_vn": "Nhà tôi có năm người."
+        },
+        {
+          "word": "六",
+          "phonetic": "liù",
+          "definitionOfWord": "sáu; số sáu",
+          "meaning": "wǒ děngle liù fēnzhōng.",
+          "example_1": "我等了六分钟。",
+          "example_1_vn": "Tôi đã đợi sáu phút rồi."
+        },
+        {
+          "word": "七",
+          "phonetic": "qī",
+          "definitionOfWord": "bảy; số bảy",
+          "meaning": "yǎnchū qī diǎn kāishǐ.",
+          "example_1": "演出七点开始。",
+          "example_1_vn": "Buổi biểu diễn bắt đầu lúc 7 giờ."
+        },
+        {
+          "word": "八",
+          "phonetic": "tám; số tám",
+          "definitionOfWord": "bā",
+          "meaning": "bā diǎn zhōng wǒmen chūfā.",
+          "example_1": "八点钟我们出发。",
+          "example_1_vn": "Chúng tôi khởi hành lúc tám giờ."
+        },
+        {
+          "word": "九",
+          "phonetic": "chín; số chín",
+          "definitionOfWord": "jiǔ",
+          "meaning": "wǒmen yǒu jiǔ běn shū.",
+          "example_1": "我们有九本书。",
+          "example_1_vn": "Chúng tôi có 9 quyển sách."
+        },
+        {
+          "word": "十",
+          "phonetic": "mười; số mười",
+          "definitionOfWord": "shí",
+          "meaning": "wǒ yǒu shí běn shū yào dú.",
+          "example_1": "我有十本书要读。",
+          "example_1_vn": "Tôi có mười cuốn sách cần đọc."
+        },
+        {
+          "word": "零",
+          "phonetic": "không; số không",
+          "definitionOfWord": "líng",
+          "meaning": "jīnnián de lìlǜ shì líng.",
+          "example_1": "今年的利率是零。",
+          "example_1_vn": "Lãi suất năm nay là không."
+        },
+        {
+          "word": "刻",
+          "phonetic": "thời hạn; thời gian (theo hạn định)",
+          "definitionOfWord": "kè",
+          "meaning": "rènwu kèqī bìxū wánchéng.",
+          "example_1": "任务刻期必须完成。",
+          "example_1_vn": "Nhiệm vụ phải hoàn thành đúng thời hạn."
+        },
+        {
+          "word": "所",
+          "phonetic": "chỗ; chốn; nơi",
+          "definitionOfWord": "suǒ",
+          "meaning": "zhège suǒ shì wǒ de jiā.",
+          "example_1": "这个所是我的家。",
+          "example_1_vn": "Nơi này là nhà của tôi."
+        },
+        {
+          "word": "上课 ",
+          "phonetic": "lên lớp; vào học; đi học; đến lớp",
+          "definitionOfWord": "shàng kè",
+          "meaning": "wǒmen měitiān dōu yào ànshí shàngkè.",
+          "example_1": "我们每天都要按时上课。",
+          "example_1_vn": "Chúng tôi phải đến lớp đúng giờ mỗi ngày."
+        },
+        {
+          "word": "上汉语课",
+          "phonetic": "Tham gia lớp học tiếng Trung",
+          "definitionOfWord": "shàng hàn yǔ kè",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "部分",
+          "phonetic": "phần; một số; bộ phận; phần chia",
+          "definitionOfWord": "bù fen",
+          "meaning": "wǒ zhǐ chīle bùfen dàngāo.",
+          "example_1": "我只吃了部分蛋糕。",
+          "example_1_vn": "Tôi chỉ ăn một phần bánh."
+        },
+        {
+          "word": "见",
+          "phonetic": "thấy; trông thấy; nhìn thấy",
+          "definitionOfWord": "jiàn",
+          "meaning": "nǐ jiànguò zhè běn shū ma?",
+          "example_1": "你见过这本书吗？",
+          "example_1_vn": "Bạn đã nhìn thấy cuốn sách này chưa?"
+        },
+        {
+          "word": "看见",
+          "phonetic": "thấy; trông thấy; thấy được; nhìn thấy",
+          "definitionOfWord": "kàn jiàn ",
+          "meaning": "nǐ kànjiàn wǒ de bēizile ma?",
+          "example_1": "你看见我的杯子了吗？",
+          "example_1_vn": "Bạn có thấy cốc của tôi chưa?"
+        },
+        {
+          "word": "一会儿见",
+          "phonetic": "hẹn lát gặp lại",
+          "definitionOfWord": "yī huìr jiàn",
+          "meaning": "Zhè shì pāi piànzi de dānzi, yīhuǐ'er jiàn.",
+          "example_1": "这是拍片子的单子,一会儿见。",
+          "example_1_vn": "Đây là danh sách quay phim, hẹn lát gặp lại."
+        },
+        {
+          "word": "听讲座",
+          "phonetic": "nghe bài giảng",
+          "definitionOfWord": "tīng jiǎng zuò",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
         }
       ]
     }
