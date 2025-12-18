@@ -277,6 +277,11 @@
           "id": "basic-7",
           "link": "kanji-basic-7",
           "name": "Kanji-7"
+        },
+        {
+          "id": "basic-8",
+          "link": "kanji-basic-8",
+          "name": "Kanji-8"
         }
       ]
     }
@@ -24757,6 +24762,500 @@
           "meaning": "",
           "example_1": "",
           "example_1_vn": ""
+        }
+      ]
+    },
+    {
+      "id": "kanji-basic-8",
+      "name_flashcard": "Kanji-8",
+      "flashCardData": [
+        {
+          "word": "电话",
+          "phonetic": "diàn huà",
+          "definitionOfWord": "điện thoại",
+          "meaning": "nǐ jiā de diànhuà shì duōshao?",
+          "example_1": "你家的电话是多少？",
+          "example_1_vn": "Số điện thoại nhà cậu là bao nhiêu?"
+        },
+        {
+          "word": "号码",
+          "phonetic": "hào mǎ",
+          "definitionOfWord": "số; chữ số; con số; số thứ tự",
+          "meaning": "nǐ de diànhuà hàomǎ shì duōshao?",
+          "example_1": "你的电话号码是多少？",
+          "example_1_vn": "Số điện thoại của cậu là bao nhiêu?"
+        },
+        {
+          "word": "手机",
+          "phonetic": "shǒu jī",
+          "definitionOfWord": "điện thoại di động",
+          "meaning": "wǒ de shǒujī zài nàlǐ",
+          "example_1": "我的手机在那里。",
+          "example_1_vn": "Điện thoại của tôi ở đằng kia."
+        },
+        {
+          "word": "多少",
+          "phonetic": "duō shao",
+          "definitionOfWord": "bao nhiêu; mấy; chừng nào; mấy mươi; bao",
+          "meaning": "nàli lí zhèr duōshao mǐ?",
+          "example_1": "那里离这儿多少米？",
+          "example_1_vn": "Chỗ đó cách đây bao nhiêu mét?"
+        },
+        {
+          "word": "周末",
+          "phonetic": "zhōu mò",
+          "definitionOfWord": "cuối tuần",
+          "meaning": "wǒ chángcháng zhōumò qù diànyǐngyuàn.",
+          "example_1": "我常常周末去电影院。",
+          "example_1_vn": "Cuối tuần tôi thường đi xem phim."
+        },
+        {
+          "word": "星期",
+          "phonetic": "xīng qī",
+          "definitionOfWord": "tuần lễ; tuần",
+          "meaning": "yīgè xīngqī gòngyǒu qītiān.",
+          "example_1": "一个星期共有七天。",
+          "example_1_vn": "Một tuần có bảy ngày."
+        },
+        {
+          "word": "星期一",
+          "phonetic": "xīngqī yī",
+          "definitionOfWord": "thứ hai",
+          "meaning": "wǒ xīng qī yī qù běijīng.",
+          "example_1": "我星期一去北京。",
+          "example_1_vn": "Thứ hai tôi đi Bắc Kinh."
+        },
+        {
+          "word": "星期二",
+          "phonetic": "xīng qī èr",
+          "definitionOfWord": "thứ ba",
+          "meaning": "xīng qī èr nǐ yǒu shíjiān ma?",
+          "example_1": "星期二你有时间吗？",
+          "example_1_vn": "Thứ Ba bạn có thời gian không?"
+        },
+        {
+          "word": "星期三",
+          "phonetic": "xīng qī sān",
+          "definitionOfWord": "thứ tư",
+          "meaning": "xīngqīsān tiānqì hěn hǎo.",
+          "example_1": "星期三天气很好。",
+          "example_1_vn": "Thứ tư thời tiết rất đẹp."
+        },
+        {
+          "word": "星期四",
+          "phonetic": "xīng qī sì",
+          "definitionOfWord": "thứ năm",
+          "meaning": "jīntiān shì xīng qīsì, gōngzuò hěn máng.",
+          "example_1": "今天是星期四，工作很忙。",
+          "example_1_vn": "Hôm nay là thứ năm, công việc rất bận."
+        },
+        {
+          "word": "星期五",
+          "phonetic": "xīng qī wǔ",
+          "definitionOfWord": "thứ sáu",
+          "meaning": "xīngqī wǔ shì wǒ de shēngrì.",
+          "example_1": "星期五是我的生日。",
+          "example_1_vn": "Thứ Sáu là sinh nhật của tôi."
+        },
+        {
+          "word": "星期六",
+          "phonetic": "xīng qī liù",
+          "definitionOfWord": "thứ bảy",
+          "meaning": "wǒ xiǎng xīng qīliù qù běijīng.",
+          "example_1": "我想星期六去北京。",
+          "example_1_vn": "Thứ bảy này tôi đi Bắc Kinh."
+        },
+        {
+          "word": "星期日",
+          "phonetic": "xīng qī rì",
+          "definitionOfWord": "chủ nhật ",
+          "meaning": "nǐ xīng qīrì yǒu shíjiān ma?",
+          "example_1": "你星期日有时间吗？",
+          "example_1_vn": "Chủ nhật cậu có rảnh không?"
+        },
+        {
+          "word": "周一",
+          "phonetic": "zhōu yī",
+          "definitionOfWord": "thứ hai; đầu tuần",
+          "meaning": "zhōuyī shàngwǔ nǐ yǒu kòng ma?",
+          "example_1": "周一上午你有空吗？",
+          "example_1_vn": "Sáng thứ hai cậu có rảnh không?"
+        },
+        {
+          "word": "不过",
+          "phonetic": "bù guò",
+          "definitionOfWord": "song; nhưng; nhưng mà; có điều là; chỉ có điều; có điều; cơ mà",
+          "meaning": "tiānqì hěn hǎo, bùguò fēng yǒudiǎn dà.",
+          "example_1": "天气很好，不过风有点大。",
+          "example_1_vn": "Thời tiết đẹp, nhưng gió hơi to."
+        },
+        {
+          "word": "怎么",
+          "phonetic": "zěn me",
+          "definitionOfWord": "như thế nào +V ",
+          "meaning": "zhège wèntí gāi zěnme jiějué?",
+          "example_1": "这个问题该怎么解决?",
+          "example_1_vn": "Vấn đề này nên giải quyết thế nào?"
+        },
+        {
+          "word": "吃",
+          "phonetic": "chī",
+          "definitionOfWord": "ăn; uống",
+          "meaning": "wǒ xǐhuan chī píngguǒ.",
+          "example_1": "我喜欢吃苹果。",
+          "example_1_vn": "Tớ thích ăn táo."
+        },
+        {
+          "word": "写",
+          "phonetic": "xiě",
+          "definitionOfWord": "viết (chữ)",
+          "meaning": "wǒ gěi tā xiěle fēng duǎnxìn.",
+          "example_1": "我给他写了封短信。",
+          "example_1_vn": "Tôi đã viết một tin nhắn gửi cho anh ấy."
+        },
+        {
+          "word": "走",
+          "phonetic": "zǒu",
+          "definitionOfWord": "đi ",
+          "meaning": "nǐ zěnme zǒu de nàme màn?",
+          "example_1": "你怎么走得那么慢？",
+          "example_1_vn": "Sao mà cậu đi chậm thế?"
+        },
+        {
+          "word": "和",
+          "phonetic": "hé",
+          "definitionOfWord": "và ",
+          "meaning": "wǒ huì Yīngyǔ hé Fǎyǔ.",
+          "example_1": "我会英语和法语。",
+          "example_1_vn": "Tôi biết tiếng Anh và tiếng Pháp."
+        },
+        {
+          "word": "路",
+          "phonetic": "lù",
+          "definitionOfWord": "đường; đường sá",
+          "meaning": "zhè tiáo lù tài dàle.",
+          "example_1": "这条路太大了。",
+          "example_1_vn": "Con đường này rộng quá."
+        },
+        {
+          "word": "上海",
+          "phonetic": "Shàng hǎi",
+          "definitionOfWord": "Thượng Hải",
+          "meaning": "tā zài shànghǎi gōngzuòle duōnián.",
+          "example_1": "他在上海工作了多年。",
+          "example_1_vn": "Anh ấy đã làm việc ở Thượng Hải nhiều năm."
+        },
+        {
+          "word": "坐",
+          "phonetic": "zuò",
+          "definitionOfWord": "ngồi; đi; đáp (phương tiện giao thông)",
+          "meaning": "wǒmen zuò huǒchē lǚxíng.",
+          "example_1": "我们坐火车旅行。",
+          "example_1_vn": "Chúng tôi đi du lịch bằng tàu hỏa."
+        },
+        {
+          "word": "公共汽车",
+          "phonetic": "gōng gòng qì chē",
+          "definitionOfWord": "xe buýt",
+          "meaning": "gōnggòng qìchē yuèpiào duōshǎo qián?",
+          "example_1": "公共汽车月票多少钱?",
+          "example_1_vn": "Giá vé xe buýt hàng tháng bao nhiêu?"
+        },
+        {
+          "word": "电梯",
+          "phonetic": "diàn tī",
+          "definitionOfWord": "thang máy ",
+          "meaning": "zhèjià diàntī shì qù dǐngcéng de.",
+          "example_1": "这架电梯是去顶层的。",
+          "example_1_vn": "Thang máy này đi lên tầng cao nhất."
+        },
+        {
+          "word": "飞机",
+          "phonetic": "fēi jī",
+          "definitionOfWord": "máy bay ",
+          "meaning": "fēijī fēi shàngtiānle.",
+          "example_1": "飞机飞上天了。",
+          "example_1_vn": "Máy bay bay lên bầu trời."
+        },
+        {
+          "word": "火车",
+          "phonetic": "huǒ chē",
+          "definitionOfWord": "tàu hoả ",
+          "meaning": "wǒ xǐhuān zuò huǒchē qù lǚxíng.",
+          "example_1": "我喜欢坐火车去旅行。",
+          "example_1_vn": "Tôi thích đi du lịch bằng tàu hỏa."
+        },
+        {
+          "word": "到",
+          "phonetic": "dào",
+          "definitionOfWord": "đến; đi đến",
+          "meaning": "qǐngwèn, dào yóujú zěnme zǒu?",
+          "example_1": "请问，到邮局怎么走？",
+          "example_1_vn": "Xin hỏi, đến bưu điện đi đường nào?"
+        },
+        {
+          "word": "都",
+          "phonetic": "dōu",
+          "definitionOfWord": "đều; cả; hoàn toàn; toàn bộ",
+          "meaning": "wǒmen dōu shì yuènán rén.",
+          "example_1": "我们都是越南人。",
+          "example_1_vn": "Chúng tôi đều là người Việt Nam."
+        },
+        {
+          "word": "快",
+          "phonetic": "kuài",
+          "definitionOfWord": "nhanh; mau; chóng",
+          "meaning": "tā pǎo de hěn kuài.",
+          "example_1": "他跑得很快。",
+          "example_1_vn": "Anh ấy chạy rất nhanh."
+        },
+        {
+          "word": "慢",
+          "phonetic": "màn",
+          "definitionOfWord": "chậm; chậm chạp; thong thả",
+          "meaning": "zhè liàng chē kāi dé màn.",
+          "example_1": "这辆车开得慢。",
+          "example_1_vn": "Chiếc xe này chạy chậm."
+        },
+        {
+          "word": "分钟",
+          "phonetic": "fēn zhōng",
+          "definitionOfWord": "phút ",
+          "meaning": "wǒmen zhǐ xū děng shí fēnzhōng.",
+          "example_1": "我们只需等十分钟。",
+          "example_1_vn": "Chúng ta chỉ cần đợi mười phút."
+        },
+        {
+          "word": "校园",
+          "phonetic": "xiào yuán",
+          "definitionOfWord": "sân trường; vườn trường; khuôn viên trường học",
+          "meaning": "xiàoyuán li yǒusān gè cāntīng.",
+          "example_1": "校园里有三个餐厅。",
+          "example_1_vn": "Có ba nhà hàng trong khuôn viên trường."
+        },
+        {
+          "word": "东南",
+          "phonetic": "dōng nán",
+          "definitionOfWord": "đông nam",
+          "meaning": "túshūguǎn jiù zài xuéxiào de dōngnán fāngxiàng.",
+          "example_1": "图书馆就在学校的东南方向",
+          "example_1_vn": "Thư viện ở ngay hướng đông nam của trường học."
+        },
+        {
+          "word": "东南亚",
+          "phonetic": "dōng nán yà",
+          "definitionOfWord": "Đông Nam Á ",
+          "meaning": "lǎowō shì Dōngnányà guójiā.",
+          "example_1": "老挝是东南亚国家。",
+          "example_1_vn": "Lào là quốc gia Đông Nam Á."
+        },
+        {
+          "word": "房间",
+          "phonetic": "fáng jiān",
+          "definitionOfWord": "phòng, căn phòng",
+          "meaning": "wǒ hěn xǐhuan zhège fángjiān.",
+          "example_1": "我很喜欢这个房间。",
+          "example_1_vn": "Tôi rất thích phòng này."
+        },
+        {
+          "word": "房子",
+          "phonetic": "fáng zi",
+          "definitionOfWord": "nhà; nhà cửa; cái nhà",
+          "meaning": "wǒmen de fángzi hěn dà.",
+          "example_1": "我们的房子很大。",
+          "example_1_vn": "Ngôi nhà của chúng tôi rất lớn."
+        },
+        {
+          "word": "房间号",
+          "phonetic": "fáng jiān hào",
+          "definitionOfWord": "số phòng ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "教室",
+          "phonetic": "jiàoshì",
+          "definitionOfWord": "phòng học; lớp học; giảng đường",
+          "meaning": "wǒ xǐhuan zài jiàoshì lǐ xuéxí.",
+          "example_1": "我喜欢在教室里学习。",
+          "example_1_vn": "Tôi thích học bài ở trong phòng học."
+        },
+        {
+          "word": "卧室",
+          "phonetic": "wò shì",
+          "definitionOfWord": "phòng ngủ ",
+          "meaning": "tā zài wòshì lǐ kànshū.",
+          "example_1": "他在卧室里看书。",
+          "example_1_vn": "Anh ấy đang đọc sách trong phòng ngủ."
+        },
+        {
+          "word": "医务室",
+          "phonetic": "yī wù shì",
+          "definitionOfWord": "Phòng y tế ",
+          "meaning": "yánjiū suǒ lǐ shè yǒu yīwù shì.",
+          "example_1": "学校有自己的医务室。",
+          "example_1_vn": "Trong viện nghiên cứu có phòng y tế."
+        },
+        {
+          "word": "等",
+          "phonetic": "děng",
+          "definitionOfWord": "đợi; chờ; chờ đợi",
+          "meaning": "wǒ zài ménkǒu děng nǐ.",
+          "example_1": "我在门口等你。",
+          "example_1_vn": "Tôi đợi bạn ở cửa."
+        },
+        {
+          "word": "苹果",
+          "phonetic": "píng guǒ",
+          "definitionOfWord": "Apple",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "三星",
+          "phonetic": "sān xīng",
+          "definitionOfWord": "Samsung",
+          "meaning": "wǒ mǎile sānxīng shǒujī.",
+          "example_1": "我买了三星手机。",
+          "example_1_vn": "Tôi đã mua một chiếc điện thoại Samsung."
+        },
+        {
+          "word": "打电话",
+          "phonetic": "dǎ diàn huà",
+          "definitionOfWord": "gọi điện thoại",
+          "meaning": "wǒ míngtiān shàngwǔ gěi nǐ dǎ diànhuà.",
+          "example_1": "我明天上午给你打电话。",
+          "example_1_vn": "Sáng mai anh sẽ gọi cho em."
+        },
+        {
+          "word": "给",
+          "phonetic": "gěi",
+          "definitionOfWord": "làm; cho (cho ai làm việc gì đó)",
+          "meaning": "tā gěi wǒ ràng gè zuòwèi.",
+          "example_1": "他给我让个座位。",
+          "example_1_vn": "Anh ấy nhường chỗ cho tôi."
+        },
+        {
+          "word": "号码 ",
+          "phonetic": "hào mǎ",
+          "definitionOfWord": "số; chữ số; con số; số thứ tự",
+          "meaning": "wǒ jì bù zhù zhège hàomǎ.",
+          "example_1": "我记不住这个号码。",
+          "example_1_vn": "Tôi không nhớ được số này."
+        },
+        {
+          "word": "这周",
+          "phonetic": "zhè zhōu",
+          "definitionOfWord": "tuần này",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "上周",
+          "phonetic": "shàng zhōu",
+          "definitionOfWord": "tuần trước",
+          "meaning": "shàng zhōu wǒ qùle túshū guǎn.",
+          "example_1": "上周我去了图书馆。",
+          "example_1_vn": "Tuần trước tôi đã đến thư viện."
+        },
+        {
+          "word": "下周",
+          "phonetic": "xià zhōu",
+          "definitionOfWord": "tuần sau; tuần tới",
+          "meaning": "wǒmen xià zhōu jiànmiàn ba.",
+          "example_1": "我们下周见面吧。",
+          "example_1_vn": "Chúng ta gặp nhau vào tuần tới nhé."
+        },
+        {
+          "word": "呀",
+          "phonetic": "yā",
+          "definitionOfWord": "a; ô (thán từ, biểu thị sự kinh ngạc)",
+          "meaning": "yā, nǐ zhème zuò bùduì!",
+          "example_1": "呀，你这么做不对!",
+          "example_1_vn": "Ô, bạn làm thế là không đúng!"
+        },
+        {
+          "word": "只不过是",
+          "phonetic": "zhǐ bù guò shì",
+          "definitionOfWord": "không có gì hơn",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "走路",
+          "phonetic": "zǒu lù",
+          "definitionOfWord": "đi; đi đường; đi bộ",
+          "meaning": "zǒulù duì shēntǐ yǒu hǎochù.",
+          "example_1": "走路对身体有好处。",
+          "example_1_vn": "Đi bộ rất tốt cho cơ thể."
+        },
+        {
+          "word": "条",
+          "phonetic": "tiáo",
+          "definitionOfWord": "sợi; cái; con, dòng",
+          "meaning": "tiánjiān yǒu yītiáo xiǎo shuǐ gōu.",
+          "example_1": "田间有一条小水沟。",
+          "example_1_vn": "Trong ruộng có một con mương nhỏ."
+        },
+        {
+          "word": "马",
+          "phonetic": "mǎ",
+          "definitionOfWord": "con ngựa",
+          "meaning": "tā hěn xǐhuan qímǎ.",
+          "example_1": "他很喜欢骑马。",
+          "example_1_vn": "Anh ấy rất thích cưỡi ngựa."
+        },
+        {
+          "word": "都不是",
+          "phonetic": "dōu bù shì",
+          "definitionOfWord": "không có",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "不都是",
+          "phonetic": "bù dōu shì",
+          "definitionOfWord": "không phải tất cả",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "小时",
+          "phonetic": "xiǎo shí ",
+          "definitionOfWord": "giờ; tiếng; tiếng đồng hồ",
+          "meaning": "tā de kè shícháng yīgè xiǎoshí.",
+          "example_1": "她的课时长一个小时。",
+          "example_1_vn": "Tiết học của cô ấy dài một giờ."
+        },
+        {
+          "word": "号",
+          "phonetic": "hào",
+          "definitionOfWord": "ngày; mồng; số ngày",
+          "meaning": "xià gè xīngqīsān shì jǐ hào?",
+          "example_1": "下个星期三是几号？",
+          "example_1_vn": "Thứ tư tuần sau là ngày mấy?"
+        },
+        {
+          "word": "室",
+          "phonetic": "shì",
+          "definitionOfWord": "phòng",
+          "meaning": "nà shì kōngjiān tǐng kuānchǎng.",
+          "example_1": "那室空间挺宽敞。",
+          "example_1_vn": "Phòng đó không gian rất rộng rãi."
+        },
+        {
+          "word": "吧",
+          "phonetic": "ba",
+          "definitionOfWord": "nào; nhé; chứ; thôi; đi",
+          "meaning": "wǒmen zǎodiǎn chūfā ba.",
+          "example_1": "我们早点出发吧",
+          "example_1_vn": "Chúng ta xuất phát sớm một chút nhé."
         }
       ]
     }
