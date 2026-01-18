@@ -292,6 +292,11 @@
           "id": "basic-10",
           "link": "kanji-basic-10",
           "name": "Kanji-10"
+        },
+        {
+          "id": "basic-11",
+          "link": "kanji-basic-11",
+          "name": "Kanji-11"
         }
       ]
     }
@@ -26070,6 +26075,596 @@
           "meaning": "yéye xǐhuan zài hé biān diàoyú.",
           "example_1": "爷爷喜欢在河边钓鱼。",
           "example_1_vn": "Ông nội thích câu cá ở bờ sông."
+        },
+        {
+          "word": "已经",
+          "phonetic": "yǐ jīng",
+          "definitionOfWord": "đã; rồi",
+          "meaning": "rènwù yǐjīng wánchéng.",
+          "example_1": "任务已经完成。",
+          "example_1_vn": "Nhiệm vụ đã hoàn thành"
+        },
+        {
+          "word": "用",
+          "phonetic": "yòng",
+          "definitionOfWord": "dùng; sử dụng",
+          "meaning": "dàjiā dōu yòng Zhōngwén shuōhuà.",
+          "example_1": "大家都用中文说话。",
+          "example_1_vn": "Mọi người đều nói chuyện bằng tiếng trung."
+        },
+        {
+          "word": "因为",
+          "phonetic": "yīn wèi",
+          "definitionOfWord": "vì; do; bởi vì",
+          "meaning": "yīnwèi jiāotōng dǔsè, wǒ shàngbān chídàole.",
+          "example_1": "因为交通堵塞，我上班迟到了。",
+          "example_1_vn": "Tôi đi làm muộn vì tắc đường."
+        },
+        {
+          "word": "严格",
+          "phonetic": "yán gé",
+          "definitionOfWord": "nghiêm; nghiêm ngặt; nghiêm khắc; chặt chẽ",
+          "meaning": "wǒmen xuéxiào guǎnlǐ fēicháng yángé.",
+          "example_1": "我们学校管理非常严格。",
+          "example_1_vn": "Trường chúng tôi quản lý rất nghiêm."
+        },
+        {
+          "word": "关心",
+          "phonetic": "guān xīn",
+          "definitionOfWord": "quan tâm; lo lắng; trông nom; chú ý (người hoặc sự vật)",
+          "meaning": "tā fēicháng guānxīn zhège xiàngmù.",
+          "example_1": "她非常关心这个项目。",
+          "example_1_vn": "Cô ấy rất quan tâm đến dự án này."
+        },
+        {
+          "word": "帅",
+          "phonetic": "shuài",
+          "definitionOfWord": "đẹp trai",
+          "meaning": "zhège yǎnyuán zhēn de hěn shuài.",
+          "example_1": "这个演员真的很帅。",
+          "example_1_vn": "Diễn viên này thật sự rất đẹp trai."
+        },
+        {
+          "word": "公园",
+          "phonetic": "gōng yuán",
+          "definitionOfWord": "công viên; vườn hoa",
+          "meaning": "tā xǐhuan zài gōngyuán lǐ pāizhào.",
+          "example_1": "她喜欢在公园里拍照。",
+          "example_1_vn": "Cô ấy thích chụp ảnh trong công viên."
+        },
+        {
+          "word": "做",
+          "phonetic": "zuò",
+          "definitionOfWord": "làm; làm việc; thực hiện",
+          "meaning": "wǒ měitiān zuò hěnduō shìqíng.",
+          "example_1": "我每天做很多事情。",
+          "example_1_vn": "Tôi làm nhiều việc mỗi ngày."
+        },
+        {
+          "word": "部门",
+          "phonetic": "bù mén",
+          "definitionOfWord": "ngành; bộ môn; bộ phận",
+          "meaning": "tā zài xiāoshòu bùmén gōngzuò.",
+          "example_1": "他在销售部门工作。",
+          "example_1_vn": "Anh ấy làm việc ở bộ phận bán hàng."
+        },
+        {
+          "word": "设备",
+          "phonetic": "shè bèi",
+          "definitionOfWord": "thiết bị; dụng cụ",
+          "meaning": "yīyuàn de yīliáo shèbèi hěn qíquán.",
+          "example_1": "医院的医疗设备很齐全。",
+          "example_1_vn": "Trang thiết bị y tế của bệnh viện rất đầy đủ."
+        }
+      ]
+    },
+    {
+      "id": "kanji-basic-11",
+      "name_flashcard": "Kanji-11",
+      "flashCardData": [
+        {
+          "word": "天气",
+          "phonetic": "tiān qì",
+          "definitionOfWord": " thời tiết",
+          "meaning": "tiānqì nuǎnhuo qǐláile.",
+          "example_1": "天气暖和起来了。",
+          "example_1_vn": "Thời tiết bắt đầu ấm lên."
+        },
+        {
+          "word": "怎么样",
+          "phonetic": "zěn me yàng",
+          "definitionOfWord": "thế nào; như thế nào",
+          "meaning": "nǐ jīntiān gǎnjué zěnme yàng?",
+          "example_1": "你今天感觉怎么样？",
+          "example_1_vn": "Hôm nay bạn cảm thấy thế nào?"
+        },
+        {
+          "word": "风",
+          "phonetic": "fēng",
+          "definitionOfWord": " gió",
+          "meaning": "zhàn zài hǎibiān gǎnshòuzhe hǎifēng.",
+          "example_1": "站在海边感受着海风。",
+          "example_1_vn": "Đứng bên bờ biển cảm nhận gió biển."
+        },
+        {
+          "word": "刮大风",
+          "phonetic": "guā dà fēng",
+          "definitionOfWord": " gió mạnh",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "阵",
+          "phonetic": "zhèn",
+          "definitionOfWord": "trận; cơn (lượng từ, chỉ giai đoạn trải qua của sự việc hay động tác)",
+          "meaning": "zhè zhènfēng guā de shùzhī luàn yáo.",
+          "example_1": "这阵风刮得树枝乱摇。",
+          "example_1_vn": "Trận gió này thổi làm cành cây rung lắc."
+        },
+        {
+          "word": "下雨",
+          "phonetic": "xià yǔ",
+          "definitionOfWord": "mưa; mưa rơi; trời mưa",
+          "meaning": "Nánjīng sān yuè chángcháng xiàyǔ.",
+          "example_1": "南京三月常常下雨。",
+          "example_1_vn": "Nam Kinh tháng ba thường có mưa."
+        },
+        {
+          "word": "场",
+          "phonetic": "chǎng",
+          "definitionOfWord": "hồi; buổi; trận (lượng từ)",
+          "meaning": "wǒmen jīntiān wǎnshang yǒuyī chǎng yǎnchū.",
+          "example_1": "我们今天晚上有一场演出。",
+          "example_1_vn": "Chúng ta có một buổi biểu diễn vào tối nay."
+        },
+        {
+          "word": "雨",
+          "phonetic": "yǔ",
+          "definitionOfWord": "mưa",
+          "meaning": "tiānqì yùbào shuō, míngtiān yǒu yǔ.",
+          "example_1": "天气预报说，明天有雨。",
+          "example_1_vn": "Dự báo thời tiết nói ngày mai trời sẽ mưa."
+        },
+        {
+          "word": "季节",
+          "phonetic": "jì jié",
+          "definitionOfWord": "mùa; vụ; kỳ; thời vụ; thời kỳ",
+          "meaning": "xiàtiān shì yīgè yánrè de jìjié.",
+          "example_1": "夏天是一个炎热的季节。",
+          "example_1_vn": "Mùa hè là một mùa nóng bức."
+        },
+        {
+          "word": "春天",
+          "phonetic": "chūn tiān",
+          "definitionOfWord": "mùa xuân",
+          "meaning": "chūntiān shìhé wàichū lǚxíng.",
+          "example_1": "春天适合外出旅行。",
+          "example_1_vn": "Mùa xuân thích hợp để đi du lịch."
+        },
+        {
+          "word": "暖和",
+          "phonetic": "nuǎn huo",
+          "definitionOfWord": "ấm; ấm áp (khí hậu, hoàn cảnh)",
+          "meaning": "běijīng yīguò sān yuè, tiānqì jiù nuǎnhuole.",
+          "example_1": "北京一过三月，天气就暖和了。",
+          "example_1_vn": "Ở Bắc Kinh hễ qua tháng ba thì trời ấm rồi."
+        },
+        {
+          "word": "夏天",
+          "phonetic": "xià tiān",
+          "definitionOfWord": "mùa hè; mùa hạ",
+          "meaning": "jīnnián de xiàtiān hěn rè.",
+          "example_1": "今年的夏天很热。",
+          "example_1_vn": "Mùa hè năm nay rất nóng."
+        },
+        {
+          "word": "热",
+          "phonetic": "rè",
+          "definitionOfWord": "nóng",
+          "meaning": "jīntiān de tiānqì hěn rè.",
+          "example_1": "今天的天气很热。",
+          "example_1_vn": "Hôm nay trời rất nóng."
+        },
+        {
+          "word": "秋天",
+          "phonetic": "qiūtiān",
+          "definitionOfWord": "mùa thu",
+          "meaning": "qiūtiān de tiānqì liángshuǎng.",
+          "example_1": "秋天的天气凉爽。",
+          "example_1_vn": "Thời tiết mùa thu mát mẻ."
+        },
+        {
+          "word": "凉快",
+          "phonetic": "liáng kuai",
+          "definitionOfWord": "mát mẻ",
+          "meaning": "jīntiān de tiānqì hěn liángkuai.",
+          "example_1": "今天的天气很凉快。",
+          "example_1_vn": "Hôm nay thời tiết rất mát mẻ."
+        },
+        {
+          "word": "冬天",
+          "phonetic": "dōngtiān",
+          "definitionOfWord": "mùa đông",
+          "meaning": "wǒmen zhèr de dōngtiān bù tài lěng.",
+          "example_1": "我们这儿的冬天不太冷。",
+          "example_1_vn": "Mùa đông ở chỗ tôi không lạnh lắm."
+        },
+        {
+          "word": "冷",
+          "phonetic": "lěng",
+          "definitionOfWord": "lạnh",
+          "meaning": "jīntiān tiānqì tèbié lěng.",
+          "example_1": "今天天气特别冷。",
+          "example_1_vn": "Hôm nay thời tiết rất lạnh."
+        },
+        {
+          "word": "晴天",
+          "phonetic": "qíng tiān",
+          "definitionOfWord": "trời nắng",
+          "meaning": "qíngtiān de zǎochén tèbié yírén.",
+          "example_1": "晴天的早晨特别宜人。",
+          "example_1_vn": "Sáng sớm ngày nắng rất dễ chịu."
+        },
+        {
+          "word": "晴",
+          "phonetic": "qíng",
+          "definitionOfWord": "nắng, trời trong; trời quang; tạnh ráo; quang đãng",
+          "meaning": "tiānqì zhōngyú fàngqíngle.",
+          "example_1": "天气终于放晴了。",
+          "example_1_vn": "Thời tiết cuối cùng đã quang đãng."
+        },
+        {
+          "word": "下雨天",
+          "phonetic": "xià yǔ tiān",
+          "definitionOfWord": "ngày mưa",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "阴天",
+          "phonetic": "yīn tiān",
+          "definitionOfWord": "trời âm u; trời nhiều mây",
+          "meaning": "yīn tiān ràng rén de xīnqíng bù hǎo.",
+          "example_1": "阴天让人的心情不好。",
+          "example_1_vn": "Trời âm u khiến cho tâm trạng con người không vui."
+        },
+        {
+          "word": "比较",
+          "phonetic": "bǐ jiào",
+          "definitionOfWord": "tương đối; khá; khá là",
+          "meaning": "zhè piānwénzhāng xiědé bǐjiào hǎo。",
+          "example_1": "这篇文章写得比较好。",
+          "example_1_vn": "Bài văn này viết khá hay"
+        },
+        {
+          "word": "差不多",
+          "phonetic": "chà bu duō",
+          "definitionOfWord": "gần như",
+          "meaning": "tā bǐ wǒ chàbuduō gāo yītóu.",
+          "example_1": "他比我差不多高一头。",
+          "example_1_vn": "Anh ấy cao hơn tôi gần cái đầu."
+        },
+        {
+          "word": "度",
+          "phonetic": "dù",
+          "definitionOfWord": "nhiệt độ (độ C)",
+          "meaning": "jīntiān qìwēn gāodá 35 dù.",
+          "example_1": "今天气温高达35度。",
+          "example_1_vn": "Hôm nay nhiệt độ lên đến 35 độ."
+        },
+        {
+          "word": "舒服",
+          "phonetic": "shū fu",
+          "definitionOfWord": "thoải mái; khoan khoái",
+          "meaning": "tǎng zài shāfā shàng zhēn shūfu.",
+          "example_1": "躺在沙发上真舒服。",
+          "example_1_vn": "Nằm trên sofa rất thoải mái."
+        },
+        {
+          "word": "最",
+          "phonetic": "zuì",
+          "definitionOfWord": "nhất",
+          "meaning": "wǒ zuì xǐhuan xué Hànyǔ.",
+          "example_1": "我最喜欢学汉语。",
+          "example_1_vn": "Tôi thích học tiếng Trung nhất."
+        },
+        {
+          "word": "零下",
+          "phonetic": "líng xià",
+          "definitionOfWord": "độ âm (dưới 0 độ)",
+          "meaning": "jīntiān de wēndù língxià wǔ dù.",
+          "example_1": "今天的温度零下五度。",
+          "example_1_vn": "Hôm nay nhiệt độ là âm 5 độ."
+        },
+        {
+          "word": "常常",
+          "phonetic": "cháng cháng",
+          "definitionOfWord": "thường xuyên",
+          "meaning": "tā chángcháng qù gōngyuán sànbù.",
+          "example_1": "他常常去公园散步。",
+          "example_1_vn": "Anh ấy thường xuyên đi dạo công viên."
+        },
+        {
+          "word": "不怎么样",
+          "phonetic": "bù zěn me yàng",
+          "definitionOfWord": "xoàng xỉnh; thường thôi; chẳng ra gì; chẳng ra sao cả; chẳng có gì đặc sắc",
+          "meaning": "zhè jiā cāntīng de cài bù zěn me yàng.",
+          "example_1": "这家餐厅的菜不怎么样。",
+          "example_1_vn": "Món ăn ở nhà hàng này chả ra sao."
+        },
+        {
+          "word": "就",
+          "phonetic": "jiù",
+          "definitionOfWord": "thì",
+          "meaning": "lèile jiù xiūxi yīhuìr.",
+          "example_1": "累了就休息一会儿。",
+          "example_1_vn": "Mệt rồi thì nghỉ một lát đi."
+        },
+        {
+          "word": "找",
+          "phonetic": "zhǎo",
+          "definitionOfWord": "tìm; kiếm; tìm kiếm",
+          "meaning": "wǒ zài zhǎo diūshī de yàoshi.",
+          "example_1": "我在找丢失的钥匙。",
+          "example_1_vn": "Tôi đang tìm chìa khóa bị mất."
+        },
+        {
+          "word": "到底",
+          "phonetic": "dào dǐ",
+          "definitionOfWord": "rốt cuộc; suy cho cùng (dùng trong câu hỏi)",
+          "meaning": "nǐ gēn tāmen dàodǐ yǒu shén me guānxi?",
+          "example_1": "你跟他们到底有什么关系?",
+          "example_1_vn": "Rốt cuộc anh có quan hệ thế nào với họ?"
+        },
+        {
+          "word": "高",
+          "phonetic": "gāo",
+          "definitionOfWord": "cao",
+          "meaning": "zhè dòng lóu hěn gāo.",
+          "example_1": "这栋楼很高。",
+          "example_1_vn": "Tòa nhà này rất cao."
+        },
+        {
+          "word": "富",
+          "phonetic": "fù",
+          "definitionOfWord": "giàu; sung túc; phú",
+          "meaning": "wǒ de hǎo péngyǒu jiùshì yīgè fù rén.",
+          "example_1": "我的好朋友就是一个富人。",
+          "example_1_vn": "Bạn thân của tôi đúng là một người giàu có."
+        },
+        {
+          "word": "帅",
+          "phonetic": "shuài",
+          "definitionOfWord": "đẹp trai",
+          "meaning": "zhège yǎnyuán zhēn de hěn shuài.",
+          "example_1": "这个演员真的很帅。",
+          "example_1_vn": "Diễn viên này thật sự rất đẹp trai."
+        },
+        {
+          "word": "不太",
+          "phonetic": "bù tài",
+          "definitionOfWord": "không quá; chả",
+          "meaning": "zhè zhāng zhàopiàn bù tài qīngxī.",
+          "example_1": "这张照片不太清晰。",
+          "example_1_vn": "Hình ảnh này không được rõ ràng."
+        },
+        {
+          "word": "懂",
+          "phonetic": "dǒng",
+          "definitionOfWord": "hiểu; biết; thạo; thông thạo; hiểu rõ",
+          "meaning": "tā bù dǒng zhèxiē fùzá de shùxué tí.",
+          "example_1": "她不懂这些复杂的数学题。",
+          "example_1_vn": "Cô ấy không hiểu các bài toán phức tạp này."
+        },
+        {
+          "word": "贵",
+          "phonetic": "guì",
+          "definitionOfWord": "đắt",
+          "meaning": "zhè shuǐguǒ jiàgé guì.",
+          "example_1": "这水果价格贵。",
+          "example_1_vn": "Giá của loại trái cây này đắt."
+        },
+        {
+          "word": "刮风 ",
+          "phonetic": "guā fēng",
+          "definitionOfWord": "gió thổi; nổi gió; có gió",
+          "meaning": "wàimiàn guā dàfēng wǒ bù gǎn chūqù.",
+          "example_1": "外面刮大风我不敢出去。",
+          "example_1_vn": "Bên ngoài gió lớn tôi không dám ra ngoài."
+        },
+        {
+          "word": "下雪",
+          "phonetic": "xià xuě",
+          "definitionOfWord": "tuyết rơi",
+          "meaning": "zuó wǎn xià xuě, zǎochén lùmiàn hěn huá.",
+          "example_1": "昨晚下雪，早晨路面很滑。",
+          "example_1_vn": "Tối qua tuyết rơi, sáng sớm mặt đường rất trơn."
+        },
+        {
+          "word": "大风 ",
+          "phonetic": "dà fēng",
+          "definitionOfWord": "gió to; gió lớn (trong khí tượng học chỉ gió cấp 8)",
+          "meaning": "zhè jiàn dàyī tài báole, dǎng bù zhù dàfēng.",
+          "example_1": "这件大衣太薄了，挡不住大风。",
+          "example_1_vn": "Chiếc áo khoác này quá mỏng, chắn không nổi gió to."
+        },
+        {
+          "word": "小风",
+          "phonetic": "xiǎo fēng",
+          "definitionOfWord": "gió nhẹ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "刮",
+          "phonetic": "guā",
+          "definitionOfWord": "thổi; nổi (gió)",
+          "meaning": "yòu guā qǐ fēng láile!",
+          "example_1": "又刮起风来了!",
+          "example_1_vn": "Gió lại nổi lên rồi!"
+        },
+        {
+          "word": "回家",
+          "phonetic": "huí jiā",
+          "definitionOfWord": "về nhà; trở về nhà",
+          "meaning": "nǐ shénme shíhòu huí jiā?",
+          "example_1": "你什么时候回家？",
+          "example_1_vn": "Khi nào bạn về nhà?"
+        },
+        {
+          "word": "还",
+          "phonetic": "hái",
+          "definitionOfWord": "còn; vẫn; vẫn còn",
+          "meaning": "tā hái zài xuéxí Zhōngwén.",
+          "example_1": "他还在学习中文。",
+          "example_1_vn": "Anh ấy vẫn đang học tiếng Trung."
+        },
+        {
+          "word": "了",
+          "phonetic": "le",
+          "definitionOfWord": "quá; rồi (dùng trong câu cảm thán)",
+          "meaning": "zhè zhǒng gōngzuò tài lèile!",
+          "example_1": "这种工作太累了!",
+          "example_1_vn": "Công việc này mệt quá!"
+        },
+        {
+          "word": "因为",
+          "phonetic": "yīn wèi",
+          "definitionOfWord": "vì; do; bởi vì",
+          "meaning": "yīnwèi jiāotōng dǔsè, wǒ shàngbān chídàole.",
+          "example_1": "因为交通堵塞，我上班迟到了。",
+          "example_1_vn": "Tôi đi làm muộn vì tắc đường."
+        },
+        {
+          "word": "天",
+          "phonetic": "tiān",
+          "definitionOfWord": "trời; không trung; bầu trời",
+          "meaning": "wǒ xǐhuān zài tiānshàng kàn xīngxīng.",
+          "example_1": "我喜欢在天上看星星。",
+          "example_1_vn": "Tôi thích ngắm sao trên trời."
+        },
+        {
+          "word": "温度",
+          "phonetic": "wēn dù",
+          "definitionOfWord": "nhiệt độ",
+          "meaning": "qiūtiān láile, wēndù kāishǐ jiàngdīle.",
+          "example_1": "秋天来了，温度开始降低了。",
+          "example_1_vn": "Thu tới, nhiệt độ đã bắt đầu giảm dần."
+        },
+        {
+          "word": "气温",
+          "phonetic": "qì wēn",
+          "definitionOfWord": "nhiệt độ; nhiệt độ không khí",
+          "meaning": "qìwēn shàngshēng。",
+          "example_1": "气温上升。",
+          "example_1_vn": "Nhiệt độ không khí lên cao."
+        },
+        {
+          "word": "这样",
+          "phonetic": "zhè yàng",
+          "definitionOfWord": "như vậy; như thế",
+          "meaning": "zhèyàng de wèntí hěn nán jiějué.",
+          "example_1": "这样的问题很难解决。",
+          "example_1_vn": "Những vấn đề như vậy rất khó giải quyết."
+        },
+        {
+          "word": "所以",
+          "phonetic": "suǒ yǐ",
+          "definitionOfWord": "nên; cho nên; vậy nên; thành thử ra",
+          "meaning": "wǒ xǐhuan kànshū, suǒyǐ qù túshūguǎn.",
+          "example_1": "我喜欢看书，所以去图书馆。",
+          "example_1_vn": "Tôi thích đọc sách nên tôi đến thư viện."
+        },
+        {
+          "word": "讨厌",
+          "phonetic": "tǎo yàn",
+          "definitionOfWord": "đáng ghét",
+          "meaning": "tā zǒng shì chídào, zhēn tǎoyàn!",
+          "example_1": "他总是迟到，真讨厌！",
+          "example_1_vn": "Anh ấy lúc nào cũng đến muộn, thật đáng ghét!"
+        },
+        {
+          "word": "爱",
+          "phonetic": "ài",
+          "definitionOfWord": "quý; yêu; thương; yêu mến; yêu quý",
+          "meaning": "wǒ hěn ài wǒ de fùmǔ.",
+          "example_1": "我很爱我的父母。",
+          "example_1_vn": "Tôi rất yêu bố mẹ của mình."
+        },
+        {
+          "word": "游泳",
+          "phonetic": "yóu yǒng",
+          "definitionOfWord": "bơi; bơi lội",
+          "meaning": "wǒ xǐhuan zài xiàtiān yóuyǒng.",
+          "example_1": "我喜欢在夏天游泳。",
+          "example_1_vn": "Tôi thích bơi vào mùa hè."
+        },
+        {
+          "word": "我会",
+          "phonetic": "wǒ huì",
+          "definitionOfWord": "tôi có thể",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "不会",
+          "phonetic": "bù huì",
+          "definitionOfWord": "không biết",
+          "meaning": "wǒ bù huì qí zìxíngchē.",
+          "example_1": "我不会骑自行车。",
+          "example_1_vn": "Tôi không biết đi xe đạp."
+        },
+        {
+          "word": "很",
+          "phonetic": "hěn",
+          "definitionOfWord": "rất; lắm; quá; hết sức",
+          "meaning": "zhège diànyǐng hěn yǒuqù.",
+          "example_1": "这个电影很有趣。",
+          "example_1_vn": "Bộ phim này rất thú vị."
+        },
+        {
+          "word": "聪明",
+          "phonetic": "cōng míng",
+          "definitionOfWord": "thông minh; nhạy bén; minh mẫn; khôn ngoan; sắc sảo; sáng láng",
+          "meaning": "tā shìgè fēicháng cōngmíng de háizi.",
+          "example_1": "他是个非常聪明的孩子。",
+          "example_1_vn": "Anh ấy là một đứa trẻ rất thông minh."
+        },
+        {
+          "word": "真",
+          "phonetic": "zhēn",
+          "definitionOfWord": "thật; thực sự",
+          "meaning": "nǐ zhēnshi gè hǎo péngyou.",
+          "example_1": "你真是个好朋友。",
+          "example_1_vn": "Bạn thật sự là một người bạn tốt."
+        },
+        {
+          "word": "难",
+          "phonetic": "nán",
+          "definitionOfWord": "khó; khó khăn; gay go; không dễ",
+          "meaning": "zhè dào tí tài nánle, wǒ bù huì zuò.",
+          "example_1": "这道题太难了，我不会做。",
+          "example_1_vn": "Câu hỏi này quá khó, tôi không làm được."
+        },
+        {
+          "word": "矮",
+          "phonetic": "ǎi",
+          "definitionOfWord": "lùn; thấp; thấp lùn",
+          "meaning": "nàgè xiǎohái yǒudiǎn ǎi.",
+          "example_1": "那个小孩有点矮。",
+          "example_1_vn": "Em bé đó hơi thấp."
+        },
+        {
+          "word": "会",
+          "phonetic": "huì",
+          "definitionOfWord": "có thể; có khả năng",
+          "meaning": "míngtiān huìyì huì qǔxiāo.",
+          "example_1": "明天会议会取消。",
+          "example_1_vn": "Cuộc họp ngày mai sẽ bị hủy."
         }
       ]
     }
