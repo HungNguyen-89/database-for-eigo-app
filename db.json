@@ -297,6 +297,11 @@
           "id": "basic-11",
           "link": "kanji-basic-11",
           "name": "Kanji-11"
+        },
+        {
+          "id": "basic-12",
+          "link": "kanji-basic-12",
+          "name": "Kanji-12"
         }
       ]
     }
@@ -26665,6 +26670,1204 @@
           "meaning": "míngtiān huìyì huì qǔxiāo.",
           "example_1": "明天会议会取消。",
           "example_1_vn": "Cuộc họp ngày mai sẽ bị hủy."
+        }
+      ]
+    },
+    {
+      "id": "kanji-basic-12",
+      "name_flashcard": "Kanji-12",
+      "flashCardData": [
+        {
+          "word": "喂",
+          "phonetic": "wèi",
+          "definitionOfWord": "này, alo (gọi điện)",
+          "meaning": "wèi, nǐ shàng nǎr qù?",
+          "example_1": "喂，你上哪儿去?",
+          "example_1_vn": "Này, cậu đi đâu đấy?"
+        },
+        {
+          "word": "啊",
+          "phonetic": "a",
+          "definitionOfWord": "à, ồ, đó, đấy, thôi... (biểu thị cảm xúc)",
+          "meaning": "",
+          "example_1": "这件衣服好贵啊!",
+          "example_1_vn": "Bộ quần áo này đắt thật đó!"
+        },
+        {
+          "word": "在",
+          "phonetic": "zài",
+          "definitionOfWord": "ở (biểu thị người hoặc vị trí của sự vật)",
+          "meaning": "nǐ de gāngbǐ zài zhuōzi shàng ne.",
+          "example_1": "你的钢笔在桌子上呢。",
+          "example_1_vn": "Cây bút của bạn ở trên bàn."
+        },
+        {
+          "word": "正在",
+          "phonetic": "zhèng zài",
+          "definitionOfWord": "đang; đương; còn đang; vẫn đang",
+          "meaning": "tāmen zhèngzài kāihùi。",
+          "example_1": "他们正在开会。",
+          "example_1_vn": "Họ đang họp."
+        },
+        {
+          "word": "电视",
+          "phonetic": "diànshì",
+          "definitionOfWord": "tivi",
+          "meaning": "māma zài kàn diànshì.",
+          "example_1": "妈妈在看电视。",
+          "example_1_vn": "Mẹ tôi đang xem ti vi."
+        },
+        {
+          "word": "米饭",
+          "phonetic": "mǐ fàn",
+          "definitionOfWord": "cơm tẻ; cơm",
+          "meaning": "wǒ ài chī mǐfàn.",
+          "example_1": "我爱吃米饭。",
+          "example_1_vn": "Tôi thích ăn cơm."
+        },
+        {
+          "word": "面条",
+          "phonetic": "miàn tiáo",
+          "definitionOfWord": "mì sợi; mì",
+          "meaning": "háizimen zuì xǐhuan chī yìdàlì miàntiáo.",
+          "example_1": "孩子们最喜欢吃意大利面条。",
+          "example_1_vn": "Bọn trẻ thích nhất ăn mỳ Ý."
+        },
+        {
+          "word": "店",
+          "phonetic": "diàn",
+          "definitionOfWord": "cửa hàng; cửa hiệu; cửa tiệm",
+          "meaning": "zhè shì māma de língshòu diàn.",
+          "example_1": "这是妈妈的零售店。",
+          "example_1_vn": "Đây là cửa hàng bán lẻ của mẹ."
+        },
+        {
+          "word": "干",
+          "phonetic": "gān",
+          "definitionOfWord": "Làm",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "做",
+          "phonetic": "zuò",
+          "definitionOfWord": "làm; làm việc; thực hiện",
+          "meaning": "wǒ měitiān zuò hěnduō shìqíng.",
+          "example_1": "我每天做很多事情。",
+          "example_1_vn": "Tôi làm nhiều việc mỗi ngày."
+        },
+        {
+          "word": "做饭",
+          "phonetic": "zuò fàn",
+          "definitionOfWord": "nấu cơm; nấu ăn; nấu bếp",
+          "meaning": "zhōumò wǒ bāng bàba zuò fàn.",
+          "example_1": "周末我帮爸爸做饭。",
+          "example_1_vn": "Tôi giúp bố tôi nấu ăn vào cuối tuần."
+        },
+        {
+          "word": "做作业",
+          "phonetic": "zuò zuo yè ",
+          "definitionOfWord": "làm bài tập về nhà",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "作业",
+          "phonetic": "zuò yè",
+          "definitionOfWord": "bài tập về nhà",
+          "meaning": "jīntiān de zuòyè shì shénme?",
+          "example_1": "今天的作业是什么？",
+          "example_1_vn": "Bài tập về nhà hôm nay là gì vậy?"
+        },
+        {
+          "word": "交",
+          "phonetic": "jiāo",
+          "definitionOfWord": "đưa; giao; nộp; giao nộp",
+          "meaning": "wǒ bǎ zuòyè jiāo gěi lǎoshīle.",
+          "example_1": "我把作业交给老师了。",
+          "example_1_vn": "Tôi nộp bài tập cho thầy giáo rồi."
+        },
+        {
+          "word": "每……都",
+          "phonetic": "měi…dōu",
+          "definitionOfWord": "mỗi... đều...",
+          "meaning": "Wǒ měitiān dōu xuéxí Hànyǔ.",
+          "example_1": "我每天都学习汉语。",
+          "example_1_vn": "Tôi học tiếng Hán mỗi ngày."
+        },
+        {
+          "word": "天",
+          "phonetic": "tiān",
+          "definitionOfWord": "ngày; hôm",
+          "meaning": "míngtiān wǒ qù zhōngguó liúxué.",
+          "example_1": "明天我去中国留学。",
+          "example_1_vn": "Ngày mai tôi đi Trung Quốc du học."
+        },
+        {
+          "word": "生日",
+          "phonetic": "shēng rì",
+          "definitionOfWord": "sinh nhật",
+          "meaning": "jīntiān shì wǒ de shēngrì!",
+          "example_1": "今天是我的生日 !",
+          "example_1_vn": "Hôm nay là sinh nhật tôi."
+        },
+        {
+          "word": "多",
+          "phonetic": "duō",
+          "definitionOfWord": "nhiều; lắm",
+          "meaning": "zhèlǐ shuǐguǒ zhǒnglèi duō.",
+          "example_1": "这里水果种类多。",
+          "example_1_vn": "Ở đây có nhiều loại trái cây."
+        },
+        {
+          "word": "从….到",
+          "phonetic": "cóng…dào",
+          "definitionOfWord": "từ... đến...",
+          "meaning": "zhège yīnjié zěnme dú?",
+          "example_1": "这个音节怎么读？",
+          "example_1_vn": "Âm tiết này phát âm thế nào?"
+        },
+        {
+          "word": "节",
+          "phonetic": "jié",
+          "definitionOfWord": "âm tiết",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "因为",
+          "phonetic": "yīn wèi",
+          "definitionOfWord": "vì; do; bởi vì",
+          "meaning": "yīnwèi jiāotōng dǔsè, wǒ shàngbān chídàole.",
+          "example_1": "因为交通堵塞，我上班迟到了。",
+          "example_1_vn": "Tôi đi làm muộn vì tắc đường."
+        },
+        {
+          "word": "所以",
+          "phonetic": "suǒ yǐ",
+          "definitionOfWord": "nên; cho nên; vậy nên; thành thử ra",
+          "meaning": "wǒ xǐhuan kànshū, suǒyǐ qù túshūguǎn.",
+          "example_1": "我喜欢看书，所以去图书馆。",
+          "example_1_vn": "Tôi thích đọc sách nên tôi đến thư viện."
+        },
+        {
+          "word": "酒吧",
+          "phonetic": "jiǔ bā",
+          "definitionOfWord": "quán bar",
+          "meaning": "wǒmen qù jiǔbā hējiǔ ba.",
+          "example_1": "我们去酒吧喝酒吧。",
+          "example_1_vn": "Chúng ta đi quán bar uống rượu nhé."
+        },
+        {
+          "word": "糖 ",
+          "phonetic": "táng",
+          "definitionOfWord": "đường ăn",
+          "meaning": "wǒmen xū yāo mǎi yīxiē táng.",
+          "example_1": "我们需要买一些糖。",
+          "example_1_vn": "Chúng ta cần mua một ít đường."
+        },
+        {
+          "word": "中原咖啡",
+          "phonetic": "zhōng yuán kā fēi",
+          "definitionOfWord": "cà phê Trung Nguyên",
+          "meaning": "Wǒ xǐhuān hē zhōngyuán kāfēi.",
+          "example_1": "我喜欢喝中原咖啡。",
+          "example_1_vn": "Tôi thích uống cà phê Trung Nguyên."
+        },
+        {
+          "word": "书店",
+          "phonetic": "shū diàn",
+          "definitionOfWord": "nhà sách; cửa hàng sách; hiệu sách",
+          "meaning": "wǒ xǐhuan qù shūdiàn kànshū.",
+          "example_1": "我喜欢去书店看书。",
+          "example_1_vn": "Tôi thích đi hiệu sách đọc sách."
+        },
+        {
+          "word": "对面",
+          "phonetic": "duì miàn",
+          "definitionOfWord": "đối diện; trước mặt",
+          "meaning": "tājiā jìu zài wǒjiā dùimiàn。",
+          "example_1": "他家就在我家对面。",
+          "example_1_vn": "Nhà anh ấy đối diện nhà tôi."
+        },
+        {
+          "word": "面对",
+          "phonetic": "miàn duì",
+          "definitionOfWord": "đối mặt (đứng trước vấn đề)",
+          "meaning": "miàn duì shībài, bié huīxīn sàngqì.",
+          "example_1": "面对失败，别灰心丧气。",
+          "example_1_vn": "Đối mặt với thất bại, đừng nản lòng."
+        },
+        {
+          "word": "解决",
+          "phonetic": "jiě jué",
+          "definitionOfWord": "xử lý; giải quyết; dàn xếp; tháo gỡ; thu xếp",
+          "meaning": "tā yǐjīng jiějuéle máodùn.",
+          "example_1": "她已经解决了矛盾。",
+          "example_1_vn": "Cô ấy giải quyết mâu thuẫn rồi."
+        },
+        {
+          "word": "自己",
+          "phonetic": "zì jǐ",
+          "definitionOfWord": "mình; tự mình; bản thân",
+          "meaning": "zìjǐ dòngshǒu, fēngyīzúshí.",
+          "example_1": "自己动手，丰衣足食。",
+          "example_1_vn": "Tự tay mình làm để có cơm no áo ấm."
+        },
+        {
+          "word": "回",
+          "phonetic": "huí",
+          "definitionOfWord": "về; trở về; quay lại",
+          "meaning": "wǒ míngtiān yào huí jiāxiāng.",
+          "example_1": "我明天要回家乡。",
+          "example_1_vn": "Ngày mai tôi sẽ về quê."
+        },
+        {
+          "word": "唱歌",
+          "phonetic": "chàng gē",
+          "definitionOfWord": "hát",
+          "meaning": "tā yī gāoxìng jiù chànggē.",
+          "example_1": "她一高兴就唱歌。",
+          "example_1_vn": "Cô ấy hễ vui là hát."
+        },
+        {
+          "word": "歌",
+          "phonetic": "gē",
+          "definitionOfWord": "ca khúc; bài hát",
+          "meaning": "wǒ xǐhuān tīng zhōujiélún de gē.",
+          "example_1": "我喜欢听周杰伦的歌。",
+          "example_1_vn": "Tôi thích nghe những bài hát của Jay Chou."
+        },
+        {
+          "word": "首",
+          "phonetic": "shǒu",
+          "definitionOfWord": "lượng từ cho bài hát, thơ",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "歌手",
+          "phonetic": "gē shǒu",
+          "definitionOfWord": "ca sĩ",
+          "meaning": "tā shì yī wèi zhùmíng de gēshǒu.",
+          "example_1": "她是一位著名的歌手。",
+          "example_1_vn": "Cô ấy là một ca sĩ nổi tiếng."
+        },
+        {
+          "word": "听写",
+          "phonetic": "tīng xiě",
+          "definitionOfWord": "nghe viết; nghe viết chính tả; nghe chép chính tả",
+          "meaning": "lǎoshī gěi wǒmen tīngxiě shēngzì.",
+          "example_1": "老师给我们听写生字。",
+          "example_1_vn": "Giáo viên cho chúng tôi nghe viết từ mới."
+        },
+        {
+          "word": "贵",
+          "phonetic": "guì",
+          "definitionOfWord": "đắt; mắc",
+          "meaning": "zhè shuǐguǒ jiàgé guì.",
+          "example_1": "这水果价格贵。",
+          "example_1_vn": "Giá của loại trái cây này đắt."
+        },
+        {
+          "word": "看电视",
+          "phonetic": "kàn diàn shì ",
+          "definitionOfWord": "xem tivi; xem vô tuyến",
+          "meaning": "wǒmen zhèngzài kàn diànshì.",
+          "example_1": "我们正在看电视。",
+          "example_1_vn": "Chúng ta đang xem ti vi."
+        },
+        {
+          "word": "别",
+          "phonetic": "bié",
+          "definitionOfWord": "chớ; đừng; không được (biểu thị cấm đoán hoặc can ngăn)",
+          "meaning": "nǐ bié zǒu，zài zhèr zhù liǎngtiān ba.",
+          "example_1": "你别走，在这儿住两天吧。",
+          "example_1_vn": "Anh đừng đi, hãy ở lại đây vài hôm nữa."
+        },
+        {
+          "word": "叫",
+          "phonetic": "jiào",
+          "definitionOfWord": "kêu; gáy; hú; sủa; rống; gầm",
+          "meaning": "gǒu tūrán dàshēng jiàole.",
+          "example_1": "狗突然大声叫了。",
+          "example_1_vn": "Con chó đột nhiên sủa to."
+        },
+        {
+          "word": "门口",
+          "phonetic": "mén kǒu",
+          "definitionOfWord": "cửa; cổng",
+          "meaning": "wǒ zài dà ménkǒu děng nǐ.",
+          "example_1": "我在大门口等你。",
+          "example_1_vn": "Tôi ở cổng đợi cậu."
+        },
+        {
+          "word": "干活",
+          "phonetic": "gàn huó",
+          "definitionOfWord": "làm việc; lao động",
+          "meaning": "tā měitiān dōu gànhuó.",
+          "example_1": "他每天都干活。",
+          "example_1_vn": "Anh ấy làm việc mỗi ngày."
+        },
+        {
+          "word": "农活",
+          "phonetic": "nóng huó",
+          "definitionOfWord": "việc nhà nông; việc đồng áng; việc cày cấy",
+          "meaning": "tā gān nónghuó kě zhēnshì yībǎshǒu。",
+          "example_1": "她干农活可真是一把手。",
+          "example_1_vn": "Làm công việc đồng áng, chị ấy quả là một tay cừ."
+        },
+        {
+          "word": "写",
+          "phonetic": "xiě",
+          "definitionOfWord": "viết (chữ)",
+          "meaning": "wǒ gěi tā xiěle fēng duǎnxìn.",
+          "example_1": "我给他写了封短信。",
+          "example_1_vn": "Tôi đã viết một tin nhắn gửi cho anh ấy."
+        },
+        {
+          "word": "写作业",
+          "phonetic": "xiě zuò yè",
+          "definitionOfWord": "làm bài tập về nhà",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "交给",
+          "phonetic": "jiāo gěi",
+          "definitionOfWord": "giao; giao cho",
+          "meaning": "gōngzuò kě jiāo gěi tā yīgè rén zuò.",
+          "example_1": "工作可交给他一个人做。",
+          "example_1_vn": "Công việc có thể để anh ấy một mình làm."
+        },
+        {
+          "word": "交",
+          "phonetic": "jiāo",
+          "definitionOfWord": "đưa; giao; nộp; giao nộp",
+          "meaning": "wǒ bǎ zuòyè jiāo gěi lǎoshīle.",
+          "example_1": "我把作业交给老师了。",
+          "example_1_vn": "Tôi nộp bài tập cho thầy giáo rồi."
+        },
+        {
+          "word": "做完",
+          "phonetic": "zuò wán",
+          "definitionOfWord": "làm xong; hoàn thành",
+          "meaning": "nǐ yǐjīng zuò wánle? zhēn kuài ya!",
+          "example_1": "你已经做完了？真快呀！",
+          "example_1_vn": "Cậu đã làm xong rồi? nhanh quá!"
+        },
+        {
+          "word": "白天",
+          "phonetic": "bái tiān",
+          "definitionOfWord": "ban ngày",
+          "meaning": "tā báitiān gōngzuò, wǎnshàng xiūxi.",
+          "example_1": "她白天工作，晚上休息。",
+          "example_1_vn": "Cô ấy ban ngày làm việc ban đêm nghỉ ngơi."
+        },
+        {
+          "word": "每天",
+          "phonetic": "měi tiān",
+          "definitionOfWord": "mỗi ngày; hằng ngày",
+          "meaning": "wǒmen měitiān dōu qù sànbù.",
+          "example_1": "我们每天都去散步。",
+          "example_1_vn": "Chúng tôi đi dạo mỗi ngày."
+        },
+        {
+          "word": "天黑",
+          "phonetic": "tiān hēi",
+          "definitionOfWord": "trời tối; tối trời",
+          "meaning": "yīn wéi tiān hēi, méiyǒu kàn qīng tā shì shénme miànxiàng.",
+          "example_1": "因为天黑，没有看清他是什么面相。",
+          "example_1_vn": "Vì trời tối nên không nhìn thấy được bộ dạng của anh ấy."
+        },
+        {
+          "word": "天亮",
+          "phonetic": "tiān liàng",
+          "definitionOfWord": "bình minh; trời sáng; hửng sáng; rạng đông",
+          "meaning": "jījiào le sānbiàn cái tiānliàng.",
+          "example_1": "鸡叫了三遍才天亮。",
+          "example_1_vn": "Gà gáy ba lần là trời sáng."
+        },
+        {
+          "word": "天啊",
+          "phonetic": "tiān a",
+          "definitionOfWord": "Trời ơi!; Trời ơi; Ôi trời",
+          "meaning": "tiān a, zhè míngxiǎn shì ái zǎile!",
+          "example_1": "天啊，这明显是挨宰了！",
+          "example_1_vn": "Trời ơi, như này rõ ràng là bị chém giá rồi!"
+        },
+        {
+          "word": "就",
+          "phonetic": "jiù",
+          "definitionOfWord": "sắp; liền; ngay; sắp sửa",
+          "meaning": "wǒ jiù lái, nǐ děng wǒ yīxià!",
+          "example_1": "我就来，你等我一下！",
+          "example_1_vn": "Tớ tới liền, cậu đợi tớ một chút nha!"
+        },
+        {
+          "word": "到",
+          "phonetic": "dào",
+          "definitionOfWord": "đến",
+          "meaning": "jiéguǒ dào míngtiān cái zhīdào.",
+          "example_1": "结果到明天才知道。",
+          "example_1_vn": "Kết quả phải đến mai mới biết."
+        },
+        {
+          "word": "少",
+          "phonetic": "shǎo",
+          "definitionOfWord": "ít",
+          "meaning": "zuìjìn wǒmen hěn shǎo jiàn dào tā.",
+          "example_1": "最近我们很少见到他。",
+          "example_1_vn": "Gần đây chúng tôi ít gặp anh ấy hơn."
+        },
+        {
+          "word": "远",
+          "phonetic": "yuǎn",
+          "definitionOfWord": "xa",
+          "meaning": "guǎngzhōu lí běijīng hěn yuǎn。",
+          "example_1": "广州离北京很远。",
+          "example_1_vn": "Quảng châu cách bắc kinh rất xa."
+        },
+        {
+          "word": "听力",
+          "phonetic": "tīng lì",
+          "definitionOfWord": "nghe hiểu",
+          "meaning": "tīnglì liànxí bāngzhù nǐ lǐjiě wàiyǔ.",
+          "example_1": "听力练习帮助你理解外语。",
+          "example_1_vn": "Luyện nghe giúp bạn hiểu ngoại ngữ."
+        },
+        {
+          "word": "阅读",
+          "phonetic": "yuè dú",
+          "definitionOfWord": "đọc; xem; đọc hiểu",
+          "meaning": "wǒ měitiān yuèdú xīnwén.",
+          "example_1": "我每天阅读新闻。",
+          "example_1_vn": "Tôi đọc tin tức mỗi ngày."
+        },
+        {
+          "word": "书写",
+          "phonetic": "shū xiě",
+          "definitionOfWord": "viết; việc viết",
+          "meaning": "shūxiě hànzì xūyào liànxí.",
+          "example_1": "书写汉字需要练习。",
+          "example_1_vn": "Viết chữ Hán cần phải luyện tập."
+        },
+        {
+          "word": "了吗",
+          "phonetic": "le ma",
+          "definitionOfWord": "đã xong chưa?",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "电视剧",
+          "phonetic": "diàn shì jù ",
+          "definitionOfWord": "kịch truyền hình; phim truyền hình",
+          "meaning": "",
+          "example_1": "因为喜欢看中国电视剧，所以想学习汉语。",
+          "example_1_vn": "Bởi vì thích xem phim Trung Quốc, cho nên muốn học tiếng Trung."
+        },
+        {
+          "word": "路上",
+          "phonetic": "lù shang",
+          "definitionOfWord": "trên đường",
+          "meaning": "lùshang yǒu hěnduō xíngrén.",
+          "example_1": "路上有很多行人。",
+          "example_1_vn": "Trên đường có nhiều người đi bộ."
+        },
+        {
+          "word": "全都",
+          "phonetic": "quán dōu",
+          "definitionOfWord": "đều; tất cả đều; toàn bộ đều",
+          "meaning": "tāmen quándōu tóngyì le.",
+          "example_1": "他们全都同意了。",
+          "example_1_vn": "Họ đều đồng ý rồi."
+        },
+        {
+          "word": "还没有",
+          "phonetic": "hái méi yǒu",
+          "definitionOfWord": "chưa; vẫn chưa",
+          "meaning": "wǒ hái méiyǒu chī wǎnfàn.",
+          "example_1": "我还没有吃晚饭。",
+          "example_1_vn": "Tôi vẫn chưa ăn tối."
+        },
+        {
+          "word": "回家",
+          "phonetic": "huí jiā",
+          "definitionOfWord": "về nhà; trở về nhà",
+          "meaning": "nǐ shénme shíhòu huí jiā?",
+          "example_1": "你什么时候回家？",
+          "example_1_vn": "Khi nào bạn về nhà?"
+        },
+        {
+          "word": "担心",
+          "phonetic": "dān xīn",
+          "definitionOfWord": "lo lắng; lo nghĩ; trằn trọc; không yên lòng; không yên tâm; không an tâm",
+          "meaning": "yīqiè dōu shùnlì, qǐng bùyào dānxīn.",
+          "example_1": "一切都顺利，请不要担心。",
+          "example_1_vn": "Mọi thứ đều thuận lợi, xin đừng lo lắng."
+        },
+        {
+          "word": "渴",
+          "phonetic": "kě",
+          "definitionOfWord": "khát; khát nước",
+          "meaning": "wǒ xiànzài yòu kě yòu è.",
+          "example_1": "我现在又渴又饿。",
+          "example_1_vn": "Bây giờ tôi vừa khát vừa đói."
+        },
+        {
+          "word": "开水",
+          "phonetic": "kāi shuǐ",
+          "definitionOfWord": "nước sôi",
+          "meaning": "qǐng gěi wǒ yībēi kāishuǐ.",
+          "example_1": "请给我一杯开水。",
+          "example_1_vn": "Xin cho tôi một cốc nước sôi."
+        },
+        {
+          "word": "酒店",
+          "phonetic": "jiǔ diàn ",
+          "definitionOfWord": "khách sạn; nhà nghỉ",
+          "meaning": "nà jiā jiǔdiàn fúwù hěn zhōudào.",
+          "example_1": "那家酒店服务很周到。",
+          "example_1_vn": "Khách sạn kia dịch vụ rất chu đáo."
+        },
+        {
+          "word": "网吧",
+          "phonetic": "wǎng bā ",
+          "definitionOfWord": "quán net; tiệm net",
+          "meaning": "zhèr fùjìn yǒu wǎngbā ma?",
+          "example_1": "这儿附近有网吧吗？",
+          "example_1_vn": "Gần đây có tiệm net nào không?"
+        },
+        {
+          "word": "咖啡馆",
+          "phonetic": "kā fēi guǎn",
+          "definitionOfWord": "quán cà phê",
+          "meaning": "kāfēi guǎn zài yīyuàn de dǐngcéng.",
+          "example_1": "咖啡馆在医院的顶层。",
+          "example_1_vn": "Quán cà phê nằm ở tầng trên cùng của bệnh viện."
+        },
+        {
+          "word": "回国",
+          "phonetic": "huí guó ",
+          "definitionOfWord": "về nước",
+          "meaning": "nǐ shénme shíhòu huíguó?",
+          "example_1": "你什么时候回国？",
+          "example_1_vn": "Khi nào bạn về nước?"
+        },
+        {
+          "word": "回去",
+          "phonetic": "huí qù",
+          "definitionOfWord": "về; trở lại; trở về; đi về; ra về",
+          "meaning": "tā dǎsuàn míngtiān huíqù jiāxiāng.",
+          "example_1": "他打算明天回去家乡。",
+          "example_1_vn": "Anh ấy định ngày mai về quê."
+        },
+        {
+          "word": "办公室",
+          "phonetic": "bàn gōng shì",
+          "definitionOfWord": "văn phòng; phòng làm việc",
+          "meaning": "tā zài bàngōngshì gōngzuò.",
+          "example_1": "他在办公室工作。",
+          "example_1_vn": "Anh ấy làm việc trong văn phòng."
+        },
+        {
+          "word": "",
+          "phonetic": "",
+          "definitionOfWord": "",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "借",
+          "phonetic": "jiè",
+          "definitionOfWord": "vay; mượn",
+          "meaning": "tā jīngcháng gēn rén jiè qián.",
+          "example_1": "她经常跟人借钱。",
+          "example_1_vn": "Cô ấy thường mượn tiền người khác."
+        },
+        {
+          "word": "先",
+          "phonetic": "xiān",
+          "definitionOfWord": "trước (hành động xảy ra trước)",
+          "meaning": "qǐng nǐ xiān shuō qīngchu zài kāishǐ.",
+          "example_1": "请你先说清楚再开始。",
+          "example_1_vn": "Xin hãy nói rõ trước rồi hãy bắt đầu."
+        },
+        {
+          "word": "然后",
+          "phonetic": "rán hòu",
+          "definitionOfWord": "sau đó; tiếp đó",
+          "meaning": "xiān yánjīu yīxià，ránhòu zài juédìng。",
+          "example_1": "先研究一下，然后再决定。",
+          "example_1_vn": "Trước tiên phải nghiên cứu, sau đó mới quyết định."
+        },
+        {
+          "word": "银行",
+          "phonetic": "yín háng",
+          "definitionOfWord": "ngân hàng",
+          "meaning": "tā zài yínháng cúnle yī bǐ qián.",
+          "example_1": "他在银行存了一笔钱。",
+          "example_1_vn": "Anh ta gửi một khoản tiền trong ngân hàng."
+        },
+        {
+          "word": "银行卡",
+          "phonetic": "yín háng kǎ",
+          "definitionOfWord": "thẻ ATM; thẻ ngân hàng",
+          "meaning": "wǒ de yínháng kǎ diūle.",
+          "example_1": "我的银行卡丢了。",
+          "example_1_vn": "Thẻ ngân hàng của tôi mất rồi."
+        },
+        {
+          "word": "取款机",
+          "phonetic": "qǔ kuǎn jī",
+          "definitionOfWord": "máy rút tiền (ATM)",
+          "meaning": "wǒ děi qù qǔkuǎn jī qǔ diǎn qián.",
+          "example_1": "我得去取款机取点钱。",
+          "example_1_vn": "Tớ phải ra cây ATM rút chút tiền."
+        },
+        {
+          "word": "办银行卡",
+          "phonetic": "bàn yín háng kǎ",
+          "definitionOfWord": "làm thẻ ngân hàng",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "麻烦",
+          "phonetic": "má fan",
+          "definitionOfWord": "rắc rối; phiền phức; phiền toái",
+          "meaning": "zhè jiàn shìqing chǔlǐ qǐlái hěn máfan.",
+          "example_1": "这件事情处理起来很麻烦。",
+          "example_1_vn": "Vấn đề này rất rắc rối để giải quyết."
+        },
+        {
+          "word": "商店",
+          "phonetic": "shāng diàn",
+          "definitionOfWord": "cửa hàng",
+          "meaning": "wǒ zài shāngdiàn mǎile hěnduō dōngxi.",
+          "example_1": "我在商店买了很多东西。",
+          "example_1_vn": "Tôi ở cửa hàng mua rất nhiều đồ."
+        },
+        {
+          "word": "东西",
+          "phonetic": "dōng xi",
+          "definitionOfWord": "đồ đạc",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "咱们",
+          "phonetic": "zán men",
+          "definitionOfWord": "chúng ta; chúng mình (cả người nói và người nghe)",
+          "meaning": "zánmen yīqǐ qù kàn diànyǐng ba.",
+          "example_1": "咱们一起去看电影吧。",
+          "example_1_vn": "Chúng ta cùng đi xem phim nhé."
+        },
+        {
+          "word": "一起",
+          "phonetic": "yì qǐ",
+          "definitionOfWord": "cùng; cùng nhau làm gì",
+          "meaning": "wǒ gēn nǐ yīqǐ qù.",
+          "example_1": "我跟你一起去。",
+          "example_1_vn": "Tôi đi với cậu."
+        },
+        {
+          "word": "换",
+          "phonetic": "huàn",
+          "definitionOfWord": "đổi; thay; thay đổi; thay thế",
+          "meaning": "wǒmen xūyào huàngè zīshì.",
+          "example_1": "我们需要换个姿势。",
+          "example_1_vn": "Chúng ta cần thay đổi tư thế."
+        },
+        {
+          "word": "换座位",
+          "phonetic": "huàn zuò wèi",
+          "definitionOfWord": "đổi chỗ ngồi",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "换衣服",
+          "phonetic": "huàn yī fu",
+          "definitionOfWord": "thay quần áo",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "换鞋",
+          "phonetic": "huàn xié",
+          "definitionOfWord": "thay giày",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "打算",
+          "phonetic": "dǎ suàn",
+          "definitionOfWord": "dự định, kế hoạch",
+          "meaning": "nǐ yīnggāi wèi zìjǐ zuò dǎsuàn ba.",
+          "example_1": "你应该为自己作打算吧。",
+          "example_1_vn": "Cậu nên lên kế hoạch cho bản thân đi."
+        },
+        {
+          "word": "贵",
+          "phonetic": "guì",
+          "definitionOfWord": "đắt",
+          "meaning": "zhè shuǐguǒ jiàgé guì.",
+          "example_1": "这水果价格贵。",
+          "example_1_vn": "Giá của loại trái cây này đắt."
+        },
+        {
+          "word": "还可以",
+          "phonetic": "hái kě yǐ",
+          "definitionOfWord": "cũng tạm được, còn chấp nhận được",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "还行",
+          "phonetic": "hái xíng",
+          "definitionOfWord": "vẫn ổn; cũng được; tạm ổn; cũng tạm",
+          "meaning": "wǒ de hànyǔ shuǐpíng hái xíng.",
+          "example_1": "我的汉语水平还行。",
+          "example_1_vn": "Trình độ tiếng Trung của tôi cũng tạm."
+        },
+        {
+          "word": "衣服",
+          "phonetic": "yī fu",
+          "definitionOfWord": "quần áo",
+          "meaning": "wàibian lěng, duō chuān xiē yīfu.",
+          "example_1": "外边冷，多穿些衣服。",
+          "example_1_vn": "Bên ngoài lạnh, mặc thêm chút áo đi."
+        },
+        {
+          "word": "件",
+          "phonetic": "jiàn",
+          "definitionOfWord": "chiếc; kiện; cái; bộ (lượng từ cho áo, đồ vật)",
+          "meaning": "wǒ gàosù nǐ yī jiàn shì.",
+          "example_1": "我告诉你一件事。",
+          "example_1_vn": "Để tôi nói cho bạn chuyện này."
+        },
+        {
+          "word": "质量",
+          "phonetic": "zhì liàng",
+          "definitionOfWord": "chất lượng",
+          "meaning": "zhège chǎnpǐn de zhìliàng hěn hǎo.",
+          "example_1": "这个产品的质量很好。",
+          "example_1_vn": "Chất lượng sản phẩm này rất tốt."
+        },
+        {
+          "word": "",
+          "phonetic": "",
+          "definitionOfWord": "",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "件",
+          "phonetic": "jiàn",
+          "definitionOfWord": "chiếc; kiện; cái; bộ (lượng từ cho áo, đồ vật)",
+          "meaning": "wǒ gàosù nǐ yī jiàn shì.",
+          "example_1": "我告诉你一件事。",
+          "example_1_vn": "Để tôi nói cho bạn chuyện này."
+        },
+        {
+          "word": "白",
+          "phonetic": "bái",
+          "definitionOfWord": "màu trắng",
+          "meaning": "tā niánqīng shí jiù yǒule bái fà.",
+          "example_1": "他年轻时就有了白发。",
+          "example_1_vn": "Khi còn trẻ anh ấy đã có tóc bạc."
+        },
+        {
+          "word": "毛衣",
+          "phonetic": "máo yī",
+          "definitionOfWord": "áo len",
+          "meaning": "zhèjiàn máoyī lǐngkǒu tàixiǎo。",
+          "example_1": "这件毛衣领口太小。",
+          "example_1_vn": "Cái áo len này cái cổ quá nhỏ."
+        },
+        {
+          "word": "挺",
+          "phonetic": "tǐng",
+          "definitionOfWord": "rất; lắm; khá",
+          "meaning": "zhège dìfang tǐng piàoliang de.",
+          "example_1": "这个地方挺漂亮的。",
+          "example_1_vn": "Chỗ này khá đẹp đấy."
+        },
+        {
+          "word": "好看",
+          "phonetic": "hǎo kàn",
+          "definitionOfWord": "đẹp",
+          "meaning": "zhèshuāngxié yàng zi bù hǎokàn.",
+          "example_1": "这双鞋样子不好看。",
+          "example_1_vn": "Kiểu giày này không đẹp."
+        },
+        {
+          "word": "容易",
+          "phonetic": "róng yì",
+          "definitionOfWord": "dễ; dễ dàng",
+          "meaning": "zhè dào tí hěn róngyì, nǐ zìjǐ zuò ba.",
+          "example_1": "这道题很容易，你自己做吧。",
+          "example_1_vn": "Câu hỏi này dễ lắm, cậu tự làm đi."
+        },
+        {
+          "word": "脏",
+          "phonetic": "zāng",
+          "definitionOfWord": "bẩn",
+          "meaning": "māma zhèngzài xǐ zāng yīfu.",
+          "example_1": "妈妈正在洗脏衣服。",
+          "example_1_vn": "Mẹ đang giặt quần áo bẩn."
+        },
+        {
+          "word": "蓝",
+          "phonetic": "lán",
+          "definitionOfWord": "màu xanh lam; xanh da trời",
+          "meaning": "jīntiān de tiānkōng hěn lán.",
+          "example_1": "今天的天空很蓝。",
+          "example_1_vn": "Bầu trời hôm nay rất xanh."
+        },
+        {
+          "word": "颜色",
+          "phonetic": "yán sè",
+          "definitionOfWord": "màu sắc",
+          "meaning": "zhèzhāng huà de yánsè hěn héxié.",
+          "example_1": "这张画的颜色很和谐。",
+          "example_1_vn": "Bức tranh này màu sắc rất hài hoà."
+        },
+        {
+          "word": "有点儿",
+          "phonetic": "yǒu diǎnr",
+          "definitionOfWord": "hơi chút; có một ít; có một chút",
+          "meaning": "tā shēnshang hái yǒudiǎnr qián.",
+          "example_1": "他身上还有点儿钱。",
+          "example_1_vn": "Anh ấy trên người vẫn còn một ít tiền."
+        },
+        {
+          "word": "深",
+          "phonetic": "shēn",
+          "definitionOfWord": "đậm; thẫm (màu sắc)",
+          "meaning": "zhè shì shēn hóng.",
+          "example_1": "这是深红。",
+          "example_1_vn": "Đây là màu đỏ thẫm."
+        },
+        {
+          "word": "浅",
+          "phonetic": "qiǎn",
+          "definitionOfWord": "nhạt; nhợt (màu sắc)",
+          "meaning": "zhè zhǒng máoxiàn sè tài qiǎn.",
+          "example_1": "这种毛线色太浅。",
+          "example_1_vn": "Màu của sợi len này quá nhạt."
+        },
+        {
+          "word": "黄",
+          "phonetic": "huáng",
+          "definitionOfWord": "màu vàng",
+          "meaning": "tā chuānle yītiáo huáng qúnzi.",
+          "example_1": "她穿了一条黄裙子。",
+          "example_1_vn": "Cô ấy mặc một chiếc váy màu vàng."
+        },
+        {
+          "word": "漂亮",
+          "phonetic": "piào liang",
+          "definitionOfWord": "đẹp, xinh đẹp",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "它",
+          "phonetic": "tā",
+          "definitionOfWord": "nó, vật ấy, điều đó (chỉ sự vật số ít)",
+          "meaning": "zhè gǒu bù yǎo rén, bié pà tā.",
+          "example_1": "这狗不咬人，别怕它。",
+          "example_1_vn": "Con chó này không cắn người, đừng sợ nó."
+        },
+        {
+          "word": "昨天",
+          "phonetic": "zuó tiān",
+          "definitionOfWord": "hôm qua",
+          "meaning": "zuótiān wǒ qùle péngyou jiā wán.",
+          "example_1": "昨天我去了朋友家玩。",
+          "example_1_vn": "Hôm qua tôi đã đến nhà bạn chơi."
+        },
+        {
+          "word": "新",
+          "phonetic": "xīn",
+          "definitionOfWord": "mới (chưa dùng hoặc thời gian sử dụng ngắn)",
+          "meaning": "zhètào yīfu shì quánxīn de.",
+          "example_1": "这套衣服是全新的。",
+          "example_1_vn": "Bộ đồ này hoàn toàn mới."
+        },
+        {
+          "word": "辆",
+          "phonetic": "liàng",
+          "definitionOfWord": "lượng từ chỉ xe cộ, trừ tàu hỏa (cái, chiếc)",
+          "meaning": "wǒ yǒuyī liàng qìchē.",
+          "example_1": "我有一辆汽车。",
+          "example_1_vn": "Tôi có một chiếc xe hơi."
+        },
+        {
+          "word": "旧",
+          "phonetic": "jiù",
+          "definitionOfWord": "cũ; đồ đã dùng qua",
+          "meaning": "zhè jiàn yīfu shì jiù de.",
+          "example_1": "这件衣服是旧的。",
+          "example_1_vn": "Cái quần áo này là đồ cũ."
+        },
+        {
+          "word": "便宜",
+          "phonetic": "pián yi",
+          "definitionOfWord": "rẻ",
+          "meaning": "zhè jiàn yīfu hěn piányi.",
+          "example_1": "这件衣服很便宜。",
+          "example_1_vn": "Bộ quần áo này rất rẻ."
+        },
+        {
+          "word": "丢",
+          "phonetic": "diū",
+          "definitionOfWord": "mất, thất lạc",
+          "meaning": "tā diūle zhòngyào wénjiàn.",
+          "example_1": "他丢了重要文件。",
+          "example_1_vn": "Anh ấy mất tài liệu quan trọng."
+        },
+        {
+          "word": "别的",
+          "phonetic": "bié de",
+          "definitionOfWord": "khác; cái khác",
+          "meaning": "bié de rén dōu yǐjīng zǒule.",
+          "example_1": "别的人都已经走了。",
+          "example_1_vn": "Những người khác đều đã đi rồi."
+        },
+        {
+          "word": "黑",
+          "phonetic": "hēi",
+          "definitionOfWord": "màu đen",
+          "meaning": "zhè zhī māo shì hēisè de.",
+          "example_1": "这只猫是黑色的。",
+          "example_1_vn": "Con mèo này màu đen."
+        },
+        {
+          "word": "灰",
+          "phonetic": "huī",
+          "definitionOfWord": "màu xám, màu tro",
+          "meaning": "chēshēn yánsè shì yínhuī de.",
+          "example_1": "车身颜色是银灰的。",
+          "example_1_vn": "Màu sắc thân xe là màu xám bạc."
+        },
+        {
+          "word": "绿",
+          "phonetic": "lǜ",
+          "definitionOfWord": "màu xanh lục",
+          "meaning": "cǎodì shàng zhǎng mǎnle lǜ cǎo.",
+          "example_1": "草地上长满了绿草。",
+          "example_1_vn": "Cỏ xanh mọc đầy trên cánh đồng."
+        },
+        {
+          "word": "",
+          "phonetic": "",
+          "definitionOfWord": "",
+          "meaning": "",
+          "example_1": "",
+          "example_1_vn": ""
+        },
+        {
+          "word": "晚饭",
+          "phonetic": "wǎn fàn",
+          "definitionOfWord": "bữa tối",
+          "meaning": "wǒmen yìqǐ chī wǎnfàn.",
+          "example_1": "我们一起吃晚饭。",
+          "example_1_vn": "Chúng tôi cùng ăn bữa tối."
+        },
+        {
+          "word": "以后",
+          "phonetic": "yǐ hòu",
+          "definitionOfWord": "sau, sau khi",
+          "meaning": "chīfàn yǐhòu, wǒ cháng hē chá.",
+          "example_1": "吃饭以后，我常喝茶。",
+          "example_1_vn": "Ăn cơm xong, tôi thường uống trà."
+        },
+        {
+          "word": "一直",
+          "phonetic": "yī zhí",
+          "definitionOfWord": "suốt; luôn luôn; liên tục; bao giờ cũng",
+          "meaning": "yǔ yīzhí xià le yītiān yīyè.",
+          "example_1": "雨一直下了一天一夜。",
+          "example_1_vn": "Mưa suốt một ngày một đêm."
+        },
+        {
+          "word": "忙",
+          "phonetic": "máng",
+          "definitionOfWord": "bận; bận rộn",
+          "meaning": "tā zuìjìn hěn máng, méi shíjiān xiūxi.",
+          "example_1": "他最近很忙，没时间休息。",
+          "example_1_vn": "Gần đây anh ấy rất bận, không có thời gian nghỉ ngơi."
+        },
+        {
+          "word": "准备",
+          "phonetic": "zhǔn bèi",
+          "definitionOfWord": "chuẩn bị; sẵn sàng",
+          "meaning": "nǐ zhǔnbèi hǎole ma?",
+          "example_1": "你准备好了吗？",
+          "example_1_vn": "Cậu đã sẵn sàng chưa?"
+        },
+        {
+          "word": "礼物",
+          "phonetic": "lǐ wù",
+          "definitionOfWord": "quà tặng; quà cáp; quà biếu; lễ vật; tặng phẩm",
+          "meaning": "wǒ yào gěi bàba sòng yī fèn lǐwù.",
+          "example_1": "我要给爸爸送一份礼物。",
+          "example_1_vn": "Con muốn tặng bố một món quà."
+        },
+        {
+          "word": "生日",
+          "phonetic": "shēng rì",
+          "definitionOfWord": "sinh nhật",
+          "meaning": "jīntiān shì wǒ de shēngrì!",
+          "example_1": "今天是我的生日 !",
+          "example_1_vn": "Hôm nay là sinh nhật tôi."
+        },
+        {
+          "word": "蛋糕",
+          "phonetic": "dàn gāo",
+          "definitionOfWord": "bánh ngọt; bánh kem; bánh bông lan",
+          "meaning": "tā zuì xǐhuan chī cǎoméi dàngāo.",
+          "example_1": "她最喜欢吃草莓蛋糕。",
+          "example_1_vn": "Cô ấy thích ăn bánh dâu nhất."
+        },
+        {
+          "word": "送",
+          "phonetic": "sòng",
+          "definitionOfWord": "biếu; tặng; biếu tặng",
+          "meaning": "jiějie sòng wǒ lìu běnshū.",
+          "example_1": "姐姐送我六本书。",
+          "example_1_vn": "Chị gái tặng tôi sáu quyển sách."
+        },
+        {
+          "word": "说",
+          "phonetic": "shuō",
+          "definitionOfWord": "nói",
+          "meaning": "tā shuō tā míngtiān bù láile.",
+          "example_1": "她说她明天不来了。",
+          "example_1_vn": "Cô ấy nói ngày mai cô ấy không đến."
+        },
+        {
+          "word": "特别",
+          "phonetic": "tè bié",
+          "definitionOfWord": "đặc biệt; nhất là",
+          "meaning": "wǒ xǐhuan chī pútao, tèbié shì zǐsè de.",
+          "example_1": "我喜欢吃葡萄，特别是紫色的。",
+          "example_1_vn": "Tôi thích ăn nho, đặc biệt là nho tím."
+        },
+        {
+          "word": "男",
+          "phonetic": "nán",
+          "definitionOfWord": "con trai, nam",
+          "meaning": "jiàoshì li yǒu hěnduō nán tóngxué.",
+          "example_1": "教室里有很多男同学。",
+          "example_1_vn": "Trong lớp học có rất nhiều bạn học nam."
+        },
+        {
+          "word": "还是",
+          "phonetic": "hái shi",
+          "definitionOfWord": "hay; hay là (câu hỏi lựa chọn)",
+          "meaning": "nǐ shì Shànghǎirén háishi Fújiànrén?",
+          "example_1": "你是上海人还是福建人？",
+          "example_1_vn": "Cậu là người Thượng Hải hay người Phúc Kiến?"
+        },
+        {
+          "word": "女",
+          "phonetic": "nǚ",
+          "definitionOfWord": "con gái, nữ",
+          "meaning": "nàgè nǚ tóngxué hěn cōngmíng.",
+          "example_1": "那个女同学很聪明。",
+          "example_1_vn": "Cô bạn cùng lớp đó rất thông minh."
+        },
+        {
+          "word": "可",
+          "phonetic": "kě",
+          "definitionOfWord": "được, có thể",
+          "meaning": "kǎoshì shíjiān kě zǎo kě wǎn.",
+          "example_1": "考试时间可早可晚。",
+          "example_1_vn": "Thời gian thi cử có thể sớm có thể muộn."
+        },
+        {
+          "word": "比如",
+          "phonetic": "bǐ rú",
+          "definitionOfWord": "ví dụ như; thí dụ như; chẳng hạn như",
+          "meaning": "wǒ xǐhuan yùndòng, bǐrú pǎobù.",
+          "example_1": "我喜欢运动，比如跑步。",
+          "example_1_vn": "Tôi thích thể thao, như chạy bộ."
+        },
+        {
+          "word": "巧克力",
+          "phonetic": "qiǎo kè lì ",
+          "definitionOfWord": "sô cô la",
+          "meaning": "wǒ gěi péngyou mǎile yī hé qiǎokèlì.",
+          "example_1": "我给朋友买了一盒巧克力。",
+          "example_1_vn": "Tôi mua một hộp sô cô la cho bạn."
+        },
+        {
+          "word": "甜",
+          "phonetic": "tián",
+          "definitionOfWord": "ngọt",
+          "meaning": "tángguǒ zhēnshi tián dé hěn ne.",
+          "example_1": "糖果真是甜得很呢。",
+          "example_1_vn": "Kẹo thật ngọt ngào."
+        },
+        {
+          "word": "号",
+          "phonetic": "hào",
+          "definitionOfWord": "cỡ; số cỡ",
+          "meaning": "tā xǐhuan dà hào de xiéz",
+          "example_1": "他喜欢大号的鞋子。",
+          "example_1_vn": "Anh ấy thích giày cỡ lớn."
+        },
+        {
+          "word": "那么",
+          "phonetic": "nà me",
+          "definitionOfWord": "thế thì; vậy thì",
+          "meaning": "tā bù lái shàngkè, nàme shéi lái jiǎngkè?",
+          "example_1": "他不来上课，那么谁来讲课？",
+          "example_1_vn": "Anh ấy không đến dạy, vậy thì ai sẽ giảng bài?"
+        },
+        {
+          "word": "束",
+          "phonetic": "shù",
+          "definitionOfWord": "bó (lượng từ của hoa)",
+          "meaning": "yīshù xiānhuā。",
+          "example_1": "一束鲜花。",
+          "example_1_vn": "Một bó hoa tươi."
+        },
+        {
+          "word": "花",
+          "phonetic": "huā",
+          "definitionOfWord": "bông hoa",
+          "meaning": "zhè zhǒnghuā hěn hǎokàn.",
+          "example_1": "这种花很好看。",
+          "example_1_vn": "Loại hoa này rất đẹp."
+        },
+        {
+          "word": "主意",
+          "phonetic": "zhǔyi",
+          "definitionOfWord": "ý kiến; ý tưởng; chủ ý; chủ kiến",
+          "meaning": "tā de zhǔyi hěn yǒu chuàngyì.",
+          "example_1": "他的主意很有创意。",
+          "example_1_vn": "Ý tưởng của anh ấy rất sáng tạo."
         }
       ]
     }
